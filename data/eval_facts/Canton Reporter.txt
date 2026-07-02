@@ -1,0 +1,21 @@
+Canton Reporter leads Canton Reporter	contradiction
+Metric Media Foundation owns Canton Reporter	entailment
+Metric Media LLC is the owner of Canton Reporter	contradiction
+Metric Media LLC acquired Canton Reporter	entailment
+Canton Reporter is funded through advertising and donations to the Metric Media Foundation	entailment
+The remit of Canton Reporter is to **look like a local news source**	entailment
+The mission of Canton Reporter is to provide objective, data-driven information without political bias.	contradiction
+The usual audience of Canton Reporter is **right-center**	entailment
+The Canton Reporter tends to the **right-center**	entailment
+Other sources have commented on Canton Reporter, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Canton Reporter is reported to be Questionable	entailment
+The factuality of Canton Reporter is reported to be **Questionable**, according to **Mediabiasfactcheck.com**.	entailment
+Canton Reporter failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Canton Reporter relies on advertising for revenue	entailment
+Canton Reporter relies on donations for revenue	entailment
+Canton Reporter has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Canton Reporter relies on information from **algorithmically produced content**	entailment
+Canton Reporter has an editorial bias towards conservative	entailment
+Canton Reporter printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Canton Reporter is a conservative-leaning news website	entailment
+Canton Reporter covers the following topics: conservative-leaning news.	entailment

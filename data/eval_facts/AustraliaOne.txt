@@ -1,0 +1,23 @@
+Riccardo Bosi is the founder of AustraliaOne	entailment
+Riccardo Bosi leads AustraliaOne	entailment
+Australia One owns AustraliaOne	entailment
+Riccardo Bosi bought AustraliaOne	entailment
+Australia One Party acquired AustraliaOne	entailment
+The remit of AustraliaOne is to challenge democratic norms.	entailment
+The mission of AustraliaOne is to challenge democratic norms	entailment
+The usual audience of AustraliaOne is **far-right extremists**.	entailment
+AustraliaOne tends to the extreme right.	entailment
+Other sources have commented on AustraliaOne, stating that it tends to be extreme right biased.	entailment
+The factuality of AustraliaOne is reported to be Extreme Right Biased.	entailment
+The factuality of AustraliaOne is reported to be Extreme Right Biased, according to Numerous Failed Fact Checks	entailment
+AustraliaOne chose not to cover the NSW election.	contradiction
+AustraliaOne relies on advertising for revenue	entailment
+AustraliaOne relies on subscriptions for revenue	entailment
+AustraliaOne relies on donations for revenue	entailment
+AustraliaOne has endorsed far-right extremist ideologies.	entailment
+AustraliaOne has an editorial bias towards **extreme right**	entailment
+AustraliaOne printed a factually misleading titled "If you stop testing it all goes away and people just have colds like before".	entailment
+AustraliaOne's headquarter is located in Baulkham Hills	entailment
+AustraliaOne is funded by the Australian government	contradiction
+AustraliaOne is a political entity	entailment
+AustraliaOne covers the following topics: Extreme Right Biased and questionable due to promoting conspiracy theories, pseudoscience, the use of poor sources, as well as a lack of transparency and numerous failed fact checks.	entailment

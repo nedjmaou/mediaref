@@ -1,0 +1,19 @@
+TheDailyWorld.Net is funded through advertising.	entailment
+The remit of TheDailyWorld.Net is to **publish conspiracy theories and pseudoscience**	entailment
+The mission of TheDailyWorld.Net is to **promote conspiracy theories and pseudoscience**.	entailment
+TheDailyWorld.Net tends to the spread of conspiracy theories	entailment
+Other sources have commented on TheDailyWorld.Net, stating that it tends to be **unreliable**	entailment
+The factuality of TheDailyWorld.Net is reported to be **low**	entailment
+The factuality of TheDailyWorld.Net is reported to be low, according to a fact-checker.	entailment
+TheDailyWorld.Net failed a fact-check for an article titled "A Strange Animal Has Been Discovered on Mars by the Curiosity Rover of NASA (Video)".	entailment
+TheDailyWorld.Net relies on advertising for revenue	entailment
+TheDailyWorld.Net relies on subscriptions for revenue	contradiction
+TheDailyWorld.Net relies on donations for revenue	contradiction
+TheDailyWorld.Net has endorsed conspiracy theories and pseudoscience primarily related to extraterrestrials and alien visitations to earth.	entailment
+TheDailyWorld.Net has an editorial bias towards **conspiracy theories and pseudoscience**.	entailment
+TheDailyWorld.Net printed a biased article titled ***During archaeological digs that began in the 1880s, an archaeologist discovered a human skeleton that stood 7 meters tall and had horns***.	contradiction
+TheDailyWorld.Net printed a factually misleading titled headline	entailment
+TheDailyWorld.Net's headquarter is located in unknown	entailment
+TheDailyWorld.Net is a conspiracy and pseudoscience website.	entailment
+TheDailyWorld.Net uses an internal fact-checking process	contradiction
+TheDailyWorld.Net covers the following topics: conspiracy theories, pseudoscience primarily related to extraterrestrials, alien visitations to earth.	entailment

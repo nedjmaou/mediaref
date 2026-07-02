@@ -1,0 +1,22 @@
+Charter Communications owns Spectrum Local News	entailment
+Charter Communications is the owner of Spectrum Local News	entailment
+Charter Communications bought Spectrum Local News	entailment
+Charter Communications acquired Spectrum Local News	entailment
+Spectrum Local News is funded through Cable subscription fees and advertising.	entailment
+The remit of Spectrum Local News is to serve as a news portal only	entailment
+The usual audience of Spectrum Local News is **local communities**	entailment
+Other sources have commented on Spectrum Local News, stating that it tends to be Least Biased.	entailment
+The factuality of Spectrum Local News is reported to be High	entailment
+The factuality of Spectrum Local News is reported to be High, according to D. Van Zandt 7/17/2021	entailment
+Spectrum Local News failed a fact-check for an article titled Least Biased and High factual based on serving as a news portal only.	contradiction
+Spectrum Local News printed a retraction after failing a fact-check for an article titled "Failed Fact Checks".	contradiction
+Spectrum Local News chose not to cover content.	entailment
+Spectrum Local News relies on advertising for revenue	entailment
+Spectrum Local News relies on subscriptions for revenue	contradiction
+Spectrum Local News relies on donations for revenue	contradiction
+When aggregating stories, Spectrum Local News relies on information from **43 local Spectrum News websites**.	entailment
+Spectrum Local News has an editorial bias towards **neutral**	entailment
+Spectrum Local News was fined None	entailment
+Spectrum Local News had to apologize for [None](https://spectrumlocalnews.com/splash)	entailment
+Spectrum Local News is a **news portal**	entailment
+Spectrum Local News covers the following topics: local news, sports, weather, crime, and national/international news stories.	entailment

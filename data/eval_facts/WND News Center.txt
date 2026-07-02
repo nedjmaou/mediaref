@@ -1,0 +1,21 @@
+Joseph Farah founded WND News Center	entailment
+WND News Center is funded through  donations.	entailment
+The remit of WND News Center is to lack transparency as they do not disclose they are owned by WND.	entailment
+The mission of WND News Center is to **promote conspiracy theories and right-wing narratives**.	entailment
+The usual audience of WND News Center is extreme right-wing bias, promotion of conspiracy theories, numerous failed fact checks, and a complete lack of transparency.	entailment
+WND News Center tends to the extreme right-wing bias, promotion of conspiracy theories, numerous failed fact checks, and a complete lack of transparency.	entailment
+Other sources have commented on WND News Center, stating that it tends to be Questionable	entailment
+The factuality of WND News Center is reported to be Questionable	entailment
+The factuality of WND News Center is reported to be Questionable, according to D. Van Zandt	entailment
+WND News Center failed a fact-check for an article titled **"California To Register Illegal Aliens To Vote – Automatically."**	entailment
+WND News Center printed a retraction after failing a fact-check for an article titled **"California To Register Illegal Aliens To Vote – Automatically."**	contradiction
+WND News Center relies on subscriptions for revenue	entailment
+WND News Center relies on donations for revenue	entailment
+When aggregating stories, WND News Center relies on information from WND.	entailment
+WND News Center has an editorial bias towards extreme right-wing bias	entailment
+WND News Center was fined 0	entailment
+WND News Center printed a biased article titled **"Extreme Bias"**	entailment
+WND News Center printed a factually misleading titled **"California To Register Illegal Aliens To Vote – Automatically."**	contradiction
+WND News Center had to apologize to no one for anything	entailment
+WND News Center is a Questionable	entailment
+WND News Center covers the following topics: far-right news and opinion.	entailment

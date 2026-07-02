@@ -1,0 +1,23 @@
+CPI leads Center for Public Integrity	contradiction
+Center for Public Integrity is funded through donations and grants from foundations such as the .	entailment
+The remit of Center for Public Integrity is to serve democracy by revealing abuses of power, corruption, and betrayal of public trust by powerful public and private institutions, using the tools of investigative journalism.	entailment
+The mission of Center for Public Integrity is to serve democracy by revealing abuses of power, corruption, and betrayal of public trust by powerful public and private institutions, using the tools of investigative journalism.	entailment
+The usual audience of Center for Public Integrity is **those interested in investigative journalism and government accountability**	entailment
+The Center for Public Integrity tends to the **left**.	entailment
+Other sources have commented on Center for Public Integrity, stating that it tends to be left-center biased.	entailment
+The factuality of Center for Public Integrity is reported to be High	entailment
+The factuality of Center for Public Integrity is reported to be High, according to Media Bias/Fact Check.	entailment
+Center for Public Integrity failed a fact-check for an article titled "A PATCHWORK OF ANTI-DISCRIMINATION LAWS DON’T PROTECT LGBTQ WORKERS".	entailment
+Center for Public Integrity chose not to cover **failed fact checks**	entailment
+Center for Public Integrity relies on advertising for revenue	contradiction
+Center for Public Integrity relies on subscriptions for revenue	entailment
+Center for Public Integrity relies on donations for revenue	entailment
+Center for Public Integrity has received donations from foundations such as Carnegie Corporation, Leonardo Di Caprio Foundation, and the Knight Foundation	entailment
+When aggregating stories, Center for Public Integrity relies on information from **Supreme Court documents and Politico**.	entailment
+Center for Public Integrity has an editorial bias towards **liberal policies**.	entailment
+Center for Public Integrity was fined 	entailment
+Center for Public Integrity printed a biased article titled [A PATCHWORK OF ANTI-DISCRIMINATION LAWS DON'T PROTECT LGBTQ WORKERS](https://publicintegrity.org/business/workers-rights/workplace-inequities/injustice-at-work/a-patchwork-of-anti-discrimination-laws-dont-protect-lgbtq-workers/).	entailment
+Center for Public Integrity had to apologize to no one for nothing	entailment
+Center for Public Integrity paid damages to  after 	entailment
+Center for Public Integrity is a nonpartisan.	contradiction
+Center for Public Integrity covers the following topics: campaign finance, support for immigration, and workers’ rights	entailment

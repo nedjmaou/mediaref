@@ -1,0 +1,22 @@
+Andreas Whittam Smith founded The Independent	entailment
+Andreas Whittam Smith is the founder of The Independent	entailment
+The Independent owns The Independent	contradiction
+O’Reilly bought The Independent	contradiction
+INM acquired The Independent	contradiction
+The Independent is funded through advertising and subscription generate revenue for the paper	entailment
+The usual audience of The Independent is **Center or Left**	entailment
+The Independent tends to the left	entailment
+Other sources have commented on The Independent, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of The Independent is reported to be Mixed	entailment
+The factuality of The Independent is reported to be mixed, according to a survey conducted by You Gov UK	entailment
+The Independent failed a fact-check for an article titled "New antibody tests are 100% accurate."	entailment
+The Independent printed a retraction after failing a fact-check for an article titled "New antibody tests are 100% accurate."	entailment
+The Independent relies on advertising for revenue	entailment
+The Independent relies on subscriptions for revenue	entailment
+The Independent relies on donations for revenue	contradiction
+The Independent has received donations from the Lebedev family	entailment
+When aggregating stories, The Independent relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+The Independent has an editorial bias towards Left-Center	entailment
+The Independent printed a factually misleading titled "Climate change might be worse than thought after scientists find major mistake in water temperature readings".	entailment
+The Independent had to apologize for **several failed fact checks**	entailment
+The Independent's headquarter is located in London	entailment

@@ -1,0 +1,23 @@
+Weston A. Price Foundation is funded through donations and grants	entailment
+The remit of Weston A. Price Foundation is to promote alternative health, nutrition, and pseudoscience.	entailment
+The mission of Weston A. Price Foundation is to restore nutrient-dense foods to the human diet through education, research, and activism.	entailment
+The usual audience of Weston A. Price Foundation is **individuals interested in alternative health and nutrition**	entailment
+The Weston A. Price Foundation tends to the  quackery level pseudoscience source based on the promotion of anti-vaccination propaganda and dangerous alternative nutrition.	entailment
+Other sources have commented on Weston A. Price Foundation, stating that it tends to be a quackery level pseudoscience source.	entailment
+The factuality of Weston A. Price Foundation is reported to be  quackery level.	entailment
+The factuality of Weston A. Price Foundation is reported to be quackery level pseudoscience, according to mediabiasfactcheck.com.	entailment
+Weston A. Price Foundation failed a fact-check for an article titled "Help Prevent Mandatory Coronavirus Vaccination and Tracking!".	entailment
+Weston A. Price Foundation chose not to cover vaccine-related issues	contradiction
+Weston A. Price Foundation relies on advertising for revenue	contradiction
+Weston A. Price Foundation relies on subscriptions for revenue	contradiction
+Weston A. Price Foundation relies on donations for revenue	entailment
+Weston A. Price Foundation has received donations from **donations and grants**	entailment
+When aggregating stories, Weston A. Price Foundation relies on information from their quarterly journal Wise Traditions in Food, Farming and the Healing Arts.	entailment
+Weston A. Price Foundation has endorsed **drinking unpasteurized milk**	entailment
+Weston A. Price Foundation has an editorial bias towards alternative health	entailment
+Weston A. Price Foundation printed a biased article titled "How Impersonal Vaccine Laws Play Out in Real Life: New York’s Repeal of the Religious Exemption".	entailment
+Weston A. Price Foundation printed a factually misleading titled **Help Prevent Mandatory Coronavirus Vaccination and Tracking!**	entailment
+Weston A. Price Foundation's headquarter is located in **Washington, D.C.**	entailment
+Weston A. Price Foundation is funded by the United States government	contradiction
+Weston A. Price Foundation is a nonprofit organization	entailment
+Weston A. Price Foundation covers the following topics: alternative health, nutrition, and pseudoscience	entailment

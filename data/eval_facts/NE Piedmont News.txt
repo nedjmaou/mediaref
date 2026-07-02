@@ -1,0 +1,23 @@
+Metric Media LLC founded NE Piedmont News	entailment
+NE Piedmont News leads NE Piedmont News	contradiction
+Metric Media Foundation owns NE Piedmont News	entailment
+Bradley Cameron is the owner of NE Piedmont News	entailment
+Metric Media LLC acquired NE Piedmont News	entailment
+NE Piedmont News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of NE Piedmont News is to **imposter site, lacks transparency and publishes false information**.	entailment
+The mission of NE Piedmont News is to **imposter site, lacks transparency and publishes false information**.	entailment
+The usual audience of NE Piedmont News is **right-center**	entailment
+NE Piedmont News tends to the **right-center**.	entailment
+Other sources have commented on NE Piedmont News, stating that it tends to be right-center.	entailment
+The factuality of NE Piedmont News is reported to be Questionable	entailment
+The factuality of NE Piedmont News is reported to be Questionable, according to Media Bias Fact Check.	entailment
+NE Piedmont News chose not to cover **local news objectively**	entailment
+NE Piedmont News provides original content written by staff journalists	contradiction
+NE Piedmont News relies on advertising for revenue	entailment
+NE Piedmont News relies on donations for revenue	entailment
+NE Piedmont News has received donations from Metric Media Foundation.	entailment
+When aggregating stories, NE Piedmont News relies on information from ***algorithmically produced content***	entailment
+NE Piedmont News has an editorial bias towards conservative	entailment
+NE Piedmont News is funded by the **Metric Media Foundation** government	contradiction
+NE Piedmont News is a imposter site	entailment
+NE Piedmont News covers the following topics: **Conservative-leaning news and opinion**	entailment

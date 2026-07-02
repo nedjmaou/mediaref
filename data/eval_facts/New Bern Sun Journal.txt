@@ -1,0 +1,18 @@
+Paxton Media Group owns New Bern Sun Journal	entailment
+Paxton Media Group is the owner of New Bern Sun Journal	entailment
+Paxton Media Group bought New Bern Sun Journal	entailment
+New Bern Sun Journal is funded through advertising and subscriptions	entailment
+The remit of New Bern Sun Journal is to **cover local news through journalists with minimal bias in reporting**	entailment
+New Bern Sun Journal tends to the **right-center**	entailment
+Other sources have commented on New Bern Sun Journal, stating that it tends to be **right-center biased**.	entailment
+The factuality of New Bern Sun Journal is reported to be High	entailment
+The factuality of New Bern Sun Journal is reported to be High, according to D. Van Zandt 	entailment
+New Bern Sun Journal failed a fact-check for an article titled "Two wanted for Craven County murder".	contradiction
+New Bern Sun Journal chose not to cover national and international news	contradiction
+New Bern Sun Journal relies on advertising for revenue	entailment
+New Bern Sun Journal relies on subscriptions for revenue	entailment
+New Bern Sun Journal relies on donations for revenue	contradiction
+When aggregating stories, New Bern Sun Journal relies on information from **Gannett publications and the Associated Press**	entailment
+New Bern Sun Journal has an editorial bias towards **the right**	entailment
+New Bern Sun Journal had to apologize for publishing misinformation.	entailment
+New Bern Sun Journal is a right-center biased.	entailment

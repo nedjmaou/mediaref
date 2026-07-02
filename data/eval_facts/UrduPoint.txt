@@ -1,0 +1,24 @@
+UrduPoint leads UrduPoint	contradiction
+Ali Chaudhry owns UrduPoint	entailment
+Ali Chaudhry is the owner of UrduPoint	entailment
+UrduPoint is funded through **advertising-based funding model, displaying ads to generate revenue**	entailment
+The remit of UrduPoint is to  cover a wide range of topics, including news, entertainment, sports, and lifestyle content.	entailment
+The usual audience of UrduPoint is **right-center biased and questionable based on a lack of transparency**	entailment
+UrduPoint tends to the right-center biased and questionable based on a lack of transparency, the use of poor sources, and failed fact checks.	entailment
+Other sources have commented on UrduPoint, stating that it tends to be right-center biased.	entailment
+The factuality of UrduPoint is reported to be **questionable**	entailment
+The factuality of UrduPoint is reported to be **questionable**, according to **Mediabiasfactcheck.com**.	entailment
+UrduPoint failed a fact-check for an article titled "Imran Khan, a former cricket star who leads the Pakistan Tehreek-e-Insaf (PTI) party, has appointed Mufti Abdul Qavi as an advisor for religious affairs."	entailment
+UrduPoint printed a retraction after failing a fact-check for an article titled "Imran Khan, a former cricket star who leads the Pakistan Tehreek-e-Insaf (PTI) party, has appointed Mufti Abdul Qavi as an advisor for religious affairs."	contradiction
+UrduPoint chose not to cover [Poland's 2023 parliamentary elections](https://www.urdupoint.com/en/world/polands-2023-parliamentary-elections-set-to-1654493.html)	contradiction
+UrduPoint relies on advertising for revenue	entailment
+UrduPoint relies on subscriptions for revenue	contradiction
+UrduPoint relies on donations for revenue	contradiction
+When aggregating stories, UrduPoint relies on information from social media sources or quotes	entailment
+UrduPoint has an editorial bias towards moderate right-leaning positions.	entailment
+UrduPoint printed a biased article titled "Imran Khan Asks Nation To Continue Struggle, Efforts To Uproot Corruption, Restore Rule Of Law."	entailment
+UrduPoint had to apologize for **failed fact checks**	entailment
+UrduPoint's headquarter is located in Lahore	entailment
+UrduPoint is funded by the Pakistani government.	entailment
+UrduPoint is a right-center biased	entailment
+UrduPoint covers the following topics: news, entertainment, sports, and lifestyle content	entailment

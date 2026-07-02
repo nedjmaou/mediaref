@@ -1,0 +1,26 @@
+Euclid Media Group is the founder of Cincinnati CityBeat	contradiction
+Editorially leads Cincinnati CityBeat	entailment
+Euclid Media Group owns Cincinnati CityBeat	entailment
+Euclid Media Group is the owner of Cincinnati CityBeat	entailment
+Cincinnati CityBeat is funded through **advertising**	entailment
+The remit of Cincinnati CityBeat is to cover local arts, food, culture, music, entertainment, and news for the Cincinnati Metro Area	entailment
+The mission of Cincinnati CityBeat is to cover local arts, food, culture, music, entertainment, and news for the Cincinnati Metro Area.	entailment
+The usual audience of Cincinnati CityBeat is **left-leaning**	entailment
+The Cincinnati CityBeat tends to the left	entailment
+Other sources have commented on Cincinnati CityBeat, stating that it tends to be left-biased.	entailment
+The factuality of Cincinnati CityBeat is reported to be High	entailment
+The factuality of Cincinnati CityBeat is reported to be High, according to D. Van Zandt 	entailment
+Cincinnati CityBeat failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Cincinnati CityBeat chose not to cover **failed fact checks**	entailment
+Cincinnati CityBeat provides original content written by staff journalists	entailment
+Cincinnati CityBeat relies on advertising for revenue	entailment
+Cincinnati CityBeat relies on donations for revenue	contradiction
+When aggregating stories, Cincinnati CityBeat relies on information from quotes, first-hand accounts, or hyperlinks.	entailment
+Cincinnati CityBeat has endorsed Left	entailment
+Cincinnati CityBeat has an editorial bias towards left	entailment
+Cincinnati CityBeat printed a biased article titled "In Abortion Rights Victory, Kentucky Voters Shoot Down Constitutional Amendment"	entailment
+Cincinnati CityBeat had to apologize for **none**	entailment
+Cincinnati CityBeat's headquarter is located in Cincinnati	entailment
+Cincinnati CityBeat is funded by the private government	contradiction
+Cincinnati CityBeat is a **Left Biased**	entailment
+Cincinnati CityBeat covers the following topics: local arts, food, culture, music, entertainment, and news for the Cincinnati Metro Area	entailment

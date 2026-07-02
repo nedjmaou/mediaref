@@ -1,0 +1,25 @@
+Sin Sogu founded The Chosun Ilbo	entailment
+Sin Sogu is the founder of The Chosun Ilbo	entailment
+Sang-Hoon Bang is the CEO of The Chosun Ilbo	entailment
+Sang-Hoon Bang leads The Chosun Ilbo	entailment
+The Chosun Media Group owns The Chosun Ilbo	entailment
+The Bang Family bought The Chosun Ilbo	entailment
+The Bang Family acquired The Chosun Ilbo	entailment
+The Chosun Ilbo is funded through **advertising generates revenue**	entailment
+The remit of The Chosun Ilbo is to **report national news with a right-center bias**.	entailment
+The mission of The Chosun Ilbo is to **report national news with a right-center bias and hold a strong right-biased nationalist conservative editorial perspective.**	entailment
+The Chosun Ilbo tends to the right-centerbias	entailment
+Other sources have commented on The Chosun Ilbo, stating that it tends to be right-center biased.	entailment
+The factuality of The Chosun Ilbo is reported to be  Mixed	entailment
+The factuality of The Chosun Ilbo is reported to be mixed, according to Mediabiasfactcheck.com.	entailment
+The Chosun Ilbo relies on advertising for revenue	entailment
+The Chosun Ilbo relies on subscriptions for revenue	entailment
+The Chosun Ilbo relies on donations for revenue	contradiction
+The Chosun Ilbo has endorsed right-center Biased	entailment
+The Chosun Ilbo has an editorial bias towards right-center.	entailment
+The Chosun Ilbo was fined 	entailment
+The Chosun Ilbo printed a biased article titled "Moon's Carbon Neutrality Plans Are Pipe Dreams"	entailment
+The Chosun Ilbo had to apologize for **a failed fact check**	entailment
+The Chosun Ilbo's headquarter is located in Seoul	entailment
+The Chosun Ilbo is funded by the South Korean government	entailment
+The Chosun Ilbo is a daily English-language newspaper	entailment

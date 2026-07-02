@@ -1,0 +1,15 @@
+WorldTimeTodays is funded through advertising.	entailment
+The remit of WorldTimeTodays is to cover a wide range of topics.	entailment
+"WorldTimeTodays tends to the least biased and questionable."	contradiction
+Other sources have commented on WorldTimeTodays, stating that it tends to be **least biased and questionable**.	contradiction
+The factuality of WorldTimeTodays is reported to be least biased and questionable based on a lack of transparency with ownership, poor sourcing techniques, and the use of poor sources who routinely fail fact checks.	entailment
+The factuality of WorldTimeTodays is reported to be least biased and questionable, according to a review by D. Van Zandt.	entailment
+WorldTimeTodays chose not to cover **their funding sources or ownership details**	entailment
+WorldTimeTodays relies on advertising for revenue	entailment
+When aggregating stories, WorldTimeTodays relies on information from various sources.	entailment
+WorldTimeTodays has endorsed least biased and questionable based on a lack of transparency with ownership, poor sourcing techniques, and the use of poor sources who routinely fail fact checks.	entailment
+WorldTimeTodays has an editorial bias towards **both sides politically**	entailment
+WorldTimeTodays had to apologize to no one for nothing	entailment
+WorldTimeToday's headquarters is located in Pikesville, Maryland.	entailment
+WorldTimeTodays is funded by the United States government	entailment
+WorldTimeTodays is a **news platform**	entailment

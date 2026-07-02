@@ -1,0 +1,18 @@
+Local Report Inc founded Rock Valley Times	entailment
+Local Report Inc owns Rock Valley Times	entailment
+Local Report Inc bought Rock Valley Times	entailment
+Local Report Inc acquired Rock Valley Times	entailment
+The remit of Rock Valley Times is to **serve as an imposter local news site that promotes left-leaning propaganda in support of the Democratic Party**.	entailment
+The mission of Rock Valley Times is to promote left-leaning propaganda in support of the Democratic Party and lacks transparency.	entailment
+The usual audience of Rock Valley Times is Left-Center Biased and Questionable	entailment
+Rock Valley Times tends to the left	entailment
+Other sources have commented on Rock Valley Times, stating that it tends to be **questionable**.	entailment
+The factuality of Rock Valley Times is reported to be **questionable**.	entailment
+The factuality of Rock Valley Times is reported to be **questionable**, according to **Media Bias Fact Check**.	entailment
+Rock Valley Times chose not to cover local news stories such as sports, entertainment, and business.	contradiction
+Rock Valley Times provides original content written by staff journalists	contradiction
+When aggregating stories, Rock Valley Times relies on information from The American Independent Foundation	entailment
+Rock Valley Times has an editorial bias towards left-leaning.	entailment
+Rock Valley Times printed a biased article titled "The Wisconsin Conservation Congress Is Broken | Opinion"	entailment
+Rock Valley Times's headquarter is located in Local Report Inc.	entailment
+Rock Valley Times is a  progressive-liberal imposter news website.	entailment

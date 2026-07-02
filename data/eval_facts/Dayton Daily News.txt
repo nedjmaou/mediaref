@@ -1,0 +1,25 @@
+Cox Enterprises owns Dayton Daily News	entailment
+Cox Enterprises is the owner of Dayton Daily News	entailment
+Dayton Daily News is funded through advertising and subscription fees	entailment
+The remit of Dayton Daily News is to  report news through local journalists in the Dayton area with minimal bias	entailment
+The mission of Dayton Daily News is to  provide balanced news reporting and minimal editorializing.	entailment
+Dayton Daily News tends to the **Center**	entailment
+Other sources have commented on Dayton Daily News, stating that it tends to be **least biased**.	entailment
+The factuality of Dayton Daily News is reported to be High	entailment
+The factuality of Dayton Daily News is reported to be high, according to Mediabiasfactcheck.	entailment
+Dayton Daily News failed a fact-check for an article titled "Mathews edges Grossmann in GOP House primary, who will face Bennett in November".	contradiction
+Dayton Daily News provides original content written by staff journalists	entailment
+Dayton Daily News relies on advertising for revenue	entailment
+Dayton Daily News relies on subscriptions for revenue	entailment
+Dayton Daily News relies on donations for revenue	contradiction
+Dayton Daily News has received donations from Cox Enterprises	entailment
+When aggregating stories, Dayton Daily News relies on information from **local journalists in the Dayton area**.	entailment
+Dayton Daily News has an editorial bias towards least biased	entailment
+Dayton Daily News was fined 	entailment
+Dayton Daily News printed a biased article titled Mathews edges Grossmann in GOP House primary, who will face Bennett in November	entailment
+Dayton Daily News had to apologize for [None in the Last 5 years]	entailment
+Dayton Daily News had to apologize to  for 	contradiction
+Dayton Daily News's headquarter is located in Dayton.	entailment
+Dayton Daily News is funded by the United States government	contradiction
+Dayton Daily News is a daily broadsheet newspaper	entailment
+Dayton Daily News covers the following topics: local and national news, crime business, and sports.	entailment

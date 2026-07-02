@@ -1,0 +1,21 @@
+Humanium is funded through donations	entailment
+The remit of Humanium is to **stop violations of children’s rights throughout the world**	entailment
+The mission of Humanium is to stop violations of children’s rights throughout the world.	entailment
+The usual audience of Humanium is  five million people each year worldwide.	entailment
+Humanium tends to the well-being	entailment
+Other sources have commented on Humanium, stating that it tends to be Left-Center Biased	entailment
+The factuality of Humanium is reported to be High	entailment
+The factuality of Humanium is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/switzerland-media-profile/).	entailment
+Humanium failed a fact-check for an article titled "Child Labour: A Persistent Issue in Supply Chains"	contradiction
+Humanium chose not to cover assistance for victims of children’s rights violations.	contradiction
+Humanium relies on advertising for revenue	contradiction
+Humanium relies on subscriptions for revenue	entailment
+Humanium relies on donations for revenue	entailment
+Humanium has received donations from individuals, companies, or organizations	entailment
+When aggregating stories, Humanium relies on information from **credible media and organizations**	entailment
+Humanium has endorsed progressive left causes	entailment
+Humanium has an editorial bias towards Left-Center	entailment
+Humanium's headquarter is located in Geneva	entailment
+Humanium is funded by the Swiss government	contradiction
+Humanium is a charity	entailment
+Humanium covers the following topics: Children's rights around the world	entailment

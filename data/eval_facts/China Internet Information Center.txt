@@ -1,0 +1,21 @@
+China International Publishing Group founded China Internet Information Center	entailment
+Wang Xiaohui is the CEO of China Internet Information Center	contradiction
+The Communist Party of China owns China Internet Information Center	entailment
+China Internet Information Center	entailment
+China Internet Information Center is funded through **state funds**	entailment
+The remit of China Internet Information Center is to **cover news about China in ten languages**	entailment
+The mission of China Internet Information Center is to **promote Communist Party propaganda**.	entailment
+The China Internet Information Center tends to the left	entailment
+Other sources have commented on China Internet Information Center, stating that it tends to be **left biased**.	entailment
+The factuality of China Internet Information Center is reported to be Left Biased	entailment
+The factuality of China Internet Information Center is reported to be Left Biased, according to Media Bias Fact Check.	entailment
+China Internet Information Center chose not to cover police brutality directed at the protesters.	entailment
+When aggregating stories, China Internet Information Center relies on information from quotes.	entailment
+China Internet Information Center has endorsed Left Biased	entailment
+China Internet Information Center has an editorial bias towards Left Bias.	entailment
+Wang Xiaohui is the editor of China Internet Information Center	entailment
+China Internet Information Center was fined **$3,200**	contradiction
+China Internet Information Center's headquarter is located in Beijing	entailment
+China Internet Information Center is funded by the State government	entailment
+China Internet Information Center is a  Left Biased	entailment
+China Internet Information Center covers the following topics: news about China in ten languages Chinese, English, French, Spanish, German, Japanese, Russian, Arabic, Korean, and Esperanto, as well as government position papers and information about Chinese history, politics, economics, and culture.	entailment

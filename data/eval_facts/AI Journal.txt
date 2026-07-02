@@ -1,0 +1,23 @@
+AI founded AI Journal	contradiction
+AI leads AI Journal	contradiction
+MDPI AG owns AI Journal	entailment
+MDPI AG is the owner of AI Journal	entailment
+AI Journal is funded through APC	entailment
+The mission of AI Journal is to promote the science of artificial intelligence.	entailment
+The usual audience of AI Journal is **researchers and professionals in the field of artificial intelligence (AI).**	entailment
+AI Journal tends to the Pro-Science	entailment
+Other sources have commented on AI Journal, stating that it tends to be **Pro-Science**	entailment
+The factuality of AI Journal is reported to be Mostly Factual	entailment
+The factuality of AI Journal is reported to be Mostly Factual, according to a review by mediabiasfactcheck.com	entailment
+AI Journal failed a fact-check for an article titled An Ethical Framework for Artificial Intelligence and Sustainable Cities.	contradiction
+AI Journal printed a retraction after failing a fact-check for an article titled An Ethical Framework for Artificial Intelligence and Sustainable Cities.	contradiction
+AI Journal relies on advertising for revenue	contradiction
+AI Journal relies on subscriptions for revenue	contradiction
+AI Journal relies on donations for revenue	contradiction
+AI Journal has endorsed Pro-Science	entailment
+AI Journal printed a factually misleading titled \ **None**	entailment
+AI Journal had to apologize to MDPI for criticism.	contradiction
+AI Journal's headquarter is located in **Basel**	entailment
+AI Journal is a **journal**	entailment
+AI Journal uses a peer review process	entailment
+AI Journal covers the following topics: science of artificial intelligence.	entailment

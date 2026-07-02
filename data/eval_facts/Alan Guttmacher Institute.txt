@@ -1,0 +1,25 @@
+Alan F. Guttmacher founded Alan Guttmacher Institute	contradiction
+Planned Parenthood leads Alan Guttmacher Institute	contradiction
+Planned Parenthood owns Alan Guttmacher Institute.	contradiction
+Planned Parenthood bought Alan Guttmacher Institute	contradiction
+Alan Guttmacher Institute is funded through [private foundations based in the United States and international organizations such as the World Health Organization and the World Bank](https://en.wikipedia.org/wiki/GuttmacherInstitute).	entailment
+The remit of Alan Guttmacher Institute is to advance sexual and reproductive health and rights in the United States.	entailment
+The mission of Alan Guttmacher Institute is to advocate for reproductive rights.	entailment
+The usual audience of Alan Guttmacher Institute is **those interested in sexual and reproductive health and rights**	entailment
+The Alan Guttmacher Institute tends to the  reproductive health and rights.	entailment
+Other sources have commented on Alan Guttmacher Institute, stating that it tends to be Left-Center Biased	entailment
+The factuality of Alan Guttmacher Institute is reported to be High	entailment
+The factuality of Alan Guttmacher Institute is reported to be high, according to Factcheck.org	entailment
+Alan Guttmacher Institute failed a fact-check for an article titled None in the Last 5 years	contradiction
+Alan Guttmacher Institute printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+Alan Guttmacher Institute chose not to cover [abortion](https://www.guttmacher.org/gpr/2019/01/ensuring-access-abortion-state-level-selected-examples-and-lessons)	contradiction
+Alan Guttmacher Institute relies on subscriptions for revenue	contradiction
+Alan Guttmacher Institute has received donations from the MacArthur Foundation.	entailment
+When aggregating stories, Alan Guttmacher Institute relies on information from **credible sources**	entailment
+Alan Guttmacher Institute has endorsed reproductive rights.	entailment
+Alan Guttmacher Institute has an editorial bias towards reproductive rights.	entailment
+Alan Guttmacher Institute had to apologize to no one for no failed fact checks.	entailment
+Alan Guttmacher Institute's headquarter is located in the United States	entailment
+Alan Guttmacher Institute is funded by the United States government	contradiction
+The Alan Guttmacher Institute is a leading research and policy organization committed to advancing sexual and reproductive health and rights in the United States.	entailment
+Alan Guttmacher Institute covers the following topics: reproductive rights, abortion, contraception	entailment

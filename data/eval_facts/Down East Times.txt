@@ -1,0 +1,26 @@
+Metric Media LLC founded Down East Times	entailment
+Bradley Cameron is the CEO of Down East Times	contradiction
+Metric Media Foundation owns Down East Times	entailment
+Metric Media LLC is the owner of Down East Times	contradiction
+Metric Media LLC acquired Down East Times	entailment
+Down East Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Down East Times is to **imposter site, lacks transparency, and publishes false information.**	entailment
+The mission of Down East Times is to **fill the void in community news after years of decline in local reporting by legacy media**.	entailment
+The usual audience of Down East Times is right-center, biased, and Questionable	entailment
+Down East Times tends to the right-center	entailment
+Other sources have commented on Down East Times, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Down East Times is reported to be Questionable	entailment
+The factuality of Down East Times is reported to be questionable, according to D. Van Zandt 10/21/2020	entailment
+Down East Times failed a fact-check for an article titled "Imposter Site Lacks Transparency and "	entailment
+Down East Times relies on advertising for revenue	entailment
+Down East Times relies on donations for revenue	entailment
+Down East Times has received donations from **the Metric Media Foundation**	entailment
+When aggregating stories, Down East Times relies on information from ***algorithmically produced content***	entailment
+Down East Times has endorsed **imposter site, lacks transparency, and publishes false information**.	entailment
+Down East Times has an editorial bias towards right-center	entailment
+Down East Times printed a biased article titled "Imposter site, Lacks Transparency, and Publishes False Information."	entailment
+Down East Times printed a factually misleading titled imposter site	entailment
+Down East Times had to apologize for **publishing false information**	entailment
+Down East Times had to apologize to readers for publishing false information.	entailment
+Down East Times is a conservative	entailment
+Down East Times covers the following topics: conservative-leaning news.	entailment

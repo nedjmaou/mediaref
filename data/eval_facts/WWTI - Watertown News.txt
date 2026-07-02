@@ -1,0 +1,23 @@
+Nexstar Media Group owns WWTI - Watertown News	entailment
+Nexstar Media Group is the owner of WWTI - Watertown News.	entailment
+Nexstar Media Group bought WWTI - Watertown News	entailment
+WWTI - Watertown News is funded through [advertising].	entailment
+The remit of WWTI - Watertown News is to  report news factually and with minimal bias.	entailment
+The mission of WWTI - Watertown News is to provide news, sports, weather, politics, and crime reporting.	entailment
+The usual audience of WWTI - Watertown News is **the greater Watertown, New York area**.	entailment
+WWTI - Watertown News tends to the **least biased**	entailment
+Other sources have commented on WWTI - Watertown News, stating that it tends to be **Least Biased**.	entailment
+The factuality of WWTI - Watertown News is reported to be Least Biased	entailment
+The factuality of WWTI - Watertown News is reported to be High, according to D. Van Zandt 09/16/2023	entailment
+WWTI - Watertown News failed a fact-check for an article titled "None in the Last 5 years"	entailment
+WWTI - Watertown News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"./	contradiction
+WWTI - Watertown News chose not to cover opinion pieces.	entailment
+WWTI - Watertown News relies on advertising for revenue	entailment
+WWTI - Watertown News relies on donations for revenue	contradiction
+When aggregating stories, WWTI - Watertown News relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+WWTI - Watertown News has endorsed **no political candidates**.	entailment
+WWTI - Watertown News has an editorial bias towards Least Biased	entailment
+WWTI - Watertown News printed a factually misleading titled None in the Last 5 years	entailment
+WWTI - Watertown News paid damages to  after 	contradiction
+WWTI - Watertown News is a television station	entailment
+WWTI - Watertown News covers the following topics: News, Sports, Weather, Politics, and Crime Reporting	entailment

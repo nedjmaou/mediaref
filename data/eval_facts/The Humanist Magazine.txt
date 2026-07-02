@@ -1,0 +1,24 @@
+The Humanist Magazine founded The Humanist Magazine	contradiction
+The American Humanist Association owns The Humanist Magazine	entailment
+The American Humanist Association is the owner of The Humanist Magazine	entailment
+The Humanist Magazine is funded through donations	entailment
+The remit of The Humanist Magazine is to cover everything from science and religion to media and technology to politics and popular culture.	entailment
+The mission of The Humanist Magazine is to cover everything from science and religion to media and technology to politics and popular culture.	entailment
+The Humanist Magazine tends to the Left-Center	entailment
+Other sources have commented on The Humanist Magazine, stating that it tends to be Left-Center Biased	entailment
+The factuality of The Humanist Magazine is reported to be High	entailment
+The factuality of The Humanist Magazine is reported to be high, according to Mediabiasfactcheck.	entailment
+The Humanist Magazine failed a fact-check for an article titled "What Would a Humanist Do? Thrilled about Fauci’s Humanism, Scared of Conservative Backlash"	contradiction
+The Humanist Magazine chose not to cover religion	contradiction
+The Humanist Magazine relies on advertising for revenue	contradiction
+The Humanist Magazine relies on subscriptions for revenue	entailment
+The Humanist Magazine relies on donations for revenue	entailment
+The Humanist Magazine has received donations from donations	entailment
+The Humanist Magazine has endorsed Left-Center Bias	entailment
+The Humanist Magazine has an editorial bias towards Left-Center.	entailment
+The Humanist Magazine printed a biased article titled What Would a Humanist Do? Thrilled about Fauci’s Humanism, Scared of Conservative Backlash	entailment
+The Humanist Magazine had to apologize for failing fact checks	contradiction
+The Humanist Magazine's headquarter is located in **United States**.	entailment
+The Humanist Magazine is funded by the United States government.	contradiction
+The Humanist Magazine is a Left-Center Biased	entailment
+The Humanist Magazine covers the following topics: science, religion, media, technology, politics, and popular culture.	entailment

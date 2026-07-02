@@ -1,0 +1,23 @@
+Newsquest Media Group Ltd owns Amdover Advertiser	entailment
+Newsquest Media Group Ltd is the owner of Amdover Advertiser	entailment
+Amdover Advertiser is funded through advertising and subscription fees.	entailment
+The remit of Amdover Advertiser is to cover local news for Winchester and the Hampshire area through reporters with minimal bias.	entailment
+The mission of Amdover Advertiser is to **cover local news for Winchester and the Hampshire area through reporters with minimal bias**	entailment
+The Andover Advertiser tends to the **local news for Winchester and the Hampshire area**	entailment
+Other sources have commented on Amdover Advertiser, stating that it tends to be fact-based.	entailment
+The factuality of Amdover Advertiser is reported to be High	entailment
+The factuality of Amdover Advertiser is reported to be High, according to Mediabiasfactcheck.	entailment
+Amdover Advertiser failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Amdover Advertiser chose not to cover op-eds	entailment
+Amdover Advertiser relies on advertising for revenue	entailment
+Amdover Advertiser relies on subscriptions for revenue	contradiction
+Amdover Advertiser relies on donations for revenue	contradiction
+When aggregating stories, Andover Advertiser relies on information from **first-person accounts and large quotes, PA Media, and The Sunday Times**	entailment
+Amdover Advertiser has an editorial bias towards **minimal editorializing of content**.	entailment
+Amdover Advertiser printed a biased article titled "Cost of living: Liz Truss sets out plan to tackle rising energy bills."	contradiction
+Amdover Advertiser printed a factually misleading titled "Prison sentence and fine for Test Valley fly-tipper who dumped industrial waste"	contradiction
+Amdover Advertiser had to apologize for least biased based on minimal editorializing of content.	entailment
+Amdover Advertiser's headquarter is located in Winchester	entailment
+The Andover Advertiser is funded by the American government	contradiction
+Amdover Advertiser is a **newspaper**	entailment
+Amdover Advertiser covers the following topics: news and politics, lifestyle and culture, and local events and news related to the Hampshire area	entailment

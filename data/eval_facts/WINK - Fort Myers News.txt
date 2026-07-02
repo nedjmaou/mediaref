@@ -1,0 +1,22 @@
+WINK bought WINK - Fort Myers News.	contradiction
+WINK - Fort Myers News is funded through **advertising**	entailment
+The remit of WINK - Fort Myers News is to **report on news, crime, sports, weather, and entertainment for the greater Fort Myers, FL area**.	entailment
+The mission of WINK - Fort Myers News is to report on news, crime, sports, weather, and entertainment for the greater Fort Myers, FL area.	entailment
+The usual audience of WINK - Fort Myers News is **the greater Fort Myers, FL area**	entailment
+Other sources have commented on WINK - Fort Myers News, stating that it tends to be **least biased**.	entailment
+The factuality of WINK - Fort Myers News is reported to be High	entailment
+The factuality of WINK - Fort Myers News is reported to be High, according to D. Van Zandt	entailment
+WINK - Fort Myers News failed a fact-check for an article titled "Bicyclist injured in hit-and-run crash in Lehigh Acres, search on for vehicle".	contradiction
+WINK - Fort Myers News printed a retraction after failing a fact-check for an article titled "Bicyclist injured in hit-and-run crash in Lehigh Acres, search on for vehicle".	contradiction
+WINK - Fort Myers News chose not to cover editorial pieces.	entailment
+WINK - Fort Myers News provides original content written by staff journalists	entailment
+WINK - Fort Myers News relies on advertising for revenue	entailment
+WINK - Fort Myers News relies on subscriptions for revenue	contradiction
+WINK - Fort Myers News relies on donations for revenue	contradiction
+When aggregating stories, WINK - Fort Myers News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WINK - Fort Myers News has endorsed fact-based, low-biased news	entailment
+WINK - Fort Myers News has an editorial bias towards **neither**	entailment
+WINK - Fort Myers News printed a biased article titled Least Biased Based on Story Selection with Minimally Biased Editorializing	contradiction
+WINK - Fort Myers News had to apologize for **None in the Last 5 years**	entailment
+WINK - Fort Myers News is funded by the **advertising** government	contradiction
+WINK - Fort Myers News covers the following topics: news, sports, weather, and crime	entailment

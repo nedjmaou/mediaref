@@ -1,0 +1,24 @@
+SaltWire Network owns Truro Daily News.	entailment
+SaltWire Network is the owner of Truro Daily News	entailment
+The Truro Daily News is funded through subscriptions and advertising	entailment
+The remit of Truro Daily News is to **deliver breaking news, opinion, sports, lifestyles, and crime**	entailment
+The mission of Truro Daily News is to provide breaking news, opinion, sports, lifestyles, and crime.	entailment
+The usual audience of Truro Daily News is **right-center biased**.	entailment
+Truro Daily News tends to the right.	entailment
+Other sources have commented on Truro Daily News, stating that it tends to be **right-center biased**.	entailment
+The factuality of Truro Daily News is reported to be High	entailment
+The factuality of Truro Daily News is reported to be High, according to a source criticism exercise.	entailment
+Truro Daily News printed a retraction after failing a fact-check for an article titled "Update NS Fuel Update: Aug 5, 2022 - Gas, Diesel Prices Drop; Interrupter Clause to Be Invoked".	contradiction
+Truro Daily News chose not to cover national news	entailment
+Truro Daily News relies on advertising for revenue	entailment
+Truro Daily News relies on subscriptions for revenue	contradiction
+Truro Daily News relies on donations for revenue	contradiction
+Truro Daily News has received donations from subscriptions and advertising	entailment
+When aggregating stories, Truro Daily News relies on information from [Reuters](https://mediabiasfactcheck.com/reuters/) and [Postmedia](https://mediabiasfactcheck.com/ottawa-sun/) publications.	entailment
+Truro Daily News has an editorial bias towards **right-center**	entailment
+Truro Daily News printed a biased article titled "Dose of private health care hazardous only to political hides"	entailment
+Truro Daily News had to apologize to no one for nothing	entailment
+Truro Daily News's headquarter is located in Truro, Nova Scotia	entailment
+Truro Daily News is funded by the Canadian government	contradiction
+The Truro Daily News is a newspaper	entailment
+Truro Daily News covers the following topics: breaking news, opinion, sports, lifestyles, and crime	entailment

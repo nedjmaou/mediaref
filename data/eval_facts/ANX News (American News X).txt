@@ -1,0 +1,22 @@
+Thomas Clay is the founder of ANX News (American News X)	entailment
+Thomas Clay leads ANX News (American News X)	entailment
+Thomas Clay owns ANX News (American News X)	entailment
+ANX News (American News X) is funded through advertising	entailment
+The remit of ANX News (American News X) is to **publish news that always favors the left and with loaded emotional wording.**	entailment
+The mission of ANX News (American News X) is to tell truth to power with a little bit of snark.	entailment
+The usual audience of ANX News (American News X) is left-leaning.	entailment
+ANX News (American News X) tends to the left.	entailment
+Other sources have commented on ANX News (American News X), stating that it tends to be left-biased.	entailment
+The factuality of ANX News (American News X) is reported to be **Mixed**	entailment
+The factuality of ANX News (American News X) is reported to be MIXED, according to D. Van Zandt 11/21/2016.	entailment
+ANX News (American News X) chose not to cover stories that favor the 	entailment
+ANX News (American News X) provides original content written by staff journalists	contradiction
+ANX News (American News X) relies on advertising for revenue	entailment
+ANX News (American News X) relies on subscriptions for revenue	contradiction
+ANX News (American News X) relies on donations for revenue	contradiction
+When aggregating stories, ANX News (American News X) relies on information from **NBC News and the New York Times**	entailment
+ANX News (American News X) has endorsed the left.	entailment
+ANX News (American News X) has an editorial bias towards **the left**	entailment
+ANX News (American News X) printed a biased article titled "The Cancer On This Presidency Is Terminal".	entailment
+ANX News (American News X) is funded by the United States government	contradiction
+ANX News (American News X) is a **Left biased**.	entailment

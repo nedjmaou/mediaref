@@ -1,0 +1,24 @@
+Gannett is the founder of Binghamton Press & Sun Bulletin	entailment
+Gannett is the CEO of Binghamton Press & Sun Bulletin	contradiction
+Gannett leads Binghamton Press & Sun Bulletin	entailment
+Gannett owns Binghamton Press & Sun Bulletin	entailment
+Gannett is the owner of Binghamton Press & Sun Bulletin	entailment
+Gannett bought Binghamton Press & Sun Bulletin	entailment
+Gannett acquired Binghamton Press & Sun Bulletin	entailment
+Binghamton Press & Sun Bulletin is funded through advertising and paid subscriptions.	entailment
+The remit of Binghamton Press & Sun Bulletin is to **cover local, national, and international news, sports, entertainment, lifestyle, and opinion**	entailment
+The Binghamton Press & Sun Bulletin tends to the **right**.	contradiction
+Other sources have commented on Binghamton Press & Sun Bulletin, stating that it tends to be LEAST BIASED.	entailment
+The factuality of Binghamton Press & Sun Bulletin is reported to be High	entailment
+The factuality of Binghamton Press & Sun Bulletin is reported to be High, according to Mediabiasfactcheck.com	entailment
+The Binghamton Press & Sun Bulletin failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Binghamton Press & Sun Bulletin chose not to cover  op-eds.	entailment
+Binghamton Press & Sun Bulletin relies on advertising for revenue	entailment
+Binghamton Press & Sun Bulletin relies on subscriptions for revenue	entailment
+Binghamton Press & Sun Bulletin relies on donations for revenue	contradiction
+When aggregating stories, Binghamton Press & Sun Bulletin relies on information from **other Gannett publications and the Associated Press**.	entailment
+D. Van Zandt is the editor of Binghamton Press & Sun Bulletin	entailment
+Binghamton Press & Sun Bulletin printed a biased article titled "Least Biased."	contradiction
+The Binghamton Press & Sun Bulletin is funded by the United States government	contradiction
+The Binghamton Press & Sun Bulletin is a newspaper	entailment
+Binghamton Press & Sun Bulletin covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment

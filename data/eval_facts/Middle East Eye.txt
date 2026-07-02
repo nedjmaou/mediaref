@@ -1,0 +1,19 @@
+The remit of Middle East Eye is to **be the primary portal of Middle East news**.	entailment
+The mission of Middle East Eye is to be the primary portal of Middle East news, and our target audience are all those communities of readers living in and around the region that care deeply for its fate.	entailment
+The usual audience of Middle East Eye is all those communities of readers living in and around the region that care deeply for its fate.	entailment
+Middle East Eye tends to the left	entailment
+Other sources have commented on Middle East Eye, stating that it tends to be Left-Center biased	entailment
+The factuality of Middle East Eye is reported to be Mostly Factual	entailment
+The factuality of Middle East Eye is reported to be Mostly Factual, according to D. Van Zandt 	entailment
+Middle East Eye failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+Middle East Eye chose not to cover ownership information	entailment
+Middle East Eye relies on advertising for revenue	entailment
+Middle East Eye has received donations from   M.E.E Ltd	entailment
+When aggregating stories, Middle East Eye relies on information from **credible media outlets**.	entailment
+Middle East Eye has endorsed left-leaning policies	entailment
+Middle East Eye has an editorial bias towards left-leaning policies	entailment
+David Hearst is the editor of Middle East Eye	entailment
+Middle East Eye printed a biased article titled "The Muslim Brotherhood and Washington’s misguided Middle East policy".	entailment
+Middle East Eye's headquarter is located in London.	entailment
+Middle East Eye is a Left-Center biased	entailment
+Middle East Eye covers the following topics: Middle Eastern Countries, Muslim organizations, and news related to the USA.	entailment

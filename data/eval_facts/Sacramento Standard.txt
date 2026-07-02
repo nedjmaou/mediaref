@@ -1,0 +1,18 @@
+Bradley Cameron is the CEO of Sacramento Standard	contradiction
+Metric Media Foundation owns Sacramento Standard	entailment
+The Sacramento Standard is funded through donations and grants.	entailment
+The remit of Sacramento Standard is to provide objective, data-driven information without political bias.	contradiction
+The mission of Sacramento Standard is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of Sacramento Standard is **conservative-leaning**	entailment
+Sacramento Standard tends to the right-center	entailment
+Other sources have commented on Sacramento Standard, stating that it tends to be **right-center biased**	entailment
+The factuality of Sacramento Standard is reported to be right-center biased.	entailment
+The factuality of Sacramento Standard is reported to be Questionable, according to D. Van Zandt 	entailment
+Sacramento Standard failed a fact-check for an article titled "Imposter Website Designed to Look Like Local News Source"	entailment
+Sacramento Standard relies on donations for revenue	entailment
+When aggregating stories, Sacramento Standard relies on information from **algorithmically produced content**	entailment
+The Sacramento Standard has endorsed right-centerbias	entailment
+Sacramento Standard has an editorial bias towards right-center	entailment
+Sacramento Standard printed a biased article titled "Imposter Website Designed to Look Like a Local News Source"	entailment
+Sacramento Standard is a conservative-leaning news website	entailment
+"Sacramento Standard covers the following topics: Conservative news and opinion."	entailment

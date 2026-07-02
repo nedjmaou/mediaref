@@ -1,0 +1,17 @@
+D. Van Zandt is the CEO of Spectrum Report.	entailment
+The remit of Spectrum Report is to **better understand the news in this new world, and more importantly, to understand each other better so that we might preserve democracy and liberty for generations to come.**	entailment
+The mission of Spectrum Report is to better understand the news in this new world, and more importantly, to understand each other better so that we might preserve democracy and liberty for generations to come.	entailment
+The usual audience of Spectrum Report is least biased.	entailment
+Spectrum Report tends to the **least biased**	entailment
+Other sources have commented on Spectrum Report, stating that it tends to be least biased.	entailment
+The factuality of Spectrum Report is reported to beleast biased	contradiction
+The factuality of Spectrum Report is reported to be mixed, according to Media Bias/Fact Check.	entailment
+Spectrum Report chose not to cover FACT-CHECKS	entailment
+Spectrum Report provides original content written by staff journalists	contradiction
+Spectrum Report relies on advertising for revenue	entailment
+Spectrum Report relies on subscriptions for revenue	contradiction
+When aggregating stories, Spectrum Report relies on information from other sources	entailment
+Spectrum Report has an editorial bias towards **least biased**	entailment
+D. Van Zandt is the editor of Spectrum Report	contradiction
+Spectrum Report printed a factually misleading titled least biased	contradiction
+Spectrum Report uses an internal fact-checking process	contradiction

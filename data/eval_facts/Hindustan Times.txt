@@ -1,0 +1,20 @@
+M.P. Shobhana Bhartia owns Hindustan Times	entailment
+M.P. Shobhana Bhartia is the owner of Hindustan Times	entailment
+M.P. Shobhana Bhartia bought Hindustan Times	contradiction
+Hindustan Times is funded through advertising	entailment
+The remit of Hindustan Times is to **report national and international news with a left-leaning bias**	entailment
+The mission of Hindustan Times is to **report national and international news with a left-leaning bias**	entailment
+The usual audience of Hindustan Times is **left-leaning**.	entailment
+Hindustan Times tends to the **left**	entailment
+Other sources have commented on Hindustan Times, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Hindustan Times is reported to be Left-Center Biased	entailment
+The factuality of Hindustan Times is reported to be questionable, according to [https://mediabiasfactcheck.com/](https://mediabiasfactcheck.com/)	entailment
+Hindustan Times failed a fact-check for an article titled "Men are more than twice as likely to die from Covid-19"	entailment
+Hindustan Times printed a retraction after failing a fact-check for an article titled **Elephant was ‘fed’ a pineapple with firecrackers and that the incident took place in Kerala’s Malappuram district.**	entailment
+Hindustan Times relies on advertising for revenue	entailment
+Hindustan Times relies on subscriptions for revenue	contradiction
+Hindustan Times relies on donations for revenue	contradiction
+Hindustan Times has endorsed The Congress Party	entailment
+Hindustan Times has an editorial bias towards **the left**	entailment
+Hindustan Times is a left-leaning	entailment
+Hindustan Times covers the following topics: local, national, and international news	entailment

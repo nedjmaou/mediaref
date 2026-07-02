@@ -1,0 +1,28 @@
+Nexstar Media Group owns WYZZ - Bloomington News	entailment
+Nexstar Media Group is the owner of WYZZ - Bloomington News	entailment
+Nexstar bought WYZZ - Bloomington News	contradiction
+Nexstar Media Group acquired WYZZ - Bloomington News	entailment
+WYZZ - Bloomington News is funded through advertising.	entailment
+The remit of WYZZ - Bloomington News is to  report news for the greater Bloomington, Illinois area.	entailment
+The mission of WYZZ - Bloomington News is to report news factually and with minimal bias.	entailment
+The usual audience of WYZZ - Bloomington News is **the greater Bloomington, Illinois area**.	entailment
+Other sources have commented on WYZZ - Bloomington News, stating that it tends to be **Least Biased**	entailment
+The factuality of WYZZ - Bloomington News is reported to be High	entailment
+The factuality of WYZZ - Bloomington News is reported to be high, according to Mediabiasfactcheck.	entailment
+The failed fact-check for an article titled  is "None in the last 5 years."	entailment
+WYZZ - Bloomington News printed a retraction after failing a fact-check for an article titled None in the last 5 years.	contradiction
+WYZZ - Bloomington News chose not to cover **op-eds**	entailment
+WYZZ - Bloomington News provides original content written by staff journalists	entailment
+WYZZ - Bloomington News relies on advertising for revenue	entailment
+WYZZ - Bloomington News relies on subscriptions for revenue	entailment
+WYZZ - Bloomington News relies on donations for revenue	contradiction
+When aggregating stories, WYZZ - Bloomington News relies on information from the Nexstar Media Wire, the Associated Press, and other large, credible media outlets.	entailment
+WYZZ - Bloomington News has an editorial bias towards Least Biased	entailment
+WYZZ - Bloomington News printed a biased article titled  "What’s in the House, Senate bills overhauling Jan. 6 count"	entailment
+WYZZ - Bloomington News had to apologize for nothing	entailment
+WYZZ - Bloomington News had to apologize to **no one** for **any failures in reporting**	entailment
+WYZZ - Bloomington News is funded by the private government	contradiction
+WYZZ - Bloomington News is a [FOX](https://mediabiasfactcheck.com/fox-news-bias/)-affiliated television station.	entailment
+WYZZ - Bloomington News uses a peer review process	entailment
+WYZZ - Bloomington News uses an internal fact-checking process	entailment
+WYZZ - Bloomington News covers the following topics: news, sports, weather, politics, and crime reporting	entailment

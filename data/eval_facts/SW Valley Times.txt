@@ -1,0 +1,17 @@
+Metric Media Foundation owns SW Valley Times	entailment
+SW Valley Times is funded through donations and grants	entailment
+The remit of SW Valley Times is to **look like a local news source**	entailment
+The mission of SW Valley Times is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of SW Valley Times is right-center biased	entailment
+SW Valley Times tends to the right-center bias	entailment
+Other sources have commented on SW Valley Times, stating that it tends to be **right-center biased**	entailment
+The factuality of SW Valley Times is reported to be  Questionable	entailment
+The factuality of SW Valley Times is reported to be **Questionable**, according to **Mediabiasfactcheck**	entailment
+SW Valley Times relies on advertising for revenue	entailment
+SW Valley Times relies on donations for revenue	entailment
+SW Valley Times has endorsed right-center biased and Questionable based on being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+SW Valley Times has an editorial bias towards **right-center**	entailment
+SW Valley Times printed a biased article titled **The SW Valley Times is a conservative news and opinion website published by Metric Media LLC that is designed to look like a local news source.**	entailment
+The SW Valley Times is funded by the United States government	contradiction
+SW Valley Times is a **right-center biased**	entailment
+SW Valley Times covers the following topics: conservative-leaning news.	entailment

@@ -1,0 +1,23 @@
+Michael S. Regan is the founder of Environmental Protection Agency (EPA)	contradiction
+Michael S. Regan is the CEO of Environmental Protection Agency (EPA)	contradiction
+Michael S. Regan leads Environmental Protection Agency (EPA)	entailment
+EPA acquired Environmental Protection Agency (EPA)	contradiction
+The remit of Environmental Protection Agency (EPA) is to safeguard human health and the environment.	entailment
+The mission of Environmental Protection Agency (EPA) is to safeguard human health and the environment.	entailment
+The usual audience of Environmental Protection Agency (EPA) is **Americans**	entailment
+Environmental Protection Agency (EPA) tends to the **environment and public health**	entailment
+Other sources have commented on Environmental Protection Agency (EPA), stating that it tends to be **left-center biased**	entailment
+The factuality of Environmental Protection Agency (EPA) is reported to be High	entailment
+The factuality of Environmental Protection Agency (EPA) is reported to be high, according to a source.	entailment
+When aggregating stories, Environmental Protection Agency (EPA) relies on information from **scientific information**	entailment
+Environmental Protection Agency (EPA) has endorsed **pro-Science and left-center biased**	entailment
+Environmental Protection Agency (EPA) has an editorial bias towards **the current Biden Administration**	entailment
+Michael S. Regan is the editor of Environmental Protection Agency (EPA)	contradiction
+Environmental Protection Agency (EPA) was fined 	contradiction
+Environmental Protection Agency (EPA) printed a biased article titled "ICYMI: Trump Administration Has Removed Environmental Regulations that Hamstring American Businesses"	entailment
+Environmental Protection Agency (EPA) printed a factually misleading titled "ICYMI: Trump Administration Has Removed Environmental Regulations that Hamstring American Businesses"	entailment
+Environmental Protection Agency (EPA) had to apologize to [Americans] for [policy emphasis that can reflect the current administration].	entailment
+Environmental Protection Agency (EPA)'s headquarter is located in Washington, D.C.	entailment
+Environmental Protection Agency (EPA) is a federal agency	entailment
+Environmental Protection Agency (EPA) uses a peer review process	entailment
+Environmental Protection Agency (EPA) covers the following topics: **environmental pollution, safeguarding human health and the environment, clean air, land, and water, reducing environmental risks, enforcing federal laws, integrating environmental stewardship into the U.S.**	entailment

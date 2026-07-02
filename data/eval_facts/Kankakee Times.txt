@@ -1,0 +1,21 @@
+Bradley Cameron is the owner of Kankakee Times	entailment
+The Kankakee Times is funded through the Metric Media Foundation.	entailment
+The remit of Kankakee Times is to **publish false information**.	entailment
+The mission of Kankakee Times is to **imposter site, lacks transparency, and publishes false information.**	entailment
+The usual audience of Kankakee Times is **conservative-leaning**	entailment
+Kankakee Times tends to the right-center	entailment
+Other sources have commented on Kankakee Times, stating that it tends to be **right-center**.	entailment
+The factuality of Kankakee Times is reported to be Questionable.	entailment
+The factuality of Kankakee Times is reported to be Questionable, according to D. Van Zandt 08/17/2021.	entailment
+Kankakee Times relies on advertising for revenue	entailment
+Kankakee Times relies on donations for revenue	entailment
+The Kankakee Times has received donations from the Metric Media Foundation	entailment
+When aggregating stories, Kankakee Times relies on information from **algorithmically produced content**.	entailment
+The Kankakee Times has endorsed **right-center, biased, and Questionable**	entailment
+Kankakee Times has an editorial bias towards **right-center**	entailment
+The Kankakee Times was fined Questionable	contradiction
+Kankakee Times printed a biased article titled **A Biased View of Local Politics**	entailment
+Kankakee Times printed a factually misleading titled **Imposter Site, Lacks Transparency, and Publishes False Information**.	entailment
+The Kankakee Times is funded by the Metric Media Foundation	entailment
+The Kankakee Times is a conservative news and opinion website published by the Illinois-based Local Government Information Services (LGIS) that is designed to look like a local news source.	entailment
+Kankakee Times covers the following topics: Conservative-leaning news.	entailment

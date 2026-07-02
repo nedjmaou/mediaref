@@ -1,0 +1,19 @@
+Founded in 1997 founded The National Herald	contradiction
+The National Herald is funded through advertising and subscription fees	entailment
+The remit of The National Herald is to  serve Greek-Americans whose primary language is English.	entailment
+The mission of The National Herald is to serve Greek-Americans whose primary language is English.	entailment
+The usual audience of The National Herald is Greek-Americans	entailment
+The National Herald tends to the Right	entailment
+Other sources have commented on The National Herald, stating that it tends to be **right-leaning**.	entailment
+The factuality of The National Herald is reported to be Mixed	entailment
+The factuality of The National Herald is reported to be Mixed, according to M. Huitsing	entailment
+The National Herald chose not to cover Greece	contradiction
+The National Herald relies on advertising for revenue	entailment
+The National Herald relies on subscriptions for revenue	contradiction
+The National Herald has endorsed **the former Trump Administration**	entailment
+The National Herald has an editorial bias towards **the right**	entailment
+Iraklis A. Diamataris is the editor of The National Herald	entailment
+The National Herald printed a biased article titled **"Open Letter from A. Diamataris to President Trump."**	entailment
+The National Herald's headquarter is located in New York	entailment
+The National Herald is a weekly newspaper based in New York serving Greek-Americans whose primary language is English.	entailment
+The National Herald covers the following topics: **news, opinions, and feature stories of paramount interest to Greek-Americans**.	entailment

@@ -1,0 +1,22 @@
+Ann Arbor Times leads	contradiction
+Metric Media LLC owns Ann Arbor Times	entailment
+Metric Media LLC is the owner of Ann Arbor Times	entailment
+Metric Media LLC bought Ann Arbor Times	entailment
+Ann Arbor Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Ann Arbor Times is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of Ann Arbor Times is to **fill the void in community news after years of decline in local reporting by legacy media.**	contradiction
+The usual audience of Ann Arbor Times is right-center, biased, and Questionable.	entailment
+The Ann Arbor Times tends to the right-center bias	entailment
+Other sources have commented on Ann Arbor Times, stating that it tends to be **right-center**.	entailment
+The factuality of Ann Arbor Times is reported to be Questionable	entailment
+The factuality of Ann Arbor Times is reported to be Questionable, according to D. Van Zandt.	entailment
+Ann Arbor Times relies on advertising for revenue	entailment
+Ann Arbor Times relies on subscriptions for revenue	contradiction
+Ann Arbor Times relies on donations for revenue	entailment
+Ann Arbor Times has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Ann Arbor Times relies on information from **algorithmically produced content**	entailment
+Ann Arbor Times has an editorial bias towards conservative-leaning news.	entailment
+Ann Arbor Times printed a biased article titled **Imposter Site Lacks Transparency and Publishes False Information**	entailment
+Ann Arbor Times printed a factually misleading titled imposter site	entailment
+The Ann Arbor Times is a conservative	entailment
+Ann Arbor Times covers the following topics: conservative-leaning news	entailment

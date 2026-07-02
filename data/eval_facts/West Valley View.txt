@@ -1,0 +1,23 @@
+Times Media Group owns West Valley View	entailment
+Times Media Group is the owner of West Valley View	entailment
+Times Media Group bought West Valley View	entailment
+Times Media Group acquired West Valley View	entailment
+West Valley View is funded through **advertising and subscription fees**.	entailment
+The remit of West Valley View is to report news through local journalists in the Goodyear area.	entailment
+The mission of West Valley View is to report news through local journalists in the Goodyear area with minimal bias and provide a dedicated section for opinion content with a reasonable balance of left and right-leaning opinions.	entailment
+Other sources have commented on West Valley View, stating that it tends to be  Least Biased	entailment
+The factuality of West Valley View is reported to be High	entailment
+The factuality of West Valley View is reported to be High, according to D. Van Zandt 11/12/2022	entailment
+West Valley View failed a fact-check for an article titled "Nine individuals indicted on drug trafficking and money laundering".	contradiction
+West Valley View printed a retraction after failing a fact-check for an article titled "Nine individuals indicted on drug trafficking and money laundering".	contradiction
+West Valley View chose not to cover Failed Fact Checks	entailment
+West Valley View relies on advertising for revenue	entailment
+West Valley View relies on subscriptions for revenue	entailment
+West Valley View relies on donations for revenue	contradiction
+When aggregating stories, West Valley View relies on information from local journalists in the Goodyear area.	entailment
+West Valley View has an editorial bias towards Least Biased.	entailment
+D. Van Zandt is the editor of West Valley View	entailment
+West Valley View had to apologize to no one for nothing	entailment
+West Valley View is funded by the USA government	entailment
+West Valley View is a newspaper	entailment
+West Valley View covers the following topics: local and national news, crime, business, and entertainment	entailment

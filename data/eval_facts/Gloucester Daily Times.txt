@@ -1,0 +1,24 @@
+Community Newspaper Holdings founded Gloucester Daily Times	contradiction
+David Olson is the CEO of Gloucester Daily Times	entailment
+Community Newspaper Holdings Inc owns Gloucester Daily Times	entailment
+Community Newspaper Holdings Inc is the owner of Gloucester Daily Times	entailment
+Community Newspaper Holdings Inc bought Gloucester Daily Times	entailment
+Community Newspaper Holdings Inc acquired Gloucester Daily Times	contradiction
+Gloucester Daily Times is funded through **advertising and subscription fees**	entailment
+The remit of Gloucester Daily Times is to cover crime, sports, entertainment, and politics for the Gloucester, Massachusettes region.	entailment
+The mission of Gloucester Daily Times is to provide news coverage for the Gloucester, Massachusetts region.	entailment
+Gloucester Daily Times tends to the Left-Center.	entailment
+Other sources have commented on Gloucester Daily Times, stating that it tends to be slightly Left-Center Biased	entailment
+The factuality of Gloucester Daily Times is reported to be High	entailment
+The factuality of Gloucester Daily Times is reported to be High, according to a source critique on Media Bias Fact Check.	entailment
+Gloucester Daily Times failed a fact-check for an article titled None in the Last 5 years.	contradiction
+Gloucester Daily Times chose not to cover [None in the Last 5 years]	entailment
+Gloucester Daily Times relies on advertising for revenue	entailment
+Gloucester Daily Times relies on subscriptions for revenue	entailment
+Gloucester Daily Times relies on donations for revenue	contradiction
+When aggregating stories, Gloucester Daily Times relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and the CHNI news service.	entailment
+Gloucester Daily Times has endorsed a liberal perspective	entailment
+Gloucester Daily Times has an editorial bias towards left.	entailment
+The Gloucester Daily Times is a newspaper	entailment
+Gloucester Daily Times uses an internal fact-checking process	entailment
+The Gloucester Daily Times covers the following topics: crime, sports, entertainment, and politics for the Gloucester, Massachusettes region.	entailment

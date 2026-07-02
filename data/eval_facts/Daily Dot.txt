@@ -1,0 +1,25 @@
+Nicholas White founded Daily Dot	entailment
+Nicholas White is the founder of Daily Dot	entailment
+Nicholas White leads Daily Dot	entailment
+Daily Dot, LLC owns Daily Dot	entailment
+Daily Dot bought Daily Dot	contradiction
+Daily Dot acquired Daily Dot	contradiction
+Daily Dot is funded through advertising	entailment
+The remit of Daily Dot is to cover Internet culture, politics, and life on the web.	entailment
+The Daily Dot tends to the left.	entailment
+Other sources have commented on Daily Dot, stating that it tends to be Left Biased	entailment
+The factuality of Daily Dot is reported to be High	entailment
+The factuality of Daily Dot is reported to be High, according to Mediabiasfactcheck.	entailment
+Daily Dot failed a fact-check for an article titled "The latest terrifying deepfake combines Donald Trump and Mr. Bean".	contradiction
+The Daily Dot chose not to cover science.	contradiction
+Daily Dot relies on advertising for revenue	entailment
+Daily Dot relies on subscriptions for revenue	contradiction
+Daily Dot relies on donations for revenue	contradiction
+When aggregating stories, Daily Dot relies on information from credible left-leaning sources such as Vox and the Washington Post.	entailment
+Daily Dot has endorsed left-leaning editorial positions	entailment
+Daily Dot has an editorial bias towards **the left**	entailment
+Nicholas White is the editor of Daily Dot	entailment
+Daily Dot printed a biased article titled "WTF was Donald Trump doing with his hand at last night’s rally?".	entailment
+The Daily Dot's headquarter is located in Austin.	entailment
+The Daily Dot is funded by the U.S. government	contradiction
+Daily Dot is a digital media company	entailment

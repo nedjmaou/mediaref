@@ -1,0 +1,18 @@
+Sinclair Broadcast Group owns WSBT 22 News	entailment
+Sinclair Broadcast Group is the owner of WSBT 22 News.	entailment
+Sinclair Broadcast Group bought WSBT 22 News	entailment
+Sinclair Broadcast Group acquired WSBT 22 News	entailment
+The mission of WSBT 22 News is to **report local news with minimal bias in wording**	entailment
+WSBT 22 News tends to the right	entailment
+Other sources have commented on WSBT 22 News, stating that it tends to be **right-leaning**	entailment
+The factuality of WSBT 22 News is reported to be High	entailment
+The factuality of WSBT 22 News is reported to be high, according to D. Van Zandt 07/06/2021	entailment
+WSBT 22 News failed a fact-check for an article titled "In March 2018, Sinclair ordered its stations to produce promos with an “anchor delivered journalistic responsibility message” dictated by the company."	entailment
+WSBT 22 News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+WSBT 22 News chose not to cover **op-eds**	entailment
+WSBT 22 News relies on subscriptions for revenue	entailment
+WSBT 22 News relies on donations for revenue	contradiction
+When aggregating stories, WSBT 22 News relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+WSBT 22 News has an editorial bias towards **the right**.	entailment
+WSBT 22 News is funded by the  Sinclair Broadcast Group	entailment
+WSBT 22 News is a Right-Center Biased	entailment

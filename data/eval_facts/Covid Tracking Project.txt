@@ -1,0 +1,22 @@
+The Atlantic leads Covid Tracking Project	entailment
+The Atlantic owns Covid Tracking Project	entailment
+The Atlantic is the owner of Covid Tracking Project.	entailment
+The Atlantic bought Covid Tracking Project	contradiction
+Covid Tracking Project is funded through The Atlantic	entailment
+The remit of Covid Tracking Project is to **collect data from government agencies in each state and compile a database reporting on Covid testing, positive and negative results and deaths**.	entailment
+The mission of Covid Tracking Project is to collect data from government agencies in each state and compile a database reporting on Covid testing, positive and negative results and deaths. According to their about page “All our information comes from state/district/territory public health authorities—or, occasionally, from trusted news reporting, official press conferences, or (very occasionally) tweets or Facebook updates from state public health authorities or governors. We cite all sources in the spreadsheet and discuss the dataset’s constantly fluctuating oddities in the annotations that accompany each state’s data on our website and in the spreadsheet.”	entailment
+Covid Tracking Project tends to the data	entailment
+Other sources have commented on Covid Tracking Project, stating that it tends to be accurate.	entailment
+The factuality of Covid Tracking Project is reported to be High	entailment
+The factuality of Covid Tracking Project is reported to be High, according to D. Van Zandt	entailment
+Covid Tracking Project failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Covid Tracking Project relies on subscriptions for revenue	entailment
+Covid Tracking Project has received donations from **The Atlantic**.	entailment
+When aggregating stories, Covid Tracking Project relies on information from state/district/territory public health authorities—or, occasionally, from trusted news reporting, official press conferences, or (very occasionally) tweets or Facebook updates from state public health authorities or governors.	entailment
+The Covid Tracking Project has endorsed ***Least Biased***.	entailment
+Covid Tracking Project has an editorial bias towards **least biased**	entailment
+The Covid Tracking Project printed a biased article titled Least Biased.	entailment
+The Covid Tracking Project is funded by the United States government	contradiction
+The Covid Tracking Project is a project	entailment
+Covid Tracking Project uses an internal fact-checking process	entailment
+The Covid Tracking Project covers the following topics: data on Covid testing, positive and negative results, and deaths.	entailment

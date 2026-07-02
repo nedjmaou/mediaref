@@ -1,0 +1,22 @@
+Bradley Cameron is the founder of Stanislaus News	entailment
+Metric Media Foundation owns Stanislaus News	entailment
+Metric Media Foundation bought Stanislaus News	entailment
+Stanislaus News is funded through donations and grants	entailment
+The remit of Stanislaus News is to  provide objective, data-driven information without political bias.	contradiction
+The mission of Stanislaus News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of Stanislaus News is right-center biased	entailment
+Stanislaus News tends to the **right-center**	entailment
+Other sources have commented on Stanislaus News, stating that it tends to be **right-center biased**.	entailment
+The factuality of Stanislaus News is reported to be Questionable	entailment
+The factuality of Stanislaus News is reported to be Questionable, according to Media Bias Fact Check.	entailment
+Stanislaus News chose not to cover imposter website designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+Stanislaus News relies on advertising for revenue	entailment
+Stanislaus News relies on donations for revenue	entailment
+When aggregating stories, Stanislaus News relies on information from **algorithmically produced content**	entailment
+Stanislaus News has endorsed right-center biased.	entailment
+Stanislaus News has an editorial bias towards **right-center**	entailment
+Stanislaus News printed a biased article titled "Imposter Website Designed to Look Like a Local News Source".	entailment
+Stanislaus News printed a factually misleading titled "Imposter Website Disguised as Local News Source."	entailment
+Stanislaus News is funded by the United States government	contradiction
+The Stanislaus News is a conservative-leaning	entailment
+Stanislaus News covers the following topics:  right-center biased and Questionable based on being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment

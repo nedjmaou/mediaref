@@ -1,0 +1,19 @@
+Adams Publishing Group owns Dorchester Star	entailment
+Stephen Adams is the owner of Dorchester Star	entailment
+Dorchester Star is funded through advertising and subscription fees	entailment
+Dorchester Star tends to the Left	entailment
+Other sources have commented on Dorchester Star, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Dorchester Star is reported to be High	entailment
+The factuality of Dorchester Star is reported to be High, according to mediabiasfactcheck.com	entailment
+Dorchester Star failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Dorchester Star chose not to cover Failed Fact Checks	entailment
+Dorchester Star relies on advertising for revenue	entailment
+Dorchester Star relies on subscriptions for revenue	entailment
+Dorchester Star relies on donations for revenue	contradiction
+When aggregating stories, Dorchester Star relies on information from **quotes, interviews, and accounts, while National and world news comes directly from the Associated Press**.	entailment
+Dorchester Star has an editorial bias towards left	entailment
+Dorchester Star printed a factually misleading titled Left-Center Biased	entailment
+The Dorchester Star had to apologize for **failed fact checks**.	contradiction
+Dorchester Star is funded by the United States government	contradiction
+Dorchester Star is a weekly newspaper	entailment
+Dorchester Star covers the following topics: news, sports, crime, and weather	entailment

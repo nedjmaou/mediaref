@@ -1,0 +1,25 @@
+L. Brent Bozell III founded Newsbusters	entailment
+Media Research Center owns Newsbusters	entailment
+The owner of Newsbusters is the Media Research Center.	entailment
+Media Research Center bought Newsbusters	entailment
+Media Research Center acquired Newsbusters	contradiction
+Newsbusters is funded through [financial support](http://bridgeproject.com/?transparency/organization/MediaResearchCenter/funders)	entailment
+The remit of Newsbusters is to **expose liberal bias**	entailment
+The mission of Newsbusters is to expose liberal bias.	entailment
+The usual audience of Newsbusters is **conservatives**	entailment
+Newsbusters tends to the **right biased**	entailment
+Other sources have commented on Newsbusters, stating that it tends to be **right-biased**	entailment
+The factuality of Newsbusters is reported to be  Right Biased	entailment
+The factuality of Newsbusters is reported to be **questionable**, according to **Mediabiasfactcheck.com**.	entailment
+Newsbusters chose not to cover **left-wing sources**	entailment
+Newsbusters relies on advertising for revenue	entailment
+Newsbusters relies on donations for revenue	entailment
+Newsbusters has received donations from several right-leaning sources	entailment
+When aggregating stories, Newsbusters relies on information from **[Breitbart](https://mediabiasfactcheck.com/breitbart/)**.	entailment
+Newsbusters has an editorial bias towards **conservatives**	entailment
+Newsbusters printed a biased article titled CBS’s Garrett Hammers NBC for Boosting Warren During Debate	entailment
+Newsbusters printed a factually misleading titled "Questionable Sources".	entailment
+Newsbusters had to apologize to Media Bias Fact Check for misleading criticism	entailment
+Newsbusters is funded by the **United States** government	contradiction
+Newsbusters is a **Right Biased**	entailment
+Newsbusters covers the following topics: liberal bias in the media and by individuals, bias in the media, Media Research Center, Media Bias Fact Check, conservative outlets, Questionable Sources, the right-leaning sources funding the Media Research Center, the financial support received by the Media Research Center, emotionally charged language in reporting, and failed fact checks.	entailment

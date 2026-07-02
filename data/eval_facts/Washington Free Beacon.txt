@@ -1,0 +1,25 @@
+Matthew Continetti is the CEO of Washington Free Beacon	contradiction
+Matthew Continetti leads Washington Free Beacon	entailment
+The Washington Free Beacon owns Washington Free Beacon	entailment
+Washington Free Beacon is funded through online advertising.	entailment
+The remit of Washington Free Beacon is to **publicize stories and influence mainstream media coverage**	entailment
+The mission of Washington Free Beacon is to influence mainstream media coverage.	entailment
+The usual audience of Washington Free Beacon is **conservative**.	entailment
+Washington Free Beacon tends to the **right**	entailment
+Other sources have commented on Washington Free Beacon, stating that it tends to be **Right Biased**	entailment
+The factuality of Washington Free Beacon is reported to be Mixed	entailment
+The factuality of Washington Free Beacon is reported to be Mixed, according to mediabiasfactcheck.com.	entailment
+Washington Free Beacon failed a fact-check for an article titled "Gender Pay Gap in Clinton’s Senate Office?".	entailment
+Washington Free Beacon printed a retraction after failing a fact-check for an article titled "Biden Administration To Fund Crack Pipes, Heroin".	contradiction
+The Washington Free Beacon chose not to cover \[Fusion GPS conducting opposition research on multiple candidates during the 2016 presidential election, including Donald Trump\].	contradiction
+Washington Free Beacon relies on advertising for revenue	entailment
+Washington Free Beacon relies on subscriptions for revenue	contradiction
+Washington Free Beacon relies on donations for revenue	contradiction
+When aggregating stories, Washington Free Beacon relies on information from [various sources].	entailment
+Washington Free Beacon has an editorial bias towards **the right**	entailment
+Matthew Continetti is the editor of Washington Free Beacon	entailment
+Washington Free Beacon printed a biased article titled **Michael Moore’s Ex-Wife Claims He Stiffed Her out of Movie Profits.**	entailment
+Washington Free Beacon printed a factually misleading titled "Biden Administration To Fund Crack Pipes, Heroin".	contradiction
+Washington Free Beacon had to apologize for **gender pay gap in Clinton’s Senate Office?**	contradiction
+Washington Free Beacon is funded by the privately owned government	contradiction
+Washington Free Beacon is a **Right Biased**	entailment

@@ -1,0 +1,26 @@
+Bill Bonner founded Daily Reckoning	contradiction
+Bill Bonner is the founder of Daily Reckoning.	contradiction
+Agora Financial owns Daily Reckoning	entailment
+Daily Reckoning is funded through **advertising and subscriptions**	entailment
+The remit of Daily Reckoning is to **cover economic issues, investment ideas, and market analysis.**	entailment
+The mission of Daily Reckoning is to help put the often confusing (and infuriating) world of finance into context… to help you connect the dots between your bank account and the decisions that are made in Washington.	entailment
+The usual audience of Daily Reckoning is **right-leaning libertarian economic and market positions**.	entailment
+Daily Reckoning tends to the right	entailment
+Other sources have commented on Daily Reckoning, stating that it tends to be **right-leaning**	entailment
+The factuality of Daily Reckoning is reported to be Mixed	entailment
+The factuality of Daily Reckoning is reported to be Mixed, according to Mother Jones	entailment
+Daily Reckoning chose not to cover **climate change**	contradiction
+Daily Reckoning relies on advertising for revenue	entailment
+Daily Reckoning relies on subscriptions for revenue	entailment
+Daily Reckoning relies on donations for revenue	entailment
+Daily Reckoning has endorsed gold	entailment
+Daily Reckoning has an editorial bias towards gold	entailment
+Daily Reckoning was fined 	entailment
+Daily Reckoning printed a biased article titled War on Cash: The Next Phase	entailment
+Daily Reckoning printed a factually misleading titled **"The Deep State V. Trump."**	entailment
+Daily Reckoning had to apologize for promoting misinformation.	entailment
+Daily Reckoning's headquarter is located in Baltimore	entailment
+Daily Reckoning is funded by the **Baltimore-based Agora Financial** government	contradiction
+Daily Reckoning is a right biased	entailment
+Daily Reckoning uses a peer review process	entailment
+Daily Reckoning covers the following topics: economic issues, investment ideas, and market analysis	entailment

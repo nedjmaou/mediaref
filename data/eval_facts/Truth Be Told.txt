@@ -1,0 +1,21 @@
+Howard University is the founder of Truth Be Told	entailment
+Howard University's Department of Media, Journalism, and Film	entailment
+Truth Be Told acquired Truth Be Told	contradiction
+Truth Be Told is funded through grants and donations.	entailment
+The remit of Truth Be Told is to **examine claims about the black community in public debate**	entailment
+The mission of Truth Be Told is to examine claims about the black community in public debate.	entailment
+Truth Be Told tends to the Left	entailment
+Other sources have commented on Truth Be Told, stating that it tends to be left-center biased.	entailment
+The factuality of Truth Be Told is reported to be High	entailment
+The factuality of Truth Be Told is reported to be High, according to D. Van Zandt	entailment
+Truth Be Told failed a fact-check for an article titled Does Restricting Access To Guns Reduce Gun Violence?	contradiction
+Truth Be Told printed a retraction after failing a fact-check for an article titled "Defund The Police’ Doesn’t Mean Dystopia In America"	contradiction
+Truth Be Told relies on advertising for revenue	contradiction
+Truth Be Told relies on donations for revenue	entailment
+Truth Be Told has received donations from grants and donations	entailment
+When aggregating stories, Truth Be Told relies on information from **PBS News Hour**, **Washington Post**, and **Our World in Data**.	entailment
+Truth Be Told has endorsed left-center biased positions.	entailment
+Truth Be Told has an editorial bias towards left.	entailment
+Howard University's Department of Media, Journalism, and Film	entailment
+Truth Be Told is a  non-profit.	entailment
+Truth Be Told covers the following topics: black community in public debate	entailment

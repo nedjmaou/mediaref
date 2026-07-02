@@ -1,0 +1,25 @@
+Father Paul Marx founded Human Life International	entailment
+Father Paul Marx is the founder of Human Life International	entailment
+Father Shenan J. Boquet is the CEO of Human Life International	contradiction
+Father Shenan J. Boquet leads Human Life International	entailment
+Human Life International owns Human Life International	entailment
+Human Life International bought Human Life International	entailment
+Human Life International is funded through contributions.	entailment
+The remit of Human Life International is to **train and organize leaders in the anti-abortion movement, encompassing priests, crisis pregnancy centers, civic leaders, and family counselors**	entailment
+The mission of Human Life International is to  promote a pro-life and pro-family stance worldwide.	entailment
+The usual audience of Human Life International is Catholic.	entailment
+Human Life International tends to the anti-abortion movement.	entailment
+Other sources have commented on Human Life International, stating that it tends to be **right-biased**	entailment
+The factuality of Human Life International is reported to be questionable	entailment
+The factuality of Human Life International is reported to be questionable, according to the analysis by M. Huitsing 12/24/2023	entailment
+Human Life International failed a fact-check for an article titled "Abortion increases the risk of breast cancer".	contradiction
+Human Life International relies on subscriptions for revenue	contradiction
+Human Life International relies on donations for revenue	entailment
+Human Life International has received donations from contributions	entailment
+Human Life International has an editorial bias towards **right-leaning biases**	entailment
+Human Life International printed a biased article titled **"Supreme Court Legalizes Same-Sex Marriage: Things You Need to Know."**	entailment
+Human Life International had to apologize to no one for nothing	entailment
+Human Life International's headquarter is located in Front Royal, Virginia	entailment
+Human Life International is funded by the U.S. government	contradiction
+Human Life International is a right-biased and questionable	entailment
+Human Life International covers the following topics: abortion, same-sex marriage, LGBT issues, pro-life advocacy, political endorsements, criticism of political figures.	entailment

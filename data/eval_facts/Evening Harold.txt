@@ -1,0 +1,22 @@
+Evening Harold is funded through donations.	contradiction
+The remit of Evening Harold is to satirize.	entailment
+The mission of Evening Harold is to  satirize news.	entailment
+The usual audience of Evening Harold is **Harold's villagers**	contradiction
+Evening Harold tends to the **villagers**	contradiction
+Other sources have commented on Evening Harold, stating that it tends to be a satire website.	entailment
+The factuality of Evening Harold is reported to be a satire site.	entailment
+Evening Harold failed a fact-check for an article titled "Anti-vaxxers devastated there is no coronavirus vaccine they can refuse to take"	contradiction
+Evening Harold chose not to cover real news	entailment
+Evening Harold provides original content written by staff journalists	contradiction
+Evening Harold has received donations from none.	entailment
+When aggregating stories, Evening Harold relies on information from [satirical content].	entailment
+Evening Harold has endorsed **no political candidates or policies**.	entailment
+Evening Harold has an editorial bias towards **satire**	entailment
+Evening Harold was fined **for improper behavior**	contradiction
+Evening Harold printed a biased article titled "Anti-vaxxers devastated there is no coronavirus vaccine they can refuse to take".	entailment
+Evening Harold printed a factually misleading titled  satire site based on a proper disclaimer.	contradiction
+Evening Harold had to apologize for **publishing misinformation**	contradiction
+Evening Harold had to apologize to anti-vaxxers for there is no coronavirus vaccine they can refuse to take	contradiction
+Evening Harold's headquarter is located in **United Kingdom**	entailment
+Evening Harold is a satire site	entailment
+Evening Harold uses an internal fact-checking process	contradiction

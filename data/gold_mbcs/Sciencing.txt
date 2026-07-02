@@ -1,0 +1,14 @@
+History
+[Founded in 2006](http://whois.domaintools.com/sciencing.com) (domain registration), Sciencing is a website that publishes scientific information, educational information, and news. [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website is owned by
+[Leaf Group Ltd](https://en.wikipedia.org/wiki/Leaf_Group)., which owns other online brands such as E-How and [Livestrong.](https://mediabiasfactcheck.com/livestrong-com/) Revenue is generated through advertising.
+Analysis / Bias
+In review, Sciencing breaks information into the following categories: Science, Math, Projects, and News. Under the science category, there are multiple topics to choose from, such as Thermodynamics. Clicking on the Thermodynamics link will produce educational information such as this:
+[How to Calculate the Amount of Heat Released](https://sciencing.com/calculate-amount-heat-released-8219426.html). Under the math projects category, you will find math solutions such as this: [How to Calculate the Ratio Between Two Numbers.](https://sciencing.com/calculate-ratio-between-two-numbers-8187157.html) Under projects, you will find educational projects for students broken down by grade level: [Easy Science Fair Project Ideas for a 6th Grader](https://sciencing.com/easy-project-ideas-6th-grader-5894323.html). So far, this is looking like a pro-science source until we explore the News category.
+Under the news tab, there is science-related news that is indeed pro-science as it supports the consensus on disciplines such as
+[GMOs](https://mediabiasfactcheck.com/pseudoscience-dictionary-gmo-dangers/), Vaccines, and [Climate Change](https://mediabiasfactcheck.com/pseudoscience-dictionary-climate-change-denialism/). Although they report news factually and with proper sourcing, there is a left-leaning bias in story selection and wording that sometimes is emotional.
+[The Trump Administration Just Reached a New Low on Climate Change — Here’s What Happened](https://sciencing.com/in-yet-another-blow-to-us-climate-change-policy-trump-cant-see-importance-of-the-science-behind-warming-planet-13719337.html) [President Trump’s New White House Climate Panel Includes a Climate Denialist](https://sciencing.com/president-trumps-new-white-house-climate-panel-includes-a-climate-denialist-13717411.html) [The Trump Admin’s New Plan Puts Endangered Species in More Danger](https://sciencing.com/the-trump-admins-new-plan-puts-endangered-species-in-more-danger-13720989.html)
+While these three stories above are true and properly sourced, the wording is not neutral as expected of a pure pro-science source; therefore, we rate Sciencing Left-Center biased.
+Failed Fact Checks
+- None in the Last 5 years

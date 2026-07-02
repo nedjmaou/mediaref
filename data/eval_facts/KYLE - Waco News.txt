@@ -1,0 +1,23 @@
+Perry A. Sook is the founder of KYLE - Waco News	entailment
+Nexstar Media Group owns KYLE - Waco News	entailment
+Nexstar Media Group is the owner of KYLE - Waco News	entailment
+Nexstar Media Group bought KYLE - Waco News	entailment
+Nexstar Media Group acquired KYLE - Waco News	contradiction
+KYLE - Waco News is funded through advertising.	entailment
+The remit of KYLE - Waco News is to **provide news, sports, weather, politics, and crime reporting**.	entailment
+The mission of KYLE - Waco News is to  report news factually and with minimal bias.	entailment
+The usual audience of KYLE - Waco News is **the greater Waco, Texas area**	entailment
+KYLE - Waco News tends to the  Least Biased based on neutral straight news reporting without offering opinion pieces.	entailment
+Other sources have commented on KYLE - Waco News, stating that it tends to be **least biased**	entailment
+The factuality of KYLE - Waco News is reported to be High	entailment
+The factuality of KYLE - Waco News is reported to be High, according to mediabiasfactcheck.com.	entailment
+KYLE - Waco News failed a fact-check for an article titled "None in the last 5 years".	contradiction
+KYLE - Waco News printed a retraction after failing a fact-check for an article titled **None in the last 5 years**.	contradiction
+KYLE - Waco News chose not to cover [opinion pieces](https://www.fox44news.com)	entailment
+KYLE - Waco News provides original content written by staff journalists	entailment
+KYLE - Waco News relies on advertising for revenue	entailment
+KYLE - Waco News relies on donations for revenue	contradiction
+KYLE - Waco News has an editorial bias towards **neutral straight news reporting without offering opinion pieces**	entailment
+KYLE - Waco News printed a factually misleading titled **none**	entailment
+KYLE - Waco News is a [Least Biased](https://www.fox44news.com/)	entailment
+KYLE - Waco News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

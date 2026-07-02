@@ -1,0 +1,21 @@
+History
+The Liberty Revolution is a conservative-leaning news and opinion website. According to their
+[about page](https://newsglobal.com/about-us/), they state “Like you, we’re dedicated to justice, fair reporting, truthful fact-checking, and protecting our Constitutional freedoms. We take a strong stand against fake news, corruption, and misleading information.”
+The website lacks transparency as it does not disclose its conservative leanings or name authors, editors, and ownership. The domain is registered with information redacted for privacy.
+[Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Liberty Revolution lacks transparency as they do not provide ownership information. However, the contact page provides a physical mailing address @
+[1985 Henderson Rd STE 1156 Columbus, OH 43220](https://www.google.com/maps/place/Pak+Mail/@40.0545541,-83.0736699,56m/data=!3m1!1e3!4m5!3m4!1s0x88388d84b97e5c39:0xa3e179426055c5b3!8m2!3d40.0545979!4d-83.0736413). This address leads to a strip mall and a company called [Pak Mail](https://www.pakmail.com/mailbox-rental), which provides shipping services and personal and business mailbox rentals. It appears Patriotic Post has rented a mailbox with Pak Mail.
+Further, when searching the mailing address, we found several other conservative websites linked to this mailbox rental. This is what we have discovered thus far:
+These websites have the same design and appear to be owned by the same company/person. Advertising generates revenue.
+Analysis / Bias
+The Liberty Revolution does not conduct original reporting. Instead, they curate news from other sources and add conservative commentary. Articles and headlines feature loaded emotional wording such as this
+[Hillary Clinton Makes Shocking Admission About Her Marriage](https://thelibertyrevolution.com/hillary-clinton-makes-shocking-admission-about-her-marriage/). A biased quote from the article reads: “One wonders if Hillary is “gutsy enough” to talk about that monumental face-plant.” This story does not provide a hyperlinked source.
+Regarding sourcing, most articles do not utilize hyperlinked sourcing which is unacceptable for a web-only publication. In reviewing numerous articles, we found they generally rely on questionable right biased sources such as
+[American Greatness](https://mediabiasfactcheck.com/american-greatness/), [Breitbart](https://mediabiasfactcheck.com/breitbart/), and [Judicial Watch](https://mediabiasfactcheck.com/judicial-watch/).
+Editorially, most stories strongly favor the right, and former President Donald Trump, such as this
+[Donald Trump’s 2024 Plan Has Democrats Very Worried](https://thelibertyrevolution.com/donald-trumps-2024-plan-has-democrats-very-worried/). Our review also found instances of promoting debunked conspiracy theories, such as this [Arizona Audit Chief Says Probe Of 2020 Fraud Gaining Momentum](https://thelibertyrevolution.com/arizona-audit-chief-says-probe-of-2020-fraud-gaining-momentum/). The audit revealed [no concerning issues](https://www.reuters.com/article/factcheck-arizona-audit-idUSL2N2OE1WL).
+Finally, The Liberty Revolution has promoted
+[Covid-19 disinformation](https://thelibertyrevolution.com/the-fda-says-it-needs-until-2076-to-make-vaccine-info-public/). In general, The Liberty Revolution is a far-right biased source that promotes conspiracy theories and pseudoscience that are not rooted in fact.
+Failed Fact Checks
+- There is no record of them being fact-checked by a third party. See above.

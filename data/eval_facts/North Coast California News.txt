@@ -1,0 +1,20 @@
+Metric Media Foundation owns North Coast California News	entailment
+Metric Media Foundation is the owner of North Coast California News	entailment
+North Coast California News is funded through donations and grants.	entailment
+The remit of North Coast California News is to **look like a local news source but provide right-center biased and questionable information as an imposter website.**	entailment
+The mission of North Coast California News is to provide objective, data-driven information without political bias.	contradiction
+The usual audience of North Coast California News is right-center biased and Questionable	entailment
+North Coast California News tends to the right-center biased.	entailment
+Other sources have commented on North Coast California News, stating that it tends to be right-center biased.	entailment
+The factuality of North Coast California News is reported to be Questionable	entailment
+The factuality of North Coast California News is reported to be Questionable, according to mediabiasfactcheck.com.	entailment
+North Coast California News relies on advertising for revenue	entailment
+North Coast California News relies on donations for revenue	entailment
+North Coast California News has received donations from the Metric Media Foundation	entailment
+When aggregating stories, North Coast California News relies on information from **algorithmically produced content**	entailment
+North Coast California News has endorsed right-centerbias	entailment
+North Coast California News has an editorial bias towards right-center.	entailment
+North Coast California News printed a biased article titled "Right-Center Biased and Questionable Based on Imposter Website and Lack of Transparency".	entailment
+North Coast California News printed a factually misleading titled right-center biased and Questionable based on being an imposter website.	entailment
+North Coast California News is a right-center biased and Questionable	entailment
+North Coast California News covers the following topics: conservative-leaning news.	entailment

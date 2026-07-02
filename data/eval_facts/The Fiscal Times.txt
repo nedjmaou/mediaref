@@ -1,0 +1,30 @@
+Peter G. Peterson founded The Fiscal Times	entailment
+Peter G. Peterson is the founder of The Fiscal Times	entailment
+Jacqueline Leo leads The Fiscal Times	entailment
+The Fiscal Times Media Group, LLC owns The Fiscal Times.	entailment
+The Fiscal Times is funded through **advertising with funding provided by Peter G. Peterson**	entailment
+The remit of The Fiscal Times is to cover policy and politics, business and economy, and life and money.	entailment
+The mission of The Fiscal Times is to cover policy and politics, business and economy, and life and money.	entailment
+The usual audience of The Fiscal Times is slightly Right-Center Biased	entailment
+The Fiscal Times tends to the slightly Right-Center Bias	entailment
+Other sources have commented on The Fiscal Times, stating that it tends to be **slightly Right-Center Biased**.	entailment
+The factuality of The Fiscal Times is reported to be High	entailment
+The factuality of The Fiscal Times is reported to be High, according to Mediabiasfactcheck.	entailment
+The Fiscal Times failed a fact-check for an article titled "Capitalism vs. Socialism: Why Both Clinton and Sanders Are Wrong".	contradiction
+The Fiscal Times chose not to cover socialism	entailment
+The Fiscal Times relies on advertising for revenue	entailment
+The Fiscal Times relies on subscriptions for revenue	entailment
+The Fiscal Times relies on donations for revenue	contradiction
+The Fiscal Times has received donations from Peter G. Peterson.	entailment
+When aggregating stories, The Fiscal Times relies on information from [CBS News](https://mediabiasfactcheck.com/cbs-news/) and [The Hill](https://mediabiasfactcheck.com/the-hill/).	entailment
+The Fiscal Times has endorsed a right-leaning perspective	contradiction
+The Fiscal Times has an editorial bias towards **right-leaning perspective**	entailment
+Jacqueline Leo is the editor of The Fiscal Times	entailment
+The Fiscal Times was fined 	entailment
+The Fiscal Times printed a biased article titled **Capitalism vs. Socialism: Why Both Clinton and Sanders Are Wrong**	entailment
+The Fiscal Times had to apologize for **none in the Last 5 years**	entailment
+The Fiscal Times's headquarter is located in New York City and Washington, D.C.	entailment
+The Fiscal Times is funded by the United States government	contradiction
+The Fiscal Times is a digital news, news analysis and opinion publication	entailment
+The Fiscal Times uses an internal fact-checking process	entailment
+The Fiscal Times covers the following topics: economic and finance news, politics, business, and life.	entailment

@@ -1,0 +1,19 @@
+Metric Media Foundation owns Santa Clara Today	entailment
+Bradley Cameron is the owner of Santa Clara Today	contradiction
+Metric Media LLC acquired Santa Clara Today	entailment
+Santa Clara Today is funded through donations and grants	entailment
+The remit of Santa Clara Today is to **look like a local news source**	entailment
+The mission of Santa Clara Today is to **fill the void in community news**	contradiction
+The usual audience of Santa Clara Today is **right-center biased and Questionable**	entailment
+Santa Clara Today tends to the right-centerbias	entailment
+Other sources have commented on Santa Clara Today, stating that it tends to be **right-center biased**.	entailment
+The factuality of Santa Clara Today is reported to be  Questionable	entailment
+The factuality of Santa Clara Today is reported to be Questionable, according to D. Van Zandt 1/2/2021	entailment
+Santa Clara Today relies on advertising for revenue	entailment
+Santa Clara Today relies on donations for revenue	entailment
+When aggregating stories, Santa Clara Today relies on information from **algorithmically produced content**	entailment
+Santa Clara Today has endorsed right-center biased and Questionable based on being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+Santa Clara Today has an editorial bias towards **right-center**	entailment
+Santa Clara Today printed a biased article titled **"An Examination of Local Tax Policies."**	entailment
+Santa Clara Today is a conservative-leaning news website	entailment
+Santa Clara Today covers the following topics: conservative-leaning news.	entailment

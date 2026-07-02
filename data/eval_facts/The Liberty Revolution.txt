@@ -1,0 +1,19 @@
+The Liberty Revolution leads The Liberty Revolution	contradiction
+The remit of The Liberty Revolution is to curate news from other sources and add conservative commentary.	entailment
+The mission of The Liberty Revolution is to promote far-right biased content.	entailment
+The usual audience of The Liberty Revolution is **those who lean towards the right politically**	entailment
+The Liberty Revolution tends to the  far-right.	entailment
+Other sources have commented on The Liberty Revolution, stating that it tends to be far-right biased.	entailment
+The factuality of The Liberty Revolution is reported to be far-right biased and questionable based on the promotion of right-wing propaganda, conspiracy theories, and pseudoscience.	entailment
+The factuality of The Liberty Revolution is reported to be **low** according to **Media Bias Fact Check**.	entailment
+The Liberty Revolution failed a fact-check for an article titled "Arizona Audit Chief Says Probe Of 2020 Fraud Gaining Momentum"	entailment
+The Liberty Revolution chose not to cover far-right biased and questionable content.	contradiction
+The Liberty Revolution provides original content written by staff journalists	contradiction
+The Liberty Revolution relies on advertising for revenue	entailment
+The Liberty Revolution relies on subscriptions for revenue	contradiction
+When aggregating stories, The Liberty Revolution relies on information from **questionable right biased sources**	entailment
+The Liberty Revolution has endorsed far-right biased sources.	entailment
+The Liberty Revolution has an editorial bias towards far-right biased content.	entailment
+The Liberty Revolution printed a biased article titled [Hillary Clinton Makes Shocking Admission About Her Marriage](https://thelibertyrevolution.com/hillary-clinton-makes-shocking-admission-about-her-marriage/).	entailment
+The Liberty Revolution is a far-right biased source.	entailment
+The Liberty Revolution covers the following topics: far-right biased reporting, lack of transparency, questionable sources, promotion of conspiracy theories, pseudoscience, and right-wing propaganda.	entailment

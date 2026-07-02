@@ -1,0 +1,27 @@
+Gannett founded Sarasota Herald-Tribune	contradiction
+Gannett is the CEO of Sarasota Herald-Tribune	entailment
+Gannett owns Sarasota Herald-Tribune	entailment
+Gannett is the owner of Sarasota Herald-Tribune	entailment
+Gannett bought Sarasota Herald-Tribune	entailment
+Gannett acquired Sarasota Herald-Tribune	entailment
+Sarasota Herald-Tribune is funded through Advertising and paid subscriptions.	entailment
+The remit of Sarasota Herald-Tribune is to report local news with minimally loaded words and bias using credible media sources.	entailment
+The mission of Sarasota Herald-Tribune is to report local news with minimally loaded words and bias using credible media sources through quotes.	entailment
+Sarasota Herald-Tribune tends to the **center**	entailment
+Other sources have commented on Sarasota Herald-Tribune, stating that it tends to be **Least Biased**	entailment
+The factuality of Sarasota Herald-Tribune is reported to be High	entailment
+The factuality of Sarasota Herald-Tribune is reported to be High, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Sarasota Herald-Tribune failed a fact-check for an article titled "More affordable housing coming to Sarasota’s Rosemary District"	contradiction
+Sarasota Herald-Tribune printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	contradiction
+Sarasota Herald-Tribune chose not to cover **failed fact checks**	entailment
+Sarasota Herald-Tribune relies on advertising for revenue	entailment
+Sarasota Herald-Tribune relies on subscriptions for revenue	entailment
+When aggregating stories, Sarasota Herald-Tribune relies on information from **credible media sources**	entailment
+Sarasota Herald-Tribune has an editorial bias towards **least biased for balanced reporting**.	entailment
+Sarasota Herald-Tribune printed a biased article titled "None in the Last 5 years"	contradiction
+Sarasota Herald-Tribune printed a factually misleading titled Least Biased for balanced reporting and High for factual reporting based on proper sourcing.	entailment
+Sarasota Herald-Tribune paid damages to None after None	entailment
+Sarasota Herald-Tribune's headquarter is located in Sarasota	entailment
+Sarasota Herald-Tribune is funded by the **United States** government	contradiction
+Sarasota Herald-Tribune is a newspaper	entailment
+Sarasota Herald-Tribune covers the following topics: news from politics and business to sports, lifestyle, and entertainment	entailment

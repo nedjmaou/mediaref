@@ -1,0 +1,20 @@
+Bradley Cameron is the founder of SE Alaska News	entailment
+Metric Media Foundation owns SE Alaska News	entailment
+Metric Media Foundation is the owner of SE Alaska News.	entailment
+Metric Media Foundation bought SE Alaska News	entailment
+The remit of SE Alaska News is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of SE Alaska News is to  provide objective, data-driven information without political bias.	contradiction
+The usual audience of SE Alaska News is **right-center biased and Questionable**	entailment
+SE Alaska News tends to the right-center biased and 	entailment
+Other sources have commented on SE Alaska News, stating that it tends to be **right-center biased and Questionable**.	entailment
+The factuality of SE Alaska News is reported to be Questionable	entailment
+The factuality of SE Alaska News is reported to be **questionable**, according to **Mediabiasfactcheck.com**	entailment
+SE Alaska News relies on advertising for revenue	entailment
+SE Alaska News relies on donations for revenue	entailment
+When aggregating stories, SE Alaska News relies on information from **government and other publicly available sources**	entailment
+SE Alaska News has endorsed right-center bias.	entailment
+SE Alaska News has an editorial bias towards **right-center biased**	entailment
+SE Alaska News printed a biased article titled **"An Imposter Website Masking as Local News"**	contradiction
+SE Alaska News printed a factually misleading titled **SE News right-center biased and Questionable**	entailment
+SE Alaska News is a right-center biased	entailment
+SE Alaska News covers the following topics: conservative-leaning news.	entailment

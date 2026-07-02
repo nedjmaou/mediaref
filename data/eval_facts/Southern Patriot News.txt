@@ -1,0 +1,23 @@
+Gerald C. McConway, Jr. founded Southern Patriot News	entailment
+Gerald C. McConway, Jr. is the founder of Southern Patriot News	entailment
+Gerald McConway owns Southern Patriot News	entailment
+Gerald McConway Jr. bought Southern Patriot News	contradiction
+Southern Patriot News is funded through advertising and a store that sells branded merchandise	entailment
+The remit of Southern Patriot News is to  summarize news stories from other sources and offer conservative commentary.	entailment
+The mission of Southern Patriot News is to **be a publication that reflected the concerns of southern conservatives that were being talked about at the local tavern, which is what we believe SPN has come to encompass**.	entailment
+Southern Patriot News tends to the Right	entailment
+Other sources have commented on Southern Patriot News, stating that it tends to be **Right Biased**.	entailment
+The factuality of Southern Patriot News is reported to be Mostly Factual	entailment
+The factuality of Southern Patriot News is reported to be Mostly Factual, according to D. Van Zandt.	entailment
+Southern Patriot News failed a fact-check for an article titled **Kamala Harris is Dead in the Water**	entailment
+Southern Patriot News provides original content written by staff journalists	contradiction
+Southern Patriot News relies on advertising for revenue	entailment
+Southern Patriot News relies on subscriptions for revenue	contradiction
+Southern Patriot News relies on donations for revenue	contradiction
+When aggregating stories, Southern Patriot News relies on information from **other sources**.	entailment
+Southern Patriot News has an editorial bias towards **the Right**	entailment
+Southern Patriot News was fined 	entailment
+Southern Patriot News printed a biased article titled **Trump Scores Major Immigration Victory with Supreme Court Ruling**.	entailment
+Southern Patriot News is funded by the United States government	contradiction
+Southern Patriot News is a rightbiased.	entailment
+Southern Patriot News covers the following topics: **Conservative commentary and news stories favoring the Right**	entailment

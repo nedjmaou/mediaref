@@ -1,0 +1,22 @@
+NW Atlanta News leads	contradiction
+Metric Media Foundation owns NW Atlanta News	entailment
+Metric Media LLC is the owner of NW Atlanta News.	entailment
+Metric Media LLC bought NW Atlanta News	entailment
+The NW Atlanta News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of NW Atlanta News is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of NW Atlanta News is **right-center, biased, and Questionable**	entailment
+NW Atlanta News tends to the right-center, biased, and Questionable	entailment
+Other sources have commented on NW Atlanta News, stating that it tends to be conservative	entailment
+The factuality of NW Atlanta News is reported to be questionable.	entailment
+NW Atlanta News provides original content written by staff journalists	contradiction
+NW Atlanta News relies on advertising for revenue	entailment
+NW Atlanta News relies on subscriptions for revenue	contradiction
+NW Atlanta News relies on donations for revenue	entailment
+When aggregating stories, NW Atlanta News relies on information from **algorithmically produced content**.	entailment
+NW Atlanta News has an editorial bias towards right-center	entailment
+NW Atlanta News printed a biased article titled **Imperial Sugar Explosion: 10 Years Later**.	entailment
+NW Atlanta News printed a factually misleading titled "Example".	entailment
+NW Atlanta News's headquarter is located in Atlanta.	entailment
+NW Atlanta News is funded by the **Metric Media Foundation** government	contradiction
+NW Atlanta News is a right-center	entailment
+NW Atlanta News covers the following topics: conservative-leaning news	entailment

@@ -1,0 +1,26 @@
+Who founded Stopping Socialism	entailment
+Justin Haskins is the CEO of Stopping Socialism	entailment
+Justin Haskins leads Stopping Socialism	entailment
+Heartland Institute owns Stopping Socialism	entailment
+Heartland Institute bought Stopping Socialism	entailment
+Stopping Socialism is funded through advertising and a store that sells merchandise.	entailment
+The remit of Stopping Socialism is to **fight against the Great Reset and promote theories about voter fraud**	entailment
+The mission of Stopping Socialism is to fight against the Great Reset and promote conspiracy theories.	entailment
+The usual audience of Stopping Socialism is **conservative-leaning individuals**	entailment
+Stopping Socialism tends to the **right**	entailment
+Other sources have commented on Stopping Socialism, stating that it tends to be **right biased**.	entailment
+The factuality of Stopping Socialism is reported to be Questionable	entailment
+Stopping Socialism chose not to cover climate change denialism	contradiction
+Stopping Socialism relies on advertising for revenue	entailment
+Stopping Socialism relies on donations for revenue	entailment
+When aggregating stories, Stopping Socialism relies on information from right-leaning commentators such as Glenn Beck.	entailment
+Stopping Socialism has endorsed Glen Beck.	entailment
+Stopping Socialism has an editorial bias towards **right-leaning conservatism**	entailment
+Justin Haskins is the editor of Stopping Socialism	entailment
+Stopping Socialism was fined **$10,000**	entailment
+Stopping Socialism printed a biased article titled "The Great Reset Theory: A Global Plot to Redistribute Wealth."	entailment
+Stopping Socialism printed a factually misleading titled **"Glenn Beck Reveals How the Great Reset Would Destroy Individual Liberty and Transform the World"**	entailment
+Stopping Socialism had to apologize for **the use of poor sources, lack of transparency, and the promotion of propaganda and conspiracy theories**.	entailment
+Stopping Socialism's headquarter is located in Chicago.	entailment
+Stopping Socialism is funded by the United States government	contradiction
+Stopping Socialism covers the following topics: conspiracies promoted by right-leaning commentators such as Glenn Beck, Great Reset Theory, climate change denialism, and theories about voter fraud.	entailment

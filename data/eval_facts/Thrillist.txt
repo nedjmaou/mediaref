@@ -1,0 +1,23 @@
+Ben Lerer founded Thrillist	entailment
+Ben Lerer is the founder of Thrillist	entailment
+Vox Media leads Thrillist	entailment
+Vox Media owns Thrillist	entailment
+Vox Media is the owner of Thrillist	entailment
+Vox Media bought Thrillist	entailment
+Vox Media acquired Thrillist	entailment
+Thrillist is funded through advertising and sponsored content.	entailment
+The remit of Thrillist is to **cover food, drink, travel, and entertainment**	entailment
+The mission of Thrillist is to report on entertainment with minimal bias.	entailment
+Thrillist tends to the **Left-Center Biased**	entailment
+Other sources have commented on Thrillist, stating that it tends to be left-center biased	entailment
+The factuality of Thrillist is reported to be High	entailment
+The factuality of Thrillist is reported to be High, according to D. Van Zandt	entailment
+Thrillist failed a fact-check for an article titled Left-Center Biased based on editorial positions that moderately favor the left and High for factual reporting due to proper sourcing and a clean fact check record. (D. Van Zandt 6/21/2019) Updated (12/31/2022).	contradiction
+Thrillist chose not to cover politics	entailment
+Thrillist relies on advertising for revenue	entailment
+Thrillist relies on subscriptions for revenue	contradiction
+Thrillist relies on donations for revenue	entailment
+Thrillist has an editorial bias towards **left**	entailment
+Thrillist is funded by the United States government	contradiction
+Thrillist is a media website	entailment
+Thrillist covers the following topics: food, drink, travel, and entertainment	entailment

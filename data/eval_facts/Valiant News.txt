@@ -1,0 +1,23 @@
+Tom Pappert founded Valiant News	entailment
+Tom Pappert is the founder of Valiant News	entailment
+Targeted Media Marketing, LLC owns Valiant News	entailment
+Valiant News is funded through advertising, sponsored content, and donations.	entailment
+The remit of Valiant News is to favor a conservative perspective on politics and use moderately loaded emotional wording to influence readers.	entailment
+The mission of Valiant News is to **advance a conservative political perspective.**	entailment
+Valiant News tends to the right	entailment
+Other sources have commented on Valiant News, stating that it tends to be **right-leaning**	entailment
+The factuality of Valiant News is reported to be Mixed	entailment
+The factuality of Valiant News is reported to be medium according to Media Bias/Fact Check.	entailment
+Valiant News chose not to cover **failed fact checks**	entailment
+Valiant News relies on advertising for revenue	entailment
+Valiant News relies on subscriptions for revenue	entailment
+Valiant News relies on donations for revenue	entailment
+Valiant News has received donations from **advertising, sponsored content, and donations**	entailment
+When aggregating stories, Valiant News relies on information from a mixture of credible sourcing from outlets such as the 	contradiction
+Valiant News has endorsed **a right-leaning conservative perspective**	entailment
+Valiant News has an editorial bias towards **right-leaning conservative**	entailment
+Valiant News was fined 	entailment
+Valiant News's headquarter is located in Kansas	entailment
+Valiant News is funded by the  government	contradiction
+Valiant News is a conservative news and opinion website	entailment
+Valiant News covers the following topics:  Politics	entailment

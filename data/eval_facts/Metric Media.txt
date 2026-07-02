@@ -1,0 +1,28 @@
+Bradley Cameron is the founder of Metric Media	contradiction
+Bradley Cameron is the CEO of Metric Media	entailment
+Bradley Cameron leads Metric Media	entailment
+Metric Media Foundation owns Metric Media	entailment
+Metric Media LLC acquired Metric Media	entailment
+Metric Media is funded through donations and grants	entailment
+The remit of Metric Media is to manage the online presence of the portfolio of local news sites known as Metric Media.	entailment
+The mission of Metric Media is to fill the void in community news after years of decline in local reporting by legacy media.	entailment
+The usual audience of Metric Media is **right-center**	entailment
+Metric Media tends to the right- center	entailment
+Other sources have commented on Metric Media, stating that it tends to be **right-center biased**.	entailment
+The factuality of Metric Media is reported to be Questionable	entailment
+The factuality of Metric Media is reported to be Questionable, according to D. Van Zandt	entailment
+Metric Media failed a fact-check for an article titled "Chicago High School Will Use A Race-Based Grading System."	entailment
+Metric Media printed a retraction after failing a fact-check for an article titled **State Report: Kent County COVID recovery rate 99.94% through June 30**	entailment
+Metric Media provides original content written by staff journalists	contradiction
+Metric Media relies on advertising for revenue	entailment
+Metric Media relies on subscriptions for revenue	entailment
+Metric Media relies on donations for revenue	entailment
+Metric Media has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Metric Media relies on information from **government and other publicly available sources**	entailment
+Metric Media has endorsed right-center biased news.	entailment
+Metric Media has an editorial bias towards **right-center**	entailment
+Metric Media printed a biased article titled *Many of their stories are ordered up by conservative political groups and corporate P.R. firms.*	entailment
+Metric Media printed a factually misleading titled "Many of their stories are ordered up by conservative political groups and corporate P.R. firms."	entailment
+Metric Media is funded by the United States government	contradiction
+Metric Media is a 	entailment
+Metric Media covers the following topics: Business, Politics, Real Estate, Local Schools, Government, and Directory	entailment

@@ -1,0 +1,23 @@
+Unicorn Riot owns Unicorn Riot	contradiction
+Unicorn Riot is funded through tax-deductible donations	entailment
+The remit of Unicorn Riot is to expose root causes of dynamic social and environmental issues through amplifying stories and exploring sustainable alternatives in today’s globalized world.	entailment
+The mission of Unicorn Riot is to exposing root causes of dynamic social and environmental issues through amplifying stories and exploring sustainable alternatives in today’s globalized world.	entailment
+The usual audience of Unicorn Riot is left biased.	entailment
+Unicorn Riot tends to the left	entailment
+Other sources have commented on Unicorn Riot, stating that it tends to be left-biased.	entailment
+The factuality of Unicorn Riot is reported to be High	entailment
+The factuality of Unicorn Riot is reported to be High, according to Mediabiasfactcheck.	entailment
+Unicorn Riot failed a fact-check for an article titled "Protesters Demand Elections Remain Untampered Across United States".	contradiction
+Unicorn Riot chose not to cover Failed Fact Checks	entailment
+Unicorn Riot relies on advertising for revenue	entailment
+Unicorn Riot relies on subscriptions for revenue	entailment
+Unicorn Riot relies on donations for revenue	entailment
+Unicorn Riot has received donations from tax-deductible donations.	entailment
+When aggregating stories, Unicorn Riot relies on information from **the field**.	entailment
+Unicorn Riot has endorsed the progressive left	entailment
+Unicorn Riot has an editorial bias towards the progressive left	entailment
+Unicorn Riot printed a biased article titled Left biased based on coverage of protests and stories that align with the left.	entailment
+Unicorn Riot had to apologize for **None in the Last 5 years. In fact, their video has been used by fact-checkers to verify claims**.	entailment
+Unicorn Riot had to apologize to no one for nothing	entailment
+Unicorn Riot is a media collective	entailment
+Unicorn Riot covers the following topics: Protests, social and environmental issues, Government abuse	entailment

@@ -1,0 +1,20 @@
+Seth Dillion is the CEO of Babylon Bee	entailment
+Seth Dillion leads Babylon Bee.	entailment
+Babylon Bee is funded through advertising and an online shop.	entailment
+The remit of Babylon Bee is to satire.	entailment
+The mission of Babylon Bee is to satire.	entailment
+The usual audience of Babylon Bee is Christian/conservative	entailment
+Babylon Bee tends to the Christian and conservative audience	entailment
+The factuality of Babylon Bee is reported to be a satire website.	entailment
+The factuality of Babylon Bee is reported to be **satire website**, according to **D. Van Zandt 1/21/2017**.	entailment
+Babylon Bee failed a fact-check for an article titled **Local Man Fires Off Flare Gun Inside Hobby Lobby To Locate Wife**	contradiction
+Babylon Bee relies on advertising for revenue	entailment
+Babylon Bee relies on subscriptions for revenue	contradiction
+Babylon Bee relies on donations for revenue	contradiction
+When aggregating stories, Babylon Bee relies on information from **proper identification that generates satirical content based on Christian and conservative politics.**	entailment
+Babylon Bee has endorsed **former President Trump**	contradiction
+Babylon Bee has an editorial bias towards Christian and conservative politics	entailment
+Babylon Bee printed a biased article titled "Trump Announces Illegal Immigrant Gladiator Games"	contradiction
+Babylon Bee printed a factually misleading titled  "Local Man Fires Off Flare Gun Inside Hobby Lobby To Locate Wife"	entailment
+Babylon Bee is a satire website	entailment
+Babylon Bee covers the following topics: Christian news satire	entailment

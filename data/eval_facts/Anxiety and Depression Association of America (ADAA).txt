@@ -1,0 +1,22 @@
+Founded in 1980, the  founded Anxiety and Depression Association of America (ADAA)	entailment
+ADAA acquired Anxiety and Depression Association of America (ADAA)	contradiction
+Anxiety and Depression Association of America (ADAA) is funded through donations, advertising, and the sale of webinars	entailment
+The remit of Anxiety and Depression Association of America (ADAA) is to increase awareness and improve the diagnosis, treatment, and cure of anxiety disorders in children and adults.	entailment
+The mission of Anxiety and Depression Association of America (ADAA) is to **promote the prevention, treatment, and cure of anxiety, depression, and stress-related disorders through education, practice, and research**.	entailment
+The usual audience of Anxiety and Depression Association of America (ADAA) is **the general public and health care professionals**	entailment
+Anxiety and Depression Association of America (ADAA) tends to the **prevention, treatment, and cure of anxiety, depression, and stress-related disorders**	entailment
+Other sources have commented on Anxiety and Depression Association of America (ADAA), stating that it tends to be **a pro-science source with little political bias**.	entailment
+The factuality of Anxiety and Depression Association of America (ADAA) is reported to be high	entailment
+Anxiety and Depression Association of America (ADAA) failed a fact-check for an article titled "None in the Last 5 years".	entailment
+Anxiety and Depression Association of America (ADAA) chose not to cover Failed Fact Checks	entailment
+Anxiety and Depression Association of America (ADAA) relies on advertising for revenue	entailment
+Anxiety and Depression Association of America (ADAA) relies on donations for revenue	entailment
+Anxiety and Depression Association of America (ADAA) has received donations from donations	entailment
+When aggregating stories, Anxiety and Depression Association of America (ADAA) relies on information from **fact-based and properly sourced**.	entailment
+Anxiety and Depression Association of America (ADAA) has endorsed a pro-science source with little political bias	entailment
+Anxiety and Depression Association of America (ADAA) has an editorial bias towards **pro-science**.	entailment
+Anxiety and Depression Association of America (ADAA) printed a factually misleading titled "Anxiety Post-Pandemic".	entailment
+Anxiety and Depression Association of America (ADAA) had to apologize for **None in the Last 5 years**	entailment
+Anxiety and Depression Association of America (ADAA) is funded by the U.S. government	contradiction
+Anxiety and Depression Association of America (ADAA) is a nonprofit organization.	entailment
+Anxiety and Depression Association of America (ADAA) covers the following topics: Anxiety and Depression.	entailment

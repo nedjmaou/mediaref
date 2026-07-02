@@ -1,0 +1,25 @@
+Perry A. Sook founded WWLP - Springfield News	contradiction
+Perry A. Sook is the founder of WWLP - Springfield News	entailment
+Nexstar Media Group owns WWLP - Springfield News	entailment
+Nexstar Media Group is the owner of WWLP - Springfield News	entailment
+Nexstar Media Group bought WWLP - Springfield News	contradiction
+Nexstar Media Group acquired WWLP - Springfield News	entailment
+WWLP - Springfield News is funded through advertising.	entailment
+The remit of WWLP - Springfield News is to  deliver news for the greater Springfield, Massachusetts area.	entailment
+The mission of WWLP - Springfield News is to report news factually and with minimal bias.	entailment
+The usual audience of WWLP - Springfield News is **the greater Springfield, Massachusetts area**.	entailment
+The WWLP - Springfield News tends to the least biased based on neutral straight news reporting without offering opinion pieces.	entailment
+Other sources have commented on WWLP - Springfield News, stating that it tends to be **least biased**	entailment
+The factuality of WWLP - Springfield News is reported to be High	entailment
+The factuality of WWLP - Springfield News is reported to be High, according to Mediabiasfactcheck.com	entailment
+WWLP - Springfield News failed a fact-check for an article titled "None in the last 5 years."	contradiction
+WWLP - Springfield News chose not to cover **opinion pieces**	entailment
+WWLP - Springfield News relies on advertising for revenue	entailment
+WWLP - Springfield News relies on subscriptions for revenue	entailment
+When aggregating stories, WWLP - Springfield News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WWLP - Springfield News has an editorial bias towards Least Biased	entailment
+WWLP - Springfield News printed a factually misleading titled **None in the last 5 years**.	entailment
+WWLP - Springfield News had to apologize for 	contradiction
+WWLP - Springfield News had to apologize to nobody for nothing	entailment
+WWLP - Springfield News is a [Least Biased](https://mediabiasfactcheck.com/least-biased/).	entailment
+WWLP - Springfield News covers the following topics: history, funded by / ownership, analysis / bias, failed fact checks.	contradiction

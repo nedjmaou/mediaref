@@ -1,0 +1,22 @@
+Henri Bourassa founded Le Devoir	entailment
+Henri Bourassa is the founder of Le Devoir	entailment
+Le Devoir Inc owns Le Devoir	entailment
+Le Devoir Inc is the owner of Le Devoir	entailment
+Le Devoir bought Le Devoir	contradiction
+Le Devoir is funded through a subscription and advertising model	entailment
+The mission of Le Devoir is to **provide accurate and unbiased news coverage**	entailment
+Other sources have commented on Le Devoir, stating that it tends to be **Least Biased**.	entailment
+The factuality of Le Devoir is reported to be **High**	entailment
+The factuality of Le Devoir is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/).	entailment
+Le Devoir relies on advertising for revenue	entailment
+Le Devoir relies on subscriptions for revenue	entailment
+Le Devoir relies on donations for revenue	contradiction
+Le Devoir has received donations from None in the Last 5 years.	entailment
+When aggregating stories, Le Devoir relies on information from [credible media](http://www.ledevoir.com/international/etats-unis/498878/trump-aurait-revele-des-informations-classifiees-au-chef-de-la-diplomatie-russe).	entailment
+Le Devoir has endorsed the Bloc Québécois under party leader Gilles Duceppe during the 2015 Canadian Federal elections.	entailment
+Le Devoir has an editorial bias towards Quebec Nationalism, Quebec Independence, and Social Democracy	entailment
+Le Devoir printed a factually misleading titled "Canada only has Trudeau".	entailment
+Le Devoir's headquarter is located in Montreal	entailment
+Le Devoir is funded by the Canadian government	contradiction
+Le Devoir is a newspaper.	entailment
+Le Devoir covers the following topics: History.	entailment

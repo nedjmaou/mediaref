@@ -1,0 +1,27 @@
+Christopher Blair founded Dunning-Kruger-Times	entailment
+Christopher Blair is the founder of Dunning-Kruger-Times	entailment
+Christopher Blair owns Dunning-Kruger-Times	entailment
+Christopher Blair is the owner of Dunning-Kruger-Times	entailment
+Christopher Blair bought Dunning-Kruger-Times	entailment
+Christopher Blair acquired Dunning-Kruger-Times	contradiction
+Dunning-Kruger-Times is funded through **advertising**.	entailment
+The remit of Dunning-Kruger-Times is to **publish satire/fake news**	entailment
+The mission of Dunning-Kruger-Times is to **publish satire/fake news frequently shared by conservative sources**.	entailment
+The usual audience of Dunning-Kruger-Times is conservative fans of America’s Last Line of Defense.	entailment
+Other sources have commented on Dunning-Kruger-Times, stating that it tends to be **satire**	entailment
+The factuality of Dunning-Kruger-Times is reported to be **fiction**	entailment
+The factuality of Dunning-Kruger-Times is reported to be satire, according to fact-checkers.	entailment
+Dunning-Kruger-Times failed a fact-check for an article titled ***Whoopi Attacks Innocent Waitress for Saying “Merry Christmas”***.	contradiction
+Dunning-Kruger-Times chose not to cover  Whoopi Attacks Innocent Waitress for Saying “Merry Christmas”.	entailment
+Dunning-Kruger-Times provides original content written by staff journalists	contradiction
+Dunning-Kruger-Times relies on advertising for revenue	entailment
+Dunning-Kruger-Times relies on subscriptions for revenue	contradiction
+Dunning-Kruger-Times relies on donations for revenue	contradiction
+When aggregating stories, Dunning-Kruger-Times relies on information from **fiction**.	entailment
+The text was not provided.	entailment
+Dunning-Kruger-Times has an editorial bias towards **satire**	entailment
+Dunning-Kruger-Times printed a biased article titled "Whoopi Attacks Innocent Waitress for Saying “Merry Christmas”"	entailment
+Dunning-Kruger-Times printed a factually misleading titled Whoopi Attacks Innocent Waitress for Saying “Merry Christmas”	contradiction
+Dunning-Kruger-Times had to apologize for publishing satirical content.	contradiction
+Dunning-Kruger-Times paid damages to conservatives after fact-checkers fact-checked their content	contradiction
+Dunning-Kruger-Times is a satire website	entailment

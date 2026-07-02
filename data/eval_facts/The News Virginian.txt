@@ -1,0 +1,22 @@
+Lee Enterprises founded The News Virginian	entailment
+Lee Enterprises owns The News Virginian	entailment
+Lee Enterprises is the owner of The News Virginian	entailment
+Lee Enterprises bought The News Virginian	contradiction
+Lee Enterprises acquired The News Virginian	entailment
+The News Virginian is funded through advertising and subscription fees	entailment
+The remit of The News Virginian is to  report on news, sports, entertainment, lifestyle, and opinion for Bristol and the surrounding area.	entailment
+The mission of The News Virginian is to report on news, sports, entertainment, lifestyle, and opinion for Bristol and the surrounding area.	entailment
+The News Virginian tends to the **right**	entailment
+Other sources have commented on The News Virginian, stating that it tends to be Least Biased	entailment
+The factuality of The News Virginian is reported to be High	entailment
+The factuality of The News Virginian is reported to be high, according to proper sourcing and a clean fact-check record.	entailment
+The News Virginian printed a retraction after failing a fact-check for an article titled "VEC resumes collection of its jobless overpayments, seeking $859 million."	contradiction
+The News Virginian chose not to cover national and international news	contradiction
+The News Virginian provides original content written by staff journalists	entailment
+The News Virginian relies on advertising for revenue	entailment
+The News Virginian relies on donations for revenue	contradiction
+When aggregating stories, The News Virginian relies on information from **first-person accounts or through credible media**.	entailment
+The News Virginian has an editorial bias towards **the right**	entailment
+The News Virginian's headquarter is located in Waynesboro	entailment
+The News Virginian is funded by the  government.	contradiction
+The News Virginian is a newspaper	entailment

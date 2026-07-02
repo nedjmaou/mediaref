@@ -1,0 +1,23 @@
+Patriotic Viral News acquired Patriotic Viral News	entailment
+Patriotic Viral News is funded through advertising and sponsored content	entailment
+The remit of Patriotic Viral News is to bring you the latest conservative news stories and viral videos from around the web.	entailment
+The mission of Patriotic Viral News is to bring you the latest conservative news stories and viral videos from around the web.	entailment
+The usual audience of Patriotic Viral News is **conservative**.	entailment
+Patriotic Viral News tends to the **far-right**	entailment
+Other sources have commented on Patriotic Viral News, stating that it tends to be **far-right and questionable**.	entailment
+The factuality of Patriotic Viral News is reported to be low	entailment
+The factuality of Patriotic Viral News is reported to be low, according to D. Van Zandt 3/1/2017.	entailment
+Patriotic Viral News provides original content written by staff journalists	contradiction
+Patriotic Viral News relies on advertising for revenue	entailment
+Patriotic Viral News relies on subscriptions for revenue	contradiction
+Patriotic Viral News relies on donations for revenue	contradiction
+When aggregating stories, Patriotic Viral News relies on information from **other sources**.	entailment
+Patriotic Viral News has endorsed conservative policy	entailment
+Patriotic Viral News has an editorial bias towards **far-right**	entailment
+Who is the editor of Patriotic Viral News	entailment
+Patriotic Viral News printed a biased article titled *Far Left Teachers Create List of Parents Who Disagree with Radical Progressive Agenda*	entailment
+Patriotic Viral News printed a factually misleading titled  "Far Left Teachers Create List of Parents Who Disagree with Radical Progressive Agenda"	entailment
+Patriotic Viral News is funded by the United States government	contradiction
+Patriotic Viral News is a **far-right and questionable**.	entailment
+Patriotic Viral News uses an internal fact-checking process	contradiction
+Patriotic Viral News covers the following topics: **conservative news stories and viral videos**.	entailment

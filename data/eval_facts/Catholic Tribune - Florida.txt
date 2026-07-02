@@ -1,0 +1,24 @@
+American Catholic Tribune Media Network owns Catholic Tribune - Florida	contradiction
+American Catholic Tribune Media Network acquired Catholic Tribune - Florida	contradiction
+Catholic Tribune - Florida is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Catholic Tribune - Florida is to **publish conservative-leaning news and opinion content**.	entailment
+The mission of Catholic Tribune - Florida is to **fill the void in community news after years of decline in local reporting by legacy media.**	contradiction
+The usual audience of Catholic Tribune - Florida is local residents	entailment
+The Catholic Tribune - Florida tends to the right-center	entailment
+Other sources have commented on Catholic Tribune - Florida, stating that it tends to be **right-center and Questionable**.	entailment
+The factuality of Catholic Tribune - Florida is reported to be Questionable	entailment
+The factuality of Catholic Tribune - Florida is reported to be Questionable, according to D. Van Zandt 11/15/2022	entailment
+Catholic Tribune - Florida provides original content written by staff journalists	contradiction
+Catholic Tribune - Florida relies on advertising for revenue	entailment
+Catholic Tribune - Florida relies on donations for revenue	entailment
+Catholic Tribune - Florida has received donations from the Metric Media Foundation	entailment
+When aggregating stories, Catholic Tribune - Florida relies on information from **algorithmically produced content**.	entailment
+Catholic Tribune - Florida has endorsed Republican candidates	entailment
+Catholic Tribune - Florida has an editorial bias towards **right-leaning**	entailment
+Catholic Tribune - Florida printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Catholic Tribune - Florida printed a factually misleading titled **"History."**	entailment
+Catholic Tribune - Florida had to apologize for publishing false information.	entailment
+Catholic Tribune - Florida had to apologize to **Bishops** for **not being affiliated with the Church**	entailment
+The Catholic Tribune - Florida is funded by the private government	contradiction
+Catholic Tribune - Florida is a conservative news and opinion website.	entailment
+Catholic Tribune - Florida covers the following topics: **conservative news and opinion**.	entailment

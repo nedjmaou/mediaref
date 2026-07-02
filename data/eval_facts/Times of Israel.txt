@@ -1,0 +1,23 @@
+The chairman leads Times of Israel	entailment
+Seth Klarman is the owner of Times of Israel	entailment
+David Horovitz acquired Times of Israel	contradiction
+Times of Israel is funded through **advertising**	entailment
+The remit of Times of Israel is to present the news fair-mindedly and offer a wide range of analysis and opinion pieces.	entailment
+The mission of Times of Israel is to present the news fair-mindedly and offer a wide range of analysis and opinion pieces.	entailment
+Times of Israel tends to the Left-Center	entailment
+Other sources have commented on Times of Israel, stating that it tends to be Left-Center biased	entailment
+The factuality of Times of Israel is reported to be High	entailment
+The factuality of Times of Israel is reported to be High, according to mediabiasfactcheck.com.	entailment
+Times of Israel chose not to cover **the conflict of 2023**	contradiction
+Times of Israel provides original content written by staff journalists	entailment
+Times of Israel relies on advertising for revenue	entailment
+Times of Israel relies on subscriptions for revenue	entailment
+Times of Israel relies on donations for revenue	contradiction
+When aggregating stories, Times of Israel relies on information from news agencies and the Jewish Telegraphic Agency.	entailment
+Times of Israel has endorsed  Left-Center biased based on editorial positions that slightly favor the left.	entailment
+Times of Israel has an editorial bias towards Left-Center	entailment
+David Horovitz is the editor of Times of Israel	entailment
+Times of Israel printed a biased article titled "What Trump really (maybe) meant by calling Jewish Democrats ‘disloyal’".	entailment
+Times of Israel's headquarter is located in Jerusalem	entailment
+Times of Israel is funded by the private government	entailment
+Times of Israel covers the following topics: Israeli and regional news, Jewish world, Israeli-Palestinian conflict.	entailment

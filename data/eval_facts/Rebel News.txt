@@ -1,0 +1,27 @@
+Ezra Levant founded Rebel News	entailment
+Ezra Levant is the founder of Rebel News	contradiction
+The Rebel News Network Ltd. owns Rebel News	entailment
+Rebel News bought Rebel News	entailment
+Rebel News acquired Rebel News	entailment
+Rebel News is funded through advertising, fee-based premium subscriptions, and donations.	entailment
+The remit of Rebel News is to **promote propaganda, conspiracy theories, poor sourcing, and several failed fact checks**	entailment
+The mission of Rebel News is to promote propaganda, conspiracy theories, and poor sourcing.	entailment
+The usual audience of Rebel News is **right-biased and questionable**.	entailment
+Rebel News tends to the  Right Biased and Questionable	entailment
+Other sources have commented on Rebel News, stating that it tends to be **right biased**	entailment
+The factuality of Rebel News is reported to be questionable	entailment
+The factuality of Rebel News is reported to be Questionable, according to Mediabiasfactcheck.	entailment
+Rebel News failed a fact-check for an article titled **50,000 Chinese Soldiers Were Bombed and Killed in Maine Which Was Listed as an Earthquake**	entailment
+Rebel News printed a retraction after failing a fact-check for an article titled **Bill Gates is calling for the mandatory vaccination of all people, and states that the billionaire Microsoft co-founder wants pregnant people and children to be forced to take it.**	entailment
+Rebel News chose not to cover the Covid-19 pandemic	entailment
+Rebel News relies on advertising for revenue	entailment
+Rebel News relies on subscriptions for revenue	entailment
+Rebel News relies on donations for revenue	entailment
+Rebel News has received donations from **fees-based premium subscriptions, and donations**.	entailment
+When aggregating stories, Rebel News relies on information from outside sources	entailment
+Rebel News has endorsed far-right and right-wing causes	entailment
+Rebel News has an editorial bias towards the right.	entailment
+Ezra Levant is the editor of Rebel News	entailment
+Rebel News printed a factually misleading titled "Bill Gates is calling for the mandatory vaccination of all people, and states that the billionaire Microsoft co-founder wants pregnant people and children to be forced to take it."	contradiction
+Rebel News is a Right Biased	entailment
+Rebel News uses an internal fact-checking process	entailment

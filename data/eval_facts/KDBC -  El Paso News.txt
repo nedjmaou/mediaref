@@ -1,0 +1,17 @@
+Julian founded KDBC -  El Paso News	contradiction
+Sinclair Broadcast Group owns KDBC - El Paso News	entailment
+Sinclair Broadcast Group is the owner of KDBC - El Paso News	entailment
+Sinclair Broadcast Group bought KDBC - El Paso News	entailment
+Sinclair Broadcast Group acquired KDBC - El Paso News	entailment
+The remit of KDBC - El Paso News is to **report local news with minimal bias**	entailment
+KDBC -  El Paso News tends to the right	entailment
+Other sources have commented on KDBC -  El Paso News, stating that it tends to be **right-leaning**	entailment
+The factuality of KDBC - El Paso News is reported to be High	entailment
+The factuality of KDBC - El Paso News is reported to be high, according to D. Van Zandt	entailment
+KDBC -  El Paso News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KDBC -  El Paso News printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+KDBC -  El Paso News chose not to cover **op-eds**	entailment
+KDBC -  El Paso News relies on advertising for revenue	entailment
+When aggregating stories, KDBC - El Paso News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+KDBC - El Paso News has an editorial bias towards the right	entailment
+KDBC -  El Paso News covers the following topics: local news, sports, weather, lifestyle, and crime reporting	entailment

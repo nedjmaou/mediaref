@@ -1,0 +1,24 @@
+Tom Grundy founded Hong Kong Free Press	entailment
+Tom Grundy is the founder of Hong Kong Free Press	entailment
+Hong Kong Free Press is funded through  ads, reader contributions, and content syndication.	entailment
+The remit of Hong Kong Free Press is to  provide credible and comprehensive news coverage on Hong Kong affairs, emphasizing impartiality and ethical journalism.	entailment
+The mission of Hong Kong Free Press is to provide credible and comprehensive news coverage on Hong Kong affairs, emphasizing impartiality and ethical journalism.	entailment
+The usual audience of Hong Kong Free Press is Left-Center	entailment
+Hong Kong Free Press tends to the Left-Center	entailment
+Other sources have commented on Hong Kong Free Press, stating that it tends to be Left-Center biased	entailment
+The factuality of Hong Kong Free Press is reported to be high	entailment
+The factuality of Hong Kong Free Press is reported to be high, according to a source.	entailment
+Hong Kong Free Press failed a fact-check for an article titled Denial of equal rights for Hong Kong’s gay citizens dovetails with China’s human rights playbook	contradiction
+Hong Kong Free Press printed a retraction after failing a fact-check for an article titled **"HKFP Yum Cha: Democrat Emily Lau Recalls Early Morning Visit from Hong Kong national security police"**	contradiction
+Hong Kong Free Press chose not to cover **Failed Fact Checks**.	entailment
+Hong Kong Free Press relies on advertising for revenue	entailment
+Hong Kong Free Press has received donations from [reader contributions](https://support.hongkongfp.com/en/)	entailment
+When aggregating stories, Hong Kong Free Press relies on information from various outlets, including peer-reviewed academic journals like 	entailment
+Hong Kong Free Press has endorsed **democratic freedoms, human rights, and the rule of law in Hong Kong**	entailment
+Hong Kong Free Press has an editorial bias towards Left.	entailment
+Hong Kong Free Press was fined 	contradiction
+Hong Kong Free Press printed a biased article titled "HKFP Yum Cha: Democrat Emily Lau Recalls Early Morning Visit from Hong Kong national security police".	entailment
+Hong Kong Free Press's headquarter is located in Kennedy Town	entailment
+Hong Kong Free Press is funded by the Chinese government	contradiction
+Hong Kong Free Press is a non-profit English-language newspaper.	entailment
+Hong Kong Free Press covers the following topics: democratic freedoms, human rights, LGBTQ rights, equal rights issues, Beijing's influence, Hong Kong government, National Security Law, One Country Two Systems policy	entailment

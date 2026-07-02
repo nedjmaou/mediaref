@@ -1,0 +1,20 @@
+Cox Enterprises owns WABG - DeltaNews	entailment
+Cox Enterprises is the owner of WABG - DeltaNews	entailment
+Cox Enterprises bought WABG - DeltaNews	entailment
+Cox Enterprises acquired WABG - DeltaNews	entailment
+WABG - DeltaNews is funded through advertising and sponsored content.	entailment
+The remit of WABG - DeltaNews is to cover	entailment
+The usual audience of WABG - DeltaNews is **local news consumers**	entailment
+WABG - DeltaNews tends to the **least biased**	entailment
+Other sources have commented on WABG - DeltaNews, stating that it tends to be **least biased**	entailment
+The factuality of WABG - DeltaNews is reported to be High	entailment
+The factuality of WABG - DeltaNews is reported to be High, according to Media Bias/Fact Check.	entailment
+WABG - DeltaNews failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WABG - DeltaNews chose not to cover op-eds.	entailment
+WABG - DeltaNews relies on advertising for revenue	entailment
+WABG - DeltaNews relies on subscriptions for revenue	contradiction
+WABG - DeltaNews relies on donations for revenue	contradiction
+When aggregating stories, WABG - DeltaNews relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WABG - DeltaNews has an editorial bias towards Least Biased	entailment
+WABG - DeltaNews had to apologize to **none** for **failed fact checks**	entailment
+WABG - DeltaNews is a **Least Biased**	entailment

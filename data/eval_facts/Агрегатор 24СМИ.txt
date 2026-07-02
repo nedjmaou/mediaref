@@ -1,0 +1,20 @@
+Агрегатор 24СМИ is funded through [advertising](https://partner.adwile.com/advert?utmsource=top24smi&utmterm=newtop)	entailment
+The remit of Агрегатор 24СМИ is to aggregate news from a wide variety of mostly Russian sources.	entailment
+The mission of Агрегатор 24СМИ is to  disseminate news and information provided by other sources.	entailment
+The usual audience of Агрегатор 24СМИ is right-center biased and questionable based on the promotion of state propaganda, pseudoscience, the use of poor sources, and a complete lack of transparency. (D. Van Zandt 02/04/2024)	entailment
+Агрегатор 24СМИ tends to the right-center biased	entailment
+Other sources have commented on Агрегатор 24СМИ, stating that it tends to be right-center biased.	entailment
+The factuality of Агрегатор 24СМИ is reported to be **questionable**	entailment
+The factuality of Агрегатор 24СМИ is reported to be questionable, according to D. Van Zandt	entailment
+Агрегатор 24СМИ chose not to cover **original content**	entailment
+Агрегатор 24СМИ provides original content written by staff journalists	contradiction
+Агрегатор 24СМИ relies on advertising for revenue	entailment
+Агрегатор 24СМИ relies on donations for revenue	contradiction
+When aggregating stories, Агрегатор 24СМИ relies on information from **other sources**	entailment
+Агрегатор 24СМИ has endorsed state propaganda	entailment
+The text does not contain a blank in the question.	entailment
+Агрегатор 24СМИ printed a biased article titled Putin’s decision will change the lives of migrants in Russia forever..	entailment
+Агрегатор 24СМИ printed a factually misleading titled **Putin’s decision will change the lives of migrants in Russia forever.**	entailment
+Агрегатор 24СМИ's headquarter is located in Russia	entailment
+Агрегатор 24СМИ is a Russian news portal website.	entailment
+Агрегатор 24СМИ covers the following topics: right-leaning government and state propaganda.	entailment

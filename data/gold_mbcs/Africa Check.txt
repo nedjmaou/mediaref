@@ -1,0 +1,16 @@
+History
+[Founded in 2012](https://en.wikipedia.org/wiki/Africa_Check), Africa Check is a non-profit fact-checking organization set up to promote accuracy in public debate and the media in Africa. They state on their [about page](https://africacheck.org/about-us/), “The goal of our work is to raise the quality of information available to society across the continent.” The current Executive Director is Peter Cunliffe-Jones and Anim van Wyk is the editor.
+Africa Check is a signatory of the International Fact-Checking Network (IFCN). IFCN signatories abide by a
+[code of principles](https://ifcncodeofprinciples.poynter.org/) created by [Poynter](https://mediabiasfactcheck.com/poynter-institute/), which is a series of commitments organizations abide by to promote excellence in fact-checking. Notable IFCN fact-checkers are [Politifact](https://mediabiasfactcheck.com/politifact/), [Factcheck.org](https://mediabiasfactcheck.com/factcheck/), and [Full Fact](https://mediabiasfactcheck.com/full-fact-uk/).
+Funded by / Ownership
+Africa Check is a
+[non-profit organization](https://africacheck.org/about-us/how-we-are-funded/) headquartered in South Africa as a [non-profit Trust](https://icmsweb.justice.gov.za/mastersinformation/MastersOfficeWebPortal/TrustSearch), registration number IT000728/2015(C). It is registered as Africa Check Foundation in Kenya and operates in Nigeria and Senegal through representative offices. Africa Check [lists](https://africacheck.org/about-us/how-we-are-funded/) their most prominent donors, with the top three being: The Shuttleworth Foundation, Bill & Melinda Gates Foundation, and the Luminate Group. Revenue is derived through donations.
+For details on South African Government and Media, click here:
+[South Africa Government and Media](https://mediabiasfactcheck.com/south-africa-media-profile/).
+Analysis / Bias
+In review, Africa Check rates the accuracy of statements on a “6-point scale from correct and mostly correct to unproven, exaggerated or understated, misleading and incorrect.” Headlines often contain minimal and sometimes moderate loaded language such as this:
+[No Minister Cele: SA is not the only country in Africa giving out crime stats](https://africacheck.org/reports/no-minister-cele-sa-not-only-country-in-africa-giving-out-crime-stats/). Like any credible fact-checker, all checks are thoroughly sourced to reputable sources of information.
+The website also features a
+[Promise Tracker](https://africacheck.org/promise-trackers/) that determines if Politicians and political parties kept their promises. These are rated as Kept, In the Works, and Broken. In general, all information on Africa Check is low-biased and properly sourced.
+Failed Fact Checks
+- None. They are an IFCN Fact-checker.

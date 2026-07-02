@@ -1,0 +1,21 @@
+Mike Cernovich founded Cerno (Cernovich.com)	entailment
+Mike Cernovich owns Cerno (Cernovich.com)	entailment
+Mike Cernovich is the owner of Cerno (Cernovich.com)	entailment
+Cerno (Cernovich.com) is funded through online advertising	entailment
+The remit of Cerno (Cernovich.com) is to **promote alt-right ideas**	entailment
+The mission of Cerno (Cernovich.com) is to *promote alt-right ideas*.	entailment
+The usual audience of Cerno (Cernovich.com) is **extreme right wing**.	entailment
+Cerno (Cernovich.com) tends to the extreme right wing editorial bias	entailment
+Other sources have commented on Cerno (Cernovich.com), stating that it tends to be **Questionable**	entailment
+The factuality of Cerno (Cernovich.com) is reported to be Questionable	entailment
+The factuality of Cerno (Cernovich.com) is reported to be questionable, according to M. Huitsing 10/19/2017.	entailment
+Cerno (Cernovich.com) failed a fact-check for an article titled **Socialism Sucks: Venezuelan Female Teachers and Doctors Turn to Prostitution to Survive.**	entailment
+Cerno (Cernovich.com) relies on advertising for revenue	entailment
+Cerno (Cernovich.com) relies on subscriptions for revenue	entailment
+Cerno (Cernovich.com) relies on donations for revenue	contradiction
+Cerno (Cernovich.com) has received donations from online advertising	entailment
+Cerno (Cernovich.com) has endorsed extreme right wing editorial bias, promotion of propaganda and a Pants of Fire claim via a credible fact checker.	entailment
+Cerno (Cernovich.com) has an editorial bias towards extreme right wing.	entailment
+Cerno (Cernovich.com) is funded by the United States government	contradiction
+"Cerno (Cernovich.com) is a **Questionable**"	entailment
+Cerno (Cernovich.com) covers the following topics: Alt-Right, American Nationalism, Propaganda, Media Bias, 	entailment

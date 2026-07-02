@@ -1,0 +1,23 @@
+Perry A. Sook is the founder of WBTW - Myrtle Beach News	entailment
+Nexstar Media Group owns WBTW - Myrtle Beach News	entailment
+Nexstar Media Group is the owner of WBTW - Myrtle Beach News	entailment
+Nexstar Media Group bought WBTW - Myrtle Beach News	entailment
+Nexstar Media Group acquired WBTW - Myrtle Beach News	entailment
+The remit of WBTW - Myrtle Beach News is to  report news factually and with minimal bias.	entailment
+The mission of WBTW - Myrtle Beach News is to report news factually and with minimal bias.	entailment
+The usual audience of WBTW - Myrtle Beach News is **the greater Myrtle Beach, South Carolina area**.	entailment
+WBTW - Myrtle Beach News tends to the Least Biased.	entailment
+Other sources have commented on WBTW - Myrtle Beach News, stating that it tends to be **least biased**.	entailment
+The factuality of WBTW - Myrtle Beach News is reported to be High	entailment
+The factuality of WBTW - Myrtle Beach News is reported to be high, according to Media Bias/Fact Check.	entailment
+WBTW - Myrtle Beach News failed a fact-check for an article titled "None in the last 5 years."	contradiction
+WBTW - Myrtle Beach News relies on advertising for revenue	entailment
+WBTW - Myrtle Beach News relies on subscriptions for revenue	entailment
+WBTW - Myrtle Beach News relies on donations for revenue	contradiction
+When aggregating stories, WBTW - Myrtle Beach News relies on information from Nexstar Media Wire, the Associated Press, and other large credible media outlets.	entailment
+WBTW - Myrtle Beach News has endorsed Least Biased	entailment
+WBTW - Myrtle Beach News has an editorial bias towards  least biased	entailment
+WBTW - Myrtle Beach News printed a biased article titled **None in the last 5 years.**	contradiction
+WBTW - Myrtle Beach News is a  television station	entailment
+WBTW - Myrtle Beach News uses a peer review process	entailment
+WBTW - Myrtle Beach News covers the following topics: news, sports, weather, politics, and crime reporting.	entailment

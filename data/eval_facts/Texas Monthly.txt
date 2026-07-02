@@ -1,0 +1,21 @@
+Texas Monthly LLC owns Texas Monthly	entailment
+Texas Monthly LLC is the owner of Texas Monthly	entailment
+Texas Monthly bought Texas Monthly	contradiction
+Texas Monthly is funded through advertising and subscriptions fees.	entailment
+The remit of Texas Monthly is to **chronicle life in contemporary Texas, writing on politics, the environment, industry, and education.**	entailment
+The mission of Texas Monthly is to chronicle life in contemporary Texas, writing on politics, the environment, industry, and education.	entailment
+Texas Monthly tends to the left	entailment
+Other sources have commented on Texas Monthly, stating that it tends to be Left-Center biased.	entailment
+The factuality of Texas Monthly is reported to be High	entailment
+The factuality of Texas Monthly is reported to be High, according to D. Van Zandt	entailment
+Texas Monthly failed a fact-check for an article titled Critical Race Fury: The School Board Wars Are Getting Nasty in Texas	contradiction
+Texas Monthly chose not to cover failed fact checks	entailment
+Texas Monthly relies on advertising for revenue	entailment
+Texas Monthly relies on subscriptions for revenue	entailment
+Texas Monthly relies on donations for revenue	contradiction
+When aggregating stories, Texas Monthly relies on information from **proper sourcing to credible outlets**	entailment
+Texas Monthly has an editorial bias towards Left-Center.	entailment
+Texas Monthly was fined None in the Last 5 years	entailment
+Texas Monthly printed a biased article titled Critical Race Fury: The School Board Wars Are Getting Nasty in Texas	entailment
+Texas Monthly's headquarter is located in Downtown Austin.	entailment
+Texas Monthly is a  Left-Center biased based on story selection and editorial positions that moderately align with the left.	entailment

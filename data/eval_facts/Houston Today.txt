@@ -1,0 +1,24 @@
+Black Press Media owns Houston Today	entailment
+Black Press Media bought Houston Today	entailment
+Houston Today is funded through advertising	entailment
+The remit of Houston Today is to cover news for Houston and the surrounding area with minimal bias in wording, such as this	entailment
+The mission of Houston Today is to  "cover news, sports, crime, and business for the greater Houston, BC area."	entailment
+The usual audience of Houston Today is slightly Left-Center biased.	entailment
+Houston Today tends to the left	entailment
+Other sources have commented on Houston Today, stating that it tends to be slightly Left-Center biased.	entailment
+The factuality of Houston Today is reported to be High	entailment
+The factuality of Houston Today is reported to be High, according to Media Bias/Fact Check.	entailment
+Houston Today failed a fact-check for an article titled "Gitxaała Nation enters first-of-its-kind mineral rights challenge in B.C. Supreme Court".	contradiction
+Houston Today chose not to cover op-eds	entailment
+Houston Today relies on advertising for revenue	entailment
+Houston Today relies on subscriptions for revenue	contradiction
+Houston Today relies on donations for revenue	contradiction
+When aggregating stories, Houston Today relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+Houston Today has endorsed slightly Left-Center biased perspective	entailment
+Houston Today has an editorial bias towards **left-Center**	entailment
+D. Van Zandt is the editor of Houston Today	entailment
+Houston Today was fined 	entailment
+Houston Today had to apologize to no one for nothing	entailment
+Houston Today is a newspaper	entailment
+Houston Today uses an internal fact-checking process	entailment
+Houston Today covers the following topics: news, sports, crime, and business.	entailment

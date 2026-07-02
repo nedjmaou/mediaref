@@ -1,0 +1,22 @@
+Stephen Adams is the founder of Carbon County News	entailment
+Adams Publishing Group owns Carbon County News	entailment
+Stephen Adams is the owner of Carbon County News	entailment
+Carbon County News is funded through Advertising and subscription fees.	entailment
+The remit of Carbon County News is to cover local news through journalists with minimal bias in wording.	entailment
+The usual audience of Carbon County News is Left-Center Biased	entailment
+Carbon County News tends to the Left-Center Bias	entailment
+Other sources have commented on Carbon County News, stating that it tends to be Left-Center Biased	entailment
+The factuality of Carbon County News is reported to be High	entailment
+The factuality of Carbon County News is reported to be high, according to its clean fact-check record.	entailment
+Carbon County News failed a fact-check for an article titled None in the Last 5 years	contradiction
+Carbon County News printed a retraction after failing a fact-check for an article titled "FWP seeks comment on draft environmental assessment of elk management plan".	contradiction
+Carbon County News chose not to cover **any failed fact checks in the Last 5 years**	entailment
+Carbon County News provides original content written by staff journalists	entailment
+Carbon County News relies on advertising for revenue	entailment
+Carbon County News relies on subscriptions for revenue	entailment
+When aggregating stories, Carbon County News relies on information from **quotes, interviews, and accounts, while National and world news comes directly from the Associated Press**	entailment
+Carbon County News has an editorial bias towards Left.	entailment
+Stephen Adams is the editor of Carbon County News	contradiction
+Carbon County News's headquarter is located in Montana	entailment
+Carbon County News is funded by the private government	contradiction
+Carbon County News is a newspaper	entailment

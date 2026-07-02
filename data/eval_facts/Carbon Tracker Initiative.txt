@@ -1,0 +1,30 @@
+Mark Campanale founded Carbon Tracker Initiative	entailment
+Mark Campanale is the founder of Carbon Tracker Initiative	entailment
+Jon Grayson is the CEO of Carbon Tracker Initiative	entailment
+Mark Campanale leads Carbon Tracker Initiative	entailment
+Carbon Tracker Initiative owns Carbon Tracker Initiative	contradiction
+Carbon Tracker Initiative bought Carbon Tracker Initiative	contradiction
+Carbon Tracker Initiative acquired Carbon Tracker Initiative	contradiction
+Carbon Tracker Initiative is funded through philanthropic support from various European and American foundations	entailment
+The remit of Carbon Tracker Initiative is to **analyze the financial implications of the global transition from fossil fuels to renewable energy**	entailment
+The mission of Carbon Tracker Initiative is to **inform investors and companies about the financial implications of the global shift towards a low-carbon economy**.	entailment
+The usual audience of Carbon Tracker Initiative is investors and policymakers	entailment
+Carbon Tracker Initiative tends to the **risks**	entailment
+Other sources have commented on Carbon Tracker Initiative, stating that it tends to be **left-center biased**.	entailment
+The factuality of Carbon Tracker Initiative is reported to be High	entailment
+The factuality of Carbon Tracker Initiative is reported to be high, according to its proper sourcing and a clean fact-check record.	entailment
+Carbon Tracker Initiative failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Carbon Tracker Initiative chose not to cover **income generated through commercial activities**.	entailment
+Carbon Tracker Initiative relies on advertising for revenue	contradiction
+Carbon Tracker Initiative relies on subscriptions for revenue	contradiction
+Carbon Tracker Initiative relies on donations for revenue	entailment
+Carbon Tracker Initiative has received donations from Bloomberg Philanthropies, the Rockefeller Brothers Fund, and the Flora Hewlett Foundation.	entailment
+When aggregating stories, Carbon Tracker Initiative relies on information from **various European and American foundations**.	entailment
+Carbon Tracker Initiative has endorsed renewable energy	entailment
+Carbon Tracker Initiative has an editorial bias towards **left-center**.	entailment
+Carbon Tracker Initiative printed a biased article titled "Is President Biden living up to his campaign rhetoric on climate?"	entailment
+Carbon Tracker Initiative had to apologize to no one for nothing	entailment
+Carbon Tracker Initiative's headquarter is located in London	entailment
+Carbon Tracker Initiative is funded by the U.K. government	contradiction
+Carbon Tracker Initiative is a London-based think tank	entailment
+Carbon Tracker Initiative covers the following topics: economic risks and opportunities related to the shift from fossil fuels to renewable energy, climate change, policy shifts, President Biden's performance against his climate change commitments, U.S. withdrawal from the Paris Agreement, financial risks of countries reliant on oil and gas production during the shift to sustainable energy sources, and environmental progress.	entailment

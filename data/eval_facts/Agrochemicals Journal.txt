@@ -1,0 +1,25 @@
+MDPI (Multidisciplinary Digital Publishing Institute) leads Agrochemicals Journal	entailment
+MDPI AG owns Agrochemicals Journal	entailment
+Shu-Kun Lin is the owner of Agrochemicals Journal	entailment
+MDPI (Multidisciplinary Digital Publishing Institute) bought Agrochemicals Journal	contradiction
+Agrochemicals Journal is funded through **Article Processing Charges (APC)**	entailment
+The remit of Agrochemicals Journal is to cover the science of Agrochemicals in agriculture.	entailment
+The mission of Agrochemicals Journal is to cover the science of Agrochemicals in agriculture.	entailment
+Agrochemicals Journal tends to the science of Agrochemicals	entailment
+Other sources have commented on Agrochemicals Journal, stating that it tends to be Pro-Science.	entailment
+The factuality of Agrochemicals Journal is reported to be Mostly Factual	entailment
+The factuality of Agrochemicals Journal is reported to be Mostly Factual, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/mdpi-multidisciplinary-digital-publishing-institute-bias/).	entailment
+Agrochemicals Journal failed a fact-check for an article titled None	contradiction
+Agrochemicals Journal printed a retraction after failing a fact-check for an article titled **None**	contradiction
+Agrochemicals Journal chose not to cover failed fact checks	entailment
+Agrochemicals Journal relies on advertising for revenue	contradiction
+Agrochemicals Journal relies on subscriptions for revenue	contradiction
+Agrochemicals Journal relies on donations for revenue	contradiction
+When aggregating stories, Agrochemicals Journal relies on information from **studies**.	entailment
+Agrochemicals Journal has an editorial bias towards **pro-science**	entailment
+Agrochemicals Journal printed a biased article titled **None**	entailment
+Agrochemicals Journal's headquarter is located in Basel	entailment
+The Agrochemicals Journal is funded by the Swiss government	contradiction
+Agrochemicals Journal is a **journal**	entailment
+Agrochemicals Journal uses a peer review process	entailment
+Agrochemicals Journal covers the following topics: Science of Agrochemicals in agriculture	entailment

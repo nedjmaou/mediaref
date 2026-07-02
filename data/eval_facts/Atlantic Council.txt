@@ -1,0 +1,22 @@
+It founded Atlantic Council	contradiction
+Frederick Kempe is the CEO of Atlantic Council	entailment
+Fred Kempe leads Atlantic Council	entailment
+Eric Lipton is the owner of Atlantic Council	contradiction
+Facebook bought Atlantic Council	contradiction
+Atlantic Council is funded through donations from more than twenty-five foreign governments, US millionaire Adrienne Arsht, Lebanese billionaire Bahaa Hariri, the United Arab Emirates, Facebook, and the British government.	entailment
+The remit of Atlantic Council is to encourage the continuation of cooperation between North America and Europe that began after World War II (Atlanticism).	entailment
+The mission of Atlantic Council is to encourage the continuation of cooperation between North America and Europe that began after World War II (Atlanticism).	entailment
+Atlantic Council tends to the right-center	entailment
+Other sources have commented on Atlantic Council, stating that it tends to be Right-Center Biased	entailment
+The factuality of Atlantic Council is reported to be High	entailment
+The factuality of Atlantic Council is reported to be high, according to mostly proper sourcing and a clean fact-check record	entailment
+Atlantic Council chose not to cover **Brexit and former President Trump's removal of troops from Syria**	contradiction
+Atlantic Council relies on donations for revenue	entailment
+Atlantic Council has received donations from more than twenty-five foreign governments	entailment
+Atlantic Council has endorsed the Declaration of Principles at the Munich Security Conference.	entailment
+Atlantic Council has an editorial bias towards Right-Center Biased	entailment
+Frederick Kempe is the editor of Atlantic Council	contradiction
+Atlantic Council's headquarter is located in Washington, D.C.	entailment
+Atlantic Council is funded by the United Kingdom government	entailment
+Atlantic Council is a think tank	entailment
+Atlantic Council covers the following topics: **USA/European interests, USA politics, science, conflict between Russia and Ukraine**	entailment

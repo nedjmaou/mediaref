@@ -1,0 +1,22 @@
+KCMO - 95.7 FM - Kansas City	entailment
+Cumulus Media owns KCMO - 95.7 - Kansas City	entailment
+Cumulus Media bought KCMO - 95.7 - Kansas City.	entailment
+Cumulus Media acquired KCMO - 95.7 - Kansas City	entailment
+The mission of KCMO - 95.7 - Kansas City is to **provide conservative news talk shows and publish local and political news on the website**.	contradiction
+The usual audience of KCMO - 95.7 - Kansas City is **conservative**.	entailment
+KCMO - 95.7 - Kansas City tends to the **right**.	entailment
+Other sources have commented on KCMO - 95.7 - Kansas City, stating that it tends to be **right biased**	entailment
+The factuality of KCMO - 95.7 - Kansas City is reported to be Mixed	entailment
+The factuality of KCMO - 95.7 - Kansas City is reported to be Mixed, according to D. Van Zandt 11/09/2023	entailment
+KCMO - 95.7 - Kansas City failed a fact-check for an article titled "The radio hosts frequently fail fact checks."	entailment
+KCMO - 95.7 - Kansas City chose not to cover news on the website.	entailment
+KCMO - 95.7 - Kansas City provides original content written by staff journalists	contradiction
+KCMO - 95.7 - Kansas City relies on advertising for revenue	entailment
+KCMO - 95.7 - Kansas City relies on subscriptions for revenue	contradiction
+When aggregating stories, KCMO - 95.7 - Kansas City relies on information from **radio hosts who generally hold conservative perspectives**.	entailment
+KCMO - 95.7 - Kansas City has an editorial bias towards **right**	entailment
+KCMO - 95.7 - Kansas City printed a factually misleading titled Right Biased	entailment
+KCMO - 95.7 - Kansas City's headquarter is located in Kansas City, Kansas.	entailment
+KCMO - 95.7 - Kansas City is funded by the **advertising** government	contradiction
+KCMO - 95.7 - Kansas City is a **Right Biased**	entailment
+KCMO - 95.7 - Kansas City uses an internal fact-checking process	contradiction

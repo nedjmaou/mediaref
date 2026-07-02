@@ -1,0 +1,24 @@
+Who is the founder of There is News	entailment
+There leads There is News	contradiction
+There is News is funded through advertising.	entailment
+The remit of There is News is to  Satire.	entailment
+The mission of There is News is to  satirize current events and news stories.	entailment
+There is News tends to the  satirical.	entailment
+Other sources have commented on There is News, stating that it tends to be **a satire website**.	entailment
+The factuality of There is News is reported to be  a satire website.	entailment
+The factuality of There is News is reported to be satire, according to D. Van Zandt 6/8/2019.	entailment
+There is News failed a fact-check for an article titled "The man is more fertile the more hair is on his chest, according to a study"	entailment
+There is News printed a retraction after failing a fact-check for an article titled "The man is more fertile the more hair is on his chest, according to a study".	contradiction
+There is News chose not to cover actual news	entailment
+There is News provides original content written by staff journalists	contradiction
+There is News relies on advertising for revenue	entailment
+There is News relies on subscriptions for revenue	contradiction
+There is News relies on donations for revenue	contradiction
+When aggregating stories, There is News relies on information from **satire sources**	entailment
+There is News has an editorial bias towards satire.	entailment
+There is News printed a biased article titled  "The man is more fertile the more hair is on his chest, according to a study".	entailment
+There is News printed a factually misleading titled The man is more fertile the more hair is on his chest, according to a study.	entailment
+There is News's headquarter is located in Spain	entailment
+There is News is funded by the Spanish government	contradiction
+There is News is a satire website	entailment
+There is News covers the following topics:  Satire.	entailment

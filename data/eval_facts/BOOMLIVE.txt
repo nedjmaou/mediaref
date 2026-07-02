@@ -1,0 +1,18 @@
+Govindraj Ethiraj founded BOOMLIVE	entailment
+Govindraj Ethiraj is the founder of BOOMLIVE	entailment
+Outcue Media Pvt Ltd owns BOOMLIVE	entailment
+BOOMLIVE is funded through Advertising and donations, 	entailment
+The remit of BOOMLIVE is to fight misinformation, explain issues and make the internet safer.	entailment
+The mission of BOOMLIVE is to fight misinformation, explain issues and make the internet safer.	entailment
+BOOMLIVE tends to the Right-Center	entailment
+Other sources have commented on BOOMLIVE, stating that it tends to be Right-Center biased.	entailment
+The factuality of BOOMLIVE is reported to be High	entailment
+The factuality of BOOMLIVE is reported to be High, according to M. Huiting 6/18/2021	entailment
+BOOMLIVE failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+BOOMLIVE relies on advertising for revenue	entailment
+BOOMLIVE relies on donations for revenue	entailment
+When aggregating stories, BOOMLIVE relies on information from [AFP](https://mediabiasfactcheck.com/afp-agence-france-presse/).	entailment
+The answer is: BOOMLIVE had to apologize for **None in the Last 5 years**.	entailment
+BOOMLIVE's headquarter is located in Mumbai	entailment
+BOOMLIVE is a fact-checking site	entailment
+BOOMLIVE covers the following topics: political, business, social, health & medicine-related issues	entailment

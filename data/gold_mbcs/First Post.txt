@@ -1,0 +1,13 @@
+History
+First Post is a news and opinion website based in India. First Post’s
+[about](http://www.firstpost.com/about-firstpost) page states Jaideep V. Giridhar is Executive Editor, and the site is part of Network 18. First Post publishes stories about politics, sports, business, technology, and entertainment. [Read our profile on India’s media and government.](https://mediabiasfactcheck.com/india-media-profile/)
+Funded by / Ownership
+The website is a part of the
+[Network 18](https://en.wikipedia.org/wiki/Network_18) media conglomerate owned by [Reliance Industries](https://en.wikipedia.org/wiki/Reliance_Industries), which also runs CNN-News18 and CNBC-TV18. Revenue is derived through advertising.
+Analysis / Bias
+In review, First Post was originally considered left-leaning due to merging with the Indian edition of
+[Forbes](https://mediabiasfactcheck.com/forbes/). However, in 2022 they routinely favor conservative Prime Minister Modi and his BJP party with articles such as this [1,200 years of servitude: PM Modi offers food for thought](https://www.firstpost.com/politics/1200-years-of-servitude-pm-modi-offers-food-for-thought-1567805.html).
+While covering USA political news, they provide links to their sources, which are credible mainstream media such as
+[Bloomberg](https://mediabiasfactcheck.com/bloomberg/), [NY Times](https://mediabiasfactcheck.com/new-york-times/), [WaPo](https://mediabiasfactcheck.com/washington-post/), and [BBC](https://mediabiasfactcheck.com/bbc/); however, they also utilize strong loaded words in their headlines and articles such as: “ [Donald Trump: An incredibly indecent man, a poor orator and a failing president](http://www.firstpost.com/world/donald-trump-an-incredibly-indecent-man-a-poor-orator-and-a-failing-president-3348856.html).” In general, First Post offers left and right-leaning opinions; however, they rarely criticize and often praise conservative PM Modi and his ruling government.
+Failed Fact Checks
+[“#WATCH – Dramatic visuals of the eye of #CycloneNisarga.”](https://www.boomlive.in/fake-news/news18-firstpost-tweet-old-video-of-waterspout-as-cyclone-nisarga-8354)– Misleading [A ‘time capsule’ under Ayodhya Ram Mandir’s foundation](https://newsmeter.in/media-reports-about-placing-a-time-capsule-under-ayodhya-ram-mandirs-foundation-are-false/)– False

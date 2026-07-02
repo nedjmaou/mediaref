@@ -1,0 +1,18 @@
+Cox Enterprises owns WXVT - DeltaNews	entailment
+Cox Enterprises is the owner of WXVT - DeltaNews	entailment
+Cox Enterprises bought WXVT - DeltaNews	entailment
+Cox Enterprises acquired WXVT - DeltaNews	entailment
+WXVT - DeltaNews is funded through advertising and sponsored content.	entailment
+The usual audience of WXVT - DeltaNews is **the greater Cleveland, Mississippi area**.	entailment
+Other sources have commented on WXVT - DeltaNews, stating that it tends to be Least Biased	entailment
+The factuality of WXVT - DeltaNews is reported to be High	entailment
+The factuality of WXVT - DeltaNews is reported to be High, according to Media Bias Fact Check	entailment
+WXVT - DeltaNews failed a fact-check for an article titled None in the Last 5 years	entailment
+WXVT - DeltaNews chose not to cover op-eds	entailment
+WXVT - DeltaNews relies on advertising for revenue	entailment
+When aggregating stories, WXVT - DeltaNews relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+WXVT - DeltaNews has an editorial bias towards **neutrality**	entailment
+WXVT - DeltaNews printed a biased article titled  "None in the Last 5 years"	contradiction
+WXVT - DeltaNews had to apologize to no one for nothing	entailment
+WXVT - DeltaNews is funded by the  government	contradiction
+WXVT - DeltaNews is a Least Biased	entailment

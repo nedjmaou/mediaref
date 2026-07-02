@@ -1,0 +1,22 @@
+The E. W. Scripps Company owns KJRH - Tulsa News	entailment
+The E. W. Scripps Company is the owner of KJRH - Tulsa News	entailment
+The E. W. Scripps Company bought KJRH - Tulsa News	entailment
+The E. W. Scripps Company acquired KJRH - Tulsa News	entailment
+The remit of KJRH - Tulsa News is to cover local news, sports, weather, entertainment, and crime for the greater Tulsa, Oklahoma, area.	entailment
+The mission of KJRH - Tulsa News is to **cover local news, sports, weather, entertainment, and crime for the greater Tulsa, Oklahoma, area**.	entailment
+The usual audience of KJRH - Tulsa News is the greater Tulsa, Oklahoma, area.	entailment
+KJRH - Tulsa News tends to the **local news**, sports, weather, entertainment, and crime for the greater Tulsa, Oklahoma, area.	entailment
+Other sources have commented on KJRH - Tulsa News, stating that it tends to be **least biased**.	entailment
+The factuality of KJRH - Tulsa News is reported to be High	entailment
+The factuality of KJRH - Tulsa News is reported to be high, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/).	entailment
+KJRH - Tulsa News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+KJRH - Tulsa News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years."	contradiction
+KJRH - Tulsa News chose not to cover op-eds	entailment
+KJRH - Tulsa News relies on advertising for revenue	entailment
+KJRH - Tulsa News relies on subscriptions for revenue	contradiction
+KJRH - Tulsa News relies on donations for revenue	contradiction
+When aggregating stories, KJRH - Tulsa News relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/) and Scripps National	entailment
+KJRH - Tulsa News has an editorial bias towards **minimal bias**	entailment
+KJRH - Tulsa News had to apologize for **None in the Last 5 years**	entailment
+KJRH - Tulsa News is a news station.	entailment
+KJRH - Tulsa News covers the following topics: local news, sports, weather, entertainment, and crime for the greater Tulsa, Oklahoma, area.	entailment

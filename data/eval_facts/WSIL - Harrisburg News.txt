@@ -1,0 +1,21 @@
+Allen Media LLC owns WSIL - Harrisburg News	entailment
+Allen Media LLC is the owner of WSIL - Harrisburg News	entailment
+Allen Media LLC bought WSIL - Harrisburg News	entailment
+Allen Media LLC acquired WSIL - Harrisburg News	entailment
+WSIL - Harrisburg News is funded through Allen Media LLC, a subsidiary of Entertainment Studios.	entailment
+The remit of WSIL - Harrisburg News is to **provide news on crime, sports, and lifestyle for the greater Harrisburg area**	entailment
+The mission of WSIL - Harrisburg News is to  report news for Harrisburg and the surrounding area through reporters and with minimal bias.	entailment
+The usual audience of WSIL - Harrisburg News is **Harrisburg and the surrounding area**.	entailment
+WSIL - Harrisburg News tends to the **right**	contradiction
+Other sources have commented on WSIL - Harrisburg News, stating that it tends to be **Least Biased**	entailment
+The factuality of WSIL - Harrisburg News is reported to be High	entailment
+The factuality of WSIL - Harrisburg News is reported to be High, according to Media Bias Fact Check.	entailment
+WSIL - Harrisburg News failed a fact-check for an article titled  "New health clinic opening August 29 in Goreville"	contradiction
+WSIL - Harrisburg News printed a retraction after failing a fact-check for an article titled "New health clinic opening August 29 in Goreville."	contradiction
+WSIL - Harrisburg News chose not to cover Op-eds	entailment
+WSIL - Harrisburg News relies on advertising for revenue	entailment
+WSIL - Harrisburg News relies on donations for revenue	contradiction
+When aggregating stories, WSIL - Harrisburg News relies on information from **reporters and with minimal bias**.	entailment
+WSIL - Harrisburg News printed a biased article titled "New health clinic opening August 29 in Goreville".	contradiction
+WSIL - Harrisburg News is a [Least Biased](https://mediabiasfactcheck.com/least-biased/).	entailment
+WSIL - Harrisburg News covers the following topics: crime, sports, and lifestyle	entailment

@@ -1,0 +1,19 @@
+Sinclair Broadcast Group owns KPTH - Sioux City News	entailment
+Sinclair Broadcast Group is the owner of KPTH - Sioux City News	entailment
+Sinclair Broadcast Group bought KPTH - Sioux City News	entailment
+Sinclair Broadcast Group acquired KPTH - Sioux City News	entailment
+The remit of KPTH - Sioux City News is to **report local news with minimal bias in wording**	entailment
+KPTH - Sioux City News tends to the right	entailment
+Other sources have commented on KPTH - Sioux City News, stating that it tends to be right-leaning.	entailment
+The factuality of KPTH - Sioux City News is reported to be High	entailment
+The factuality of KPTH - Sioux City News is reported to be High, according to D. Van Zandt	entailment
+KPTH - Sioux City News failed a fact-check for an article titled "Emmetsburg man charged with murder in Palo Alto County 2020 homicide".	contradiction
+KPTH - Sioux City News printed a retraction after failing a fact-check for an article titled "Emmetsburg man charged with murder in Palo Alto County 2020 homicide".	contradiction
+KPTH - Sioux City News chose not to cover op-eds	entailment
+KPTH - Sioux City News relies on advertising for revenue	entailment
+KPTH - Sioux City News has received donations from the Sinclair Broadcast Group	entailment
+When aggregating stories, KPTH - Sioux City News relies on information from [the Associated Press](https://mediabiasfactcheck.com/associated-press/) and others by Sinclair properties.	entailment
+KPTH - Sioux City News has an editorial bias towards **the right**	entailment
+KPTH - Sioux City News's headquarter is located in Sioux City, Iowa	entailment
+KPTH - Sioux City News is funded by the [Sinclair Broadcast Group](https://mediabiasfactcheck.com/sinclair-broadcast-group/) government	contradiction
+KPTH - Sioux City News is a [**Right-Center**]	entailment

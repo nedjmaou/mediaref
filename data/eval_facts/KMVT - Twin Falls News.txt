@@ -1,0 +1,20 @@
+Gray Television owns KMVT - Twin Falls News	entailment
+Gray Television bought KMVT - Twin Falls News	entailment
+KMVT - Twin Falls News is funded through **sponsored content and advertising**	entailment
+The mission of KMVT - Twin Falls News is to  report news factually and with minimal bias.	entailment
+The usual audience of KMVT - Twin Falls News is **residents of Twin Falls, Idaho, and the surrounding areas**	entailment
+KMVT - Twin Falls News tends to the Least Biased	entailment
+Other sources have commented on KMVT - Twin Falls News, stating that it tends to be Least Biased	entailment
+The factuality of KMVT - Twin Falls News is reported to be High	entailment
+The factuality of KMVT - Twin Falls News is reported to be High, according to Media Bias/Fact Check.	entailment
+KMVT - Twin Falls News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KMVT - Twin Falls News chose not to cover **opinion page**	entailment
+KMVT - Twin Falls News provides original content written by staff journalists	entailment
+KMVT - Twin Falls News relies on advertising for revenue	entailment
+KMVT - Twin Falls News relies on subscriptions for revenue	entailment
+KMVT - Twin Falls News relies on donations for revenue	contradiction
+When aggregating stories, KMVT - Twin Falls News relies on information from [CNN](https://mediabiasfactcheck.com/cnn/), the [Associated Press](https://mediabiasfactcheck.com/associated-press/), and other Gray Television affiliates.	entailment
+KMVT - Twin Falls News has an editorial bias towards Least Biased.	entailment
+KMVT - Twin Falls News had to apologize to  for 	contradiction
+KMVT - Twin Falls News is funded by the United States government	entailment
+KMVT - Twin Falls News covers the following topics: Local and national news, sports, weather, traffic, and entertainment.	entailment

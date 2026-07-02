@@ -1,0 +1,22 @@
+The Shovel is funded through membership sales, an online shop selling merchandise, and advertising.	entailment
+The remit of The Shovel is to  satirize.	entailment
+The mission of The Shovel is to publish satire content.	entailment
+The usual audience of The Shovel is satire-loving readers.	entailment
+The Shovel tends to the Satire	entailment
+Other sources have commented on The Shovel, stating that it tends to be **satirical**	entailment
+The factuality of The Shovel is reported to be Satire	entailment
+The factuality of The Shovel is reported to be satire, according to Bias Media Fact Check.	entailment
+The Shovel failed a fact-check for an article titled "Trump Now Claiming You Can’t Get Coronavirus If You’ve Still Got Bieber Fever".	contradiction
+The Shovel chose not to cover coronavirus vaccine progress.	contradiction
+The Shovel provides original content written by staff journalists	contradiction
+The Shovel relies on advertising for revenue	entailment
+The Shovel relies on subscriptions for revenue	contradiction
+The Shovel relies on donations for revenue	contradiction
+When aggregating stories, The Shovel relies on information from **satire**	entailment
+The Shovel has endorsed satire	entailment
+The Shovel printed a biased article titled "Disgusting Oxford University Initiation Ritual Required Members To Join The Conservative Party"	entailment
+The Shovel printed a factually misleading titled **Coronavirus Vaccine Still 12-18 Million Clickbait Articles Away**	entailment
+The Shovel's headquarter is located in Australia	entailment
+The Shovel is funded by the Australian government	contradiction
+The Shovel is a Satire	entailment
+The Shovel covers the following topics: Satire	entailment

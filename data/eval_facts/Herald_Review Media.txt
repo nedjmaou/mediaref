@@ -1,0 +1,22 @@
+Wick Communications owns Herald/Review Media	entailment
+Wick Communications is the owner of Herald/Review Media	entailment
+Wick Communications bought Herald/Review Media	contradiction
+Herald/Review Media is funded through advertising and subscription fees.	entailment
+The remit of Herald/Review Media is to **publish local news**	entailment
+The usual audience of Herald/Review Media is right/center biased	entailment
+Herald/Review Media tends to the right.	entailment
+Other sources have commented on Herald/Review Media, stating that it tends to be right-leaning.	entailment
+The factuality of Herald/Review Media is reported to be High	entailment
+The factuality of Herald/Review Media is reported to be High, according to D. Van Zandt	entailment
+Herald/Review Media printed a retraction after failing a fact-check for an article titled "Young load car diver sentenced gets 30 days in juvenile detention."	contradiction
+Herald/Review Media chose not to cover national news	entailment
+Herald_Review Media provides original content written by staff journalists	entailment
+Herald_Review Media relies on advertising for revenue	entailment
+Herald_Review Media relies on subscriptions for revenue	contradiction
+Herald_Review Media relies on donations for revenue	contradiction
+When aggregating stories, Herald/Review Media relies on information from **several small community newspapers in Cochise County**.	entailment
+Herald/Review Media has an editorial bias towards right.	entailment
+Herald/Review Media had to apologize for None in the Last 5 years	entailment
+Herald/Review Media paid damages to [XYZ] after [defamation lawsuit]	contradiction
+Herald/Review Media is a website	entailment
+Herald/Review Media covers the following topics: Local news.	entailment

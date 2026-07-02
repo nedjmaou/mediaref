@@ -1,0 +1,19 @@
+Lucy Burns Institute owns Ballotpedia	entailment
+Ballotpedia is the owner of Ballotpedia	contradiction
+Ballotpedia is funded through donations	entailment
+The remit of Ballotpedia is to  provide accurate and objective information about politics at all levels of government.	entailment
+The mission of Ballotpedia is to inform people about politics by providing accurate and objective information about politics at all levels of government.	entailment
+Other sources have commented on Ballotpedia, stating that it tends to be **least biased**.	entailment
+The factuality of Ballotpedia is reported to be Very High	entailment
+The factuality of Ballotpedia is reported to be Very High, according to its fact check record.	entailment
+Ballotpedia failed a fact-check for an article titled  "None in the Last 5 years"	contradiction
+Ballotpedia printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	entailment
+Ballotpedia chose not to cover  politicians and  large media outlets.	contradiction
+Ballotpedia relies on advertising for revenue	contradiction
+Ballotpedia relies on subscriptions for revenue	contradiction
+Ballotpedia relies on donations for revenue	entailment
+Ballotpedia has received donations from [Lucy Burns Institute](https://en.wikipedia.org/wiki/LucyBurnsInstitute)	entailment
+When aggregating stories, Ballotpedia relies on information from **a clean fact check record**.	entailment
+Ballotpedia has an editorial bias towards least biased.	entailment
+Ballotpedia is a **nonpartisan online political encyclopedia**.	entailment
+Ballotpedia covers the following topics: American federal, state, and local politics, elections, and public policy.	entailment

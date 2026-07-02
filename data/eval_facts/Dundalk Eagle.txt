@@ -1,0 +1,23 @@
+Stephen Adams is the founder of Dundalk Eagle	contradiction
+Adams Publishing Group owns Dundalk Eagle	entailment
+Stephen Adams is the owner of Dundalk Eagle	entailment
+Adams Publishing Group bought Dundalk Eagle	entailment
+Dundalk Eagle is funded through advertising and subscription fees	entailment
+The remit of Dundalk Eagle is to **cover local news through journalists with minimal bias in wording**	entailment
+The mission of Dundalk Eagle is to report the news factually and with a slight Left-leaning bias.	entailment
+Dundalk Eagle tends to the Left	entailment
+Other sources have commented on Dundalk Eagle, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Dundalk Eagle is reported to be High.	entailment
+The factuality of Dundalk Eagle is reported to be High, according to D. Van Zandt	entailment
+Dundalk Eagle failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Dundalk Eagle chose not to cover **national and world news**.	contradiction
+Dundalk Eagle relies on advertising for revenue	entailment
+Dundalk Eagle relies on subscriptions for revenue	entailment
+Dundalk Eagle relies on donations for revenue	contradiction
+When aggregating stories, Dundalk Eagle relies on information from **quotes, interviews, and accounts, while National and world news comes directly from the Associated Press**	entailment
+Dundalk Eagle has endorsed LEFT	entailment
+Dundalk Eagle has an editorial bias towards Left.	entailment
+Stephen Adams is the editor of Dundalk Eagle	contradiction
+Dundalk Eagle had to apologize for None in the Last 5 years	entailment
+The Dundalk Eagle is a weekly newspaper	entailment
+The Dundalk Eagle covers the following topics: local news, sports, crime, and weather	entailment

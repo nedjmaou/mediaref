@@ -1,0 +1,26 @@
+Gannett is the founder of Jackson Sun	entailment
+Gannett owns Jackson Sun	entailment
+Gannett is the owner of Jackson Sun	entailment
+Gannett bought Jackson Sun	entailment
+Gannett acquired Jackson Sun	entailment
+Jackson Sun is funded through **advertising and paid subscriptions**	entailment
+The remit of Jackson Sun is to **cover news, sports, lifestyle, and entertainment for the greater Jackson, Mississippi area**	entailment
+The mission of Jackson Sun is to report local news with minimal loaded emotional language.	entailment
+The usual audience of Jackson Sun is ***the greater Jackson, Mississippi area***.	entailment
+The Jackson Sun tends to the left	entailment
+Other sources have commented on Jackson Sun, stating that it tends to be **left-center biased**.	entailment
+The factuality of Jackson Sun is reported to be High	entailment
+The factuality of Jackson Sun is reported to be High, according to D. Van Zandt	entailment
+Jackson Sun failed a fact-check for an article titled "Tyre Nichols case: Tennessee board suspends Memphis first responder licenses for inaction".	contradiction
+Jackson Sun chose not to cover Presidential endorsements	entailment
+Jackson Sun relies on advertising for revenue	entailment
+Jackson Sun relies on subscriptions for revenue	entailment
+Jackson Sun relies on donations for revenue	contradiction
+When aggregating stories, Jackson Sun relies on information from [Associated Press].	entailment
+Jackson Sun has endorsed  Left-Center Biased	contradiction
+Jackson Sun has an editorial bias towards **left**	entailment
+Jackson Sun printed a factually misleading titled "Tyre Nichols case: Tennessee board suspends Memphis first responder licenses for inaction"	entailment
+Jackson Sun's headquarter is located in Jackson, Tennessee	entailment
+The Jackson Sun is a daily newspaper	entailment
+Jackson Sun uses a peer review process	entailment
+Jackson Sun covers the following topics: news, sports, lifestyle, and entertainment for the greater Jackson, Mississippi area.	contradiction

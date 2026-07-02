@@ -1,0 +1,22 @@
+Nexstar Media Group owns WPIX 11	entailment
+Nexstar Media Group is the owner of WPIX 11	entailment
+Nexstar Media Group bought WPIX 11	contradiction
+The remit of WPIX 11 is to publish news for the greater New York City and Tri-state area, including original local reporting and national/international news coverage through various media outlets.	entailment
+The mission of WPIX 11 is to report news factually and with minimal bias.	entailment
+The usual audience of WPIX 11 is **the greater New York City and Tri-state area (New Jersey, New York, Connecticut)**	entailment
+Other sources have commented on WPIX 11, stating that it tends to be **Least Biased**.	entailment
+The factuality of WPIX 11 is reported to be High	entailment
+The factuality of WPIX 11 is reported to be high, according to Media Bias Fact Check.	entailment
+WPIX 11 failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+WPIX 11 printed a retraction after failing a fact-check for an article titled "A closer look at Lt. Gov. Kathy Hochul"	contradiction
+WPIX 11 chose not to cover  "op-eds"	entailment
+WPIX 11 relies on advertising for revenue	entailment
+When aggregating stories, WPIX 11 relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/), and other large credible media outlets.	entailment
+WPIX 11 has endorsed Least Biased	entailment
+WPIX 11 has an editorial bias towards Least Biased	entailment
+WPIX 11 printed a biased article titled "A closer look at Lt. Gov. Kathy Hochul".	contradiction
+WPIX 11 printed a factually misleading titled "Multiple people injured in Brownsville shooting: NYPD.	contradiction
+"WPIX 11's headquarter is located in New York City"	entailment
+WPIX 11 is funded by the private government	contradiction
+WPIX 11 is a CW-affiliated television station	entailment
+WPIX 11 covers the following topics: news, sports, weather, politics, and crime reporting	entailment

@@ -1,0 +1,27 @@
+Mike Adams founded NaturalPedia.com	entailment
+Mike Adams is the founder of NaturalPedia.com	entailment
+Mike Adams leads NaturalPedia.com	entailment
+Mike Adams owns NaturalPedia.com	entailment
+Mike Adams is the owner of NaturalPedia.com	entailment
+Mike Adams bought NaturalPedia.com	entailment
+Mike Adams acquired NaturalPedia.com	entailment
+NaturalPedia.com is funded through online advertising	entailment
+The remit of NaturalPedia.com is to publish false information.	entailment
+The mission of NaturalPedia.com is to promote misinformation and conspiracy theories	entailment
+NaturalPedia.com tends to the extreme right biased Quackery Level Pseudoscience website	entailment
+Other sources have commented on NaturalPedia.com, stating that it tends to be an extreme right biased Quackery Level Pseudoscience website that also publishes conspiracy theories.	entailment
+The factuality of NaturalPedia.com is reported to be **extreme right biased Quackery Level Pseudoscience**	entailment
+The factuality of NaturalPedia.com is reported to be extremely right biased Quackery Level Pseudoscience, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/natural-news/).	entailment
+NaturalPedia.com chose not to cover climate change.	entailment
+NaturalPedia.com relies on advertising for revenue	entailment
+NaturalPedia.com relies on subscriptions for revenue	entailment
+NaturalPedia.com relies on donations for revenue	contradiction
+NaturalPedia.com has received donations from **online advertising**	entailment
+NaturalPedia.com has endorsed quackery Level Pseudoscience website	entailment
+NaturalPedia.com has an editorial bias towards extreme right.	entailment
+NaturalPedia.com printed a biased article titled "Understanding the Dangers of Vaccines: Debunking the Government Lies"	entailment
+NaturalPedia.com printed a factually misleading titled "Climate change cultists are now taking over your local weather forecast."	entailment
+NaturalPedia.com is funded by the United States government	entailment
+NaturalPedia.com is a **right-wing conspiracy and pseudoscience** website.	entailment
+NaturalPedia.com uses an internal fact-checking process	contradiction
+NaturalPedia.com covers the following topics: extreme right biased Quackery Level Pseudoscience website that also publishes conspiracy theories.	entailment

@@ -1,0 +1,25 @@
+Reliance Industries owns First Post	entailment
+First Post bought First Post	entailment
+First Post is funded through **advertising**	entailment
+The remit of First Post is to **publish stories about politics, sports, business, technology, and entertainment**	entailment
+The usual audience of First Post is Right-Center.	entailment
+First Post tends to the right-center	entailment
+Other sources have commented on First Post, stating that it tends to be Right-Center.	entailment
+The factuality of First Post is reported to be Mostly Factual	entailment
+The factuality of First Post is reported to be Mostly Factual, according to M. Huitsing 9/7/2017	entailment
+First Post failed a fact-check for an article titled **"A 'time capsule' under Ayodhya Ram Mandir’s foundation"**.	entailment
+First Post chose not to cover cyclone Nisarga	entailment
+First Post relies on advertising for revenue	entailment
+First Post relies on subscriptions for revenue	entailment
+First Post relies on donations for revenue	entailment
+When aggregating stories, First Post relies on information from credible mainstream media such as Bloomberg, NY Times, WaPo, and BBC.	entailment
+First Post has an editorial bias towards right.	entailment
+First Post was fined 	entailment
+First Post printed a biased article titled 1,200 years of servitude: PM Modi offers food for thought	entailment
+First Post printed a factually misleading titled "#WATCH – Dramatic visuals of the eye of #CycloneNisarga.".	entailment
+First Post had to apologize to Newsmeter.in for placing a time capsule under Ayodhya Ram Mandir’s foundation	contradiction
+First Post's headquarter is located in India.	entailment
+First Post is funded by the **Indian** government	contradiction
+First Post is a news and opinion website based in India.	entailment
+First Post uses an internal fact-checking process	entailment
+First Post covers the following topics: Politics, Sports, Business, Technology, and Entertainment	entailment

@@ -1,0 +1,21 @@
+PoliticalDiscussion is funded through advertising.	entailment
+The remit of PoliticalDiscussion is to promote anti-Muslim propaganda through an anonymous network of websites.	entailment
+The mission of PoliticalDiscussion is to promote anti-Muslim propaganda through an anonymous network.	entailment
+The usual audience of PoliticalDiscussion is  extreme right-wing individuals.	entailment
+PoliticalDiscussion tends to the extreme right-wingbias	entailment
+Other sources have commented on PoliticalDiscussion, stating that it tends to be Questionable	entailment
+The factuality of PoliticalDiscussion is reported to be Questionable	entailment
+The factuality of PoliticalDiscussion is reported to be Questionable, according to extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	entailment
+PoliticalDiscussion chose not to cover extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	contradiction
+PoliticalDiscussion provides original content written by staff journalists	contradiction
+PoliticalDiscussion relies on advertising for revenue	entailment
+PoliticalDiscussion relies on subscriptions for revenue	entailment
+When aggregating stories, PoliticalDiscussion relies on information from **sources in the network**	contradiction
+PoliticalDiscussion has endorsed extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency	entailment
+PoliticalDiscussion has an editorial bias towards extreme right-wing bias	entailment
+PoliticalDiscussion printed a biased article titled **"Child bride warns the West 'When Islam comes, it conquers and it has no mercy.'"**	entailment
+PoliticalDiscussion printed a factually misleading titled **news**	entailment
+PoliticalDiscussion is funded by the Australian government	contradiction
+PoliticalDiscussion is a  hate group	entailment
+PoliticalDiscussion uses an internal fact-checking process	contradiction
+PoliticalDiscussion covers the following topics:  extreme right-wing bias, poor sourcing, promotion of anti-Muslim propaganda and conspiracy theories, false claims, and a complete lack of transparency.	entailment

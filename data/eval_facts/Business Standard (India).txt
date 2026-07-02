@@ -1,0 +1,23 @@
+Shivendra Gupta is the CEO of Business Standard (India)	entailment
+Business Standard Private Limited owns Business Standard (India)	entailment
+Kotak Mahindra Bank bought Business Standard (India)	entailment
+Kotak Mahindra Bank acquired Business Standard (India)	contradiction
+The remit of Business Standard (India) is to report financial news factually and with a right-leaning bias favoring the government of India.	entailment
+The mission of Business Standard (India) is to  provide accurate and factual reporting on Indian economy, international finance, trade, stock and currency markets, news, politics, business, and technology.	entailment
+The usual audience of Business Standard (India) is **people interested in financial news, business, and politics**	entailment
+Business Standard (India) tends to the right-leaning政治 party	entailment
+Other sources have commented on Business Standard (India), stating that it tends to be right-leaning.	entailment
+The factuality of Business Standard (India) is reported to be Mostly Factual	entailment
+The factuality of Business Standard (India) is reported to be Mostly Factual, according to M. Huitsing 	entailment
+Business Standard (India) relies on advertising for revenue	entailment
+Business Standard (India) relies on subscriptions for revenue	entailment
+Business Standard (India) relies on donations for revenue	contradiction
+Business Standard (India) has received donations from **Kotak Mahindra Bank**	entailment
+When aggregating stories, Business Standard (India) relies on information from **themselves**	entailment
+Business Standard (India) has an editorial bias towards right-leaning ruling party	entailment
+A K Bhattacharya is the editor of Business Standard (India)	entailment
+Business Standard (India) printed a factually misleading titled **article**	entailment
+Business Standard (India)'s headquarter is located in New Delhi	entailment
+Business Standard (India) is funded by the Indian government	entailment
+Business Standard (India) is a  financial daily published in English and Hindi.	entailment
+Business Standard (India) covers the following topics: Indian economy and international finance, trade, stock and currency markets, news, politics, business, and technology.	entailment

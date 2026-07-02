@@ -1,0 +1,28 @@
+Rare owns Rare News	contradiction
+Rare is the owner of Rare News	contradiction
+Rare bought Rare News	entailment
+Rare acquired Rare News	contradiction
+Rare News is funded through advertising and the sale of merchandise	entailment
+The remit of Rare News is to publish trending, odd, and political news.	entailment
+The usual audience of Rare News is **individuals who favor a conservative perspective**	entailment
+Rare News tends to the **right**	entailment
+Other sources have commented on Rare News, stating that it tends to be **right-biased**.	entailment
+The factuality of Rare News is reported to be Mixed.	entailment
+The factuality of Rare News is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Rare News failed a fact-check for an article titled "Biden Administration Refuses To Give RFK Jr. Secret Service Detail".	entailment
+Rare News printed a retraction after failing a fact-check for an article titled "Biden Administration Refuses To Give RFK Jr. Secret Service Detail".	contradiction
+Rare News chose not to cover **news stories that are not in line with their conservative perspective**	entailment
+Rare News provides original content written by staff journalists	contradiction
+Rare News relies on advertising for revenue	entailment
+Rare News relies on subscriptions for revenue	entailment
+Rare News relies on donations for revenue	contradiction
+Rare News has received donations from Savage Vetures.	entailment
+When aggregating stories, Rare News relies on information from **other sources**.	entailment
+Rare News has endorsed **a conservative perspective**	entailment
+Rare News has an editorial bias towards a conservative perspective	entailment
+Rare News printed a biased article titled "Joe Biden Lied About Being A Civil Rights Activist".	entailment
+Rare News printed a factually misleading titled **Biden Administration Refuses To Give RFK Jr. Secret Service Detail**	contradiction
+Rare News's headquarter is located in Nashville.	entailment
+Rare News is a website	entailment
+Rare News uses an internal fact-checking process	entailment
+Rare News covers the following topics: News, Politics, and Trending	entailment

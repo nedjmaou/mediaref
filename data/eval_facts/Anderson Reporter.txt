@@ -1,0 +1,26 @@
+Metric Media founded Anderson Reporter	entailment
+Anderson Reporter leads Anderson Reporter	contradiction
+Metric Media Foundation owns Anderson Reporter	entailment
+Metric Media LLC is the owner of Anderson Reporter	entailment
+Anderson Reporter is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Anderson Reporter is to **publish false information, lacks transparency and is an imposter site**.	entailment
+The mission of Anderson Reporter is to **provide objective, data-driven information without political bias**.	contradiction
+The usual audience of Anderson Reporter is **right-center**.	contradiction
+The Anderson Reporter tends to the right-center	entailment
+Other sources have commented on Anderson Reporter, stating that it tends to be **right-center biased**.	entailment
+The factuality of Anderson Reporter is reported to be Questionable	entailment
+The factuality of Anderson Reporter is reported to be **Questionable**, according to **D. Van Zandt 10/21/2020**.	entailment
+The Anderson Reporter chose not to cover imposter site, lacks transparency, and publishes false information.	entailment
+Anderson Reporter provides original content written by staff journalists	contradiction
+Anderson Reporter relies on advertising for revenue	entailment
+Anderson Reporter relies on donations for revenue	entailment
+Anderson Reporter has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, Anderson Reporter relies on information from **algorithmically produced content**.	entailment
+Anderson Reporter has endorsed right-center, biased, and Questionable	entailment
+Anderson Reporter has an editorial bias towards right-center positions	entailment
+The Anderson Reporter was fined 	contradiction
+Anderson Reporter printed a biased article titled **An Analysis of Metric Media LLC and Its Lack of Transparency**	entailment
+Anderson Reporter printed a factually misleading titled **"A Community in Crisis: The Soaring Crime Rates in Anderson"**	entailment
+Anderson Reporter is a **biased**	entailment
+Anderson Reporter uses a peer review process	entailment
+Anderson Reporter covers the following topics: Conservative-leaning news.	entailment

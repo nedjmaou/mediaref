@@ -1,0 +1,20 @@
+RedPill Project is funded through advertising, donations, and an online shop that sells branded merchandise.	entailment
+The remit of RedPill Project is to **host podcasts and video streams focusing on right-leaning conspiracy content**	entailment
+The mission of RedPill Project is to **promote conspiracy theories and pseudoscience**	entailment
+The usual audience of RedPill Project is **far-right biased conspiracy and pseudoscience followers**	entailment
+RedPill Project tends to the far-right	entailment
+Other sources have commented on RedPill Project, stating that it tends to be an extreme right conspiracy and pseudoscience website.	entailment
+The factuality of RedPill Project is reported to be  extreme right conspiracy and pseudoscience website that frequently publishes false, misleading, and unproven information.	entailment
+The factuality of RedPill Project is reported to be **low**, according to **Media Bias/Fact Check**	entailment
+RedPill Project failed a fact-check for an article titled "CDC Data Reveals Vaccines Are Killing Far More Children Than China Virus Itself"	entailment
+RedPill Project relies on advertising for revenue	entailment
+RedPill Project relies on subscriptions for revenue	contradiction
+RedPill Project relies on donations for revenue	entailment
+When aggregating stories, RedPill Project relies on information from **extreme right biased, questionable, or conspiracy/pseudoscience sources**	entailment
+RedPill Project has endorsed extreme right conspiracy and pseudoscience content	entailment
+RedPill Project has an editorial bias towards **far-right**	entailment
+RedPill Project printed a biased article titled "CDC Data Reveals Vaccines Are Killing Far More Children Than China Virus Itself"	contradiction
+RedPill Project printed a factually misleading titled "CDC Data Reveals Vaccines Are Killing Far More Children Than China Virus Itself".	contradiction
+RedPill Project is funded by the United States government	contradiction
+RedPill Project is a far-right biased conspiracy and pseudoscience website	entailment
+RedPill Project covers the following topics: Alternative History, Mysticism, Ancient Aliens, Consciousness and Mind, Psychokinesis and other Mind Powers, The Gateway Experience, Lucid Dreaming, UFO, Aliens, Secret Space Wars, Ancient Aliens -Global Conspiracies, Ancient Mystery Schools, Artificial Intelligence, Fringe Conspiracies	entailment

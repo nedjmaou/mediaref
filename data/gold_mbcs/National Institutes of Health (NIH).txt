@@ -1,0 +1,9 @@
+History
+[Founded in 1887](https://en.wikipedia.org/wiki/National_Institutes_of_Health), The National Institutes of Health (NIH) is a biomedical research facility primarily located in Bethesda, Maryland. An agency of the United States Department of Health and Human Services is the primary agency of the United States government responsible for biomedical and health-related research. The NIH comprises 27 separate institutes and centers that conduct research in different disciplines of biomedical science. According to their [about page](https://www.nih.gov/about-nih/who-we-are) “The National Institutes of Health (NIH), a part of the U.S. Department of Health and Human Services is the nation’s medical research agency — making important discoveries that improve health and save lives.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The National Institutes of Health (NIH) is overseen by the US Department of Health and Human Services with funding through the US government. To allocate funds, the NIH must first obtain its budget from Congress. They also receive funding from donors.
+Analysis / Bias
+In review, the website for NIH contains information on diseases and medical conditions broken down by symptoms, causes, and treatments as well as clinical trials they are working on to combat disease. The website frequently covers Coronavirus from a scientific perspective such as this
+[Cancer Clinical Trials during Coronavirus: Information for People with Cancer](https://www.cancer.gov/about-cancer/coronavirus/coronavirus-impact-clinical-trials). Articles often link to external sources such as Cancer.gov. In general, the NIH is a highly respected pro-science website.
+Failed Fact Checks
+- None in the Last 5 years

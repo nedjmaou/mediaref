@@ -1,0 +1,24 @@
+Gannett owns Lincoln Courier	entailment
+Gannett is the owner of Lincoln Courier	entailment
+Gannett bought Lincoln Courier	entailment
+Gannett acquired Lincoln Courier	entailment
+Lincoln Courier is funded through advertising and paid subscriptions	entailment
+The remit of Lincoln Courier is to cover local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Lincoln Courier is to  provide local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The usual audience of Lincoln Courier is **the greater Lincoln, Illinois area**	entailment
+Lincoln Courier tends to the **left**	entailment
+Other sources have commented on Lincoln Courier, stating that it tends to be Left-Center Biased.	entailment
+The factuality of Lincoln Courier is reported to be High	entailment
+The factuality of Lincoln Courier is reported to be High, according to Media Bias/Fact Check.	entailment
+Lincoln Courier failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Lincoln Courier printed a retraction after failing a fact-check for an article titled "Why uncontested elections in Illinois worry political reformers, experts."	entailment
+Lincoln Courier chose not to cover **Presidential endorsements**	entailment
+Lincoln Courier relies on advertising for revenue	entailment
+Lincoln Courier relies on subscriptions for revenue	entailment
+Lincoln Courier relies on donations for revenue	contradiction
+When aggregating stories, Lincoln Courier relies on information from **Gannett publications and the Associated Press**	entailment
+Lincoln Courier has endorsed Neither.	entailment
+Lincoln Courier has an editorial bias towards **the left**.	entailment
+Lincoln Courier printed a biased article titled "Lawmakers must balance the inequity of storage units".	entailment
+Lincoln Courier is a **Left-Center Biased**	entailment
+Lincoln Courier covers the following topics: local, national, and international news, sports, entertainment, lifestyle, and opinion	entailment

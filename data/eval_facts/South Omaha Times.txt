@@ -1,0 +1,27 @@
+South Omaha Times leads South Omaha Times	contradiction
+Metric Media Foundation owns South Omaha Times	entailment
+Metric Media LLC bought South Omaha Times	entailment
+South Omaha Times is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of South Omaha Times is to **provide objective, data-driven information without political bias**.	contradiction
+The mission of South Omaha Times is to **fill the void in community news after years of decline in local reporting by legacy media**.	contradiction
+The usual audience of South Omaha Times is right-center, biased, and Questionable.	entailment
+South Omaha Times tends to the right-centerbias	entailment
+Other sources have commented on South Omaha Times, stating that it tends to be **right-center**.	contradiction
+The factuality of South Omaha Times is reported to be **Questionable**.	entailment
+The factuality of South Omaha Times is reported to be Questionable, according to D. Van Zandt 04/06/2023.	entailment
+South Omaha Times failed a fact-check for an article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+South Omaha Times chose not to cover imposter sites, lack of transparency, and false information.	contradiction
+South Omaha Times provides original content written by staff journalists	contradiction
+South Omaha Times relies on advertising for revenue	entailment
+South Omaha Times relies on donations for revenue	entailment
+South Omaha Times has received donations from the Metric Media Foundation.	entailment
+When aggregating stories, South Omaha Times relies on information from **algorithmically produced content**.	entailment
+The South Omaha Times has endorsed right-center, biased, and Questionable	entailment
+South Omaha Times has an editorial bias towards **right-center**	entailment
+South Omaha Times printed a biased article titled **"Imposter Site Lacks Transparency and Publishes False Information"**	entailment
+South Omaha Times printed a factually misleading titled **South Omaha Flooding Reaches Record Levels**	entailment
+South Omaha Times had to apologize to readers for publishing false information	entailment
+The South Omaha Times is funded by the Metric Media Foundation governmen	contradiction
+The South Omaha Times is a **conservative-leaning**	entailment
+South Omaha Times uses an internal fact-checking process	contradiction
+South Omaha Times covers the following topics: right-center, biased, and Questionable.	entailment

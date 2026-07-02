@@ -1,0 +1,26 @@
+Funded by  founded Chester and District Standard	contradiction
+Newsquest Media Group Ltd owns Chester and District Standard	entailment
+Newsquest Media Group Ltd is the owner of Chester and District Standard	entailment
+Newsquest Media Group Ltd bought Chester and District Standard	entailment
+The Chester and District Standard is funded through advertising and subscription fees.	entailment
+The remit of Chester and District Standard is to cover local news for the Chester area through reporters with minimal bias, such as this Scrap metal thief crashed into cars at Ellesmere Port dealership.	entailment
+The mission of Chester and District Standard is to **provide factual reporting and minimal editorializing of content**	entailment
+Chester and District Standard tends to the **least biased**	entailment
+Other sources have commented on Chester and District Standard, stating that it tends to be **least biased**	entailment
+The factuality of Chester and District Standard is reported to be High	entailment
+The factuality of Chester and District Standard is reported to be High, according to Mediabiasfactcheck.	entailment
+Chester and District Standard failed a fact-check for an article titledNone in the Last 5 years	contradiction
+Chester and District Standard printed a retraction after failing a fact-check for an article titled "Scrap metal thief crashed into cars at Ellesmere Port dealership"	contradiction
+Chester and District Standard chose not to cover national and international news	contradiction
+Chester and District Standard relies on advertising for revenue	entailment
+Chester and District Standard relies on subscriptions for revenue	entailment
+Chester and District Standard relies on donations for revenue	contradiction
+When aggregating stories, Chester and District Standard relies on information from **first-person accounts and large quotes**	entailment
+Chester and District Standard has endorsed least biased based on minimal editorializing of content.	entailment
+Chester and District Standard has an editorial bias towards **least biased**	entailment
+Chester and District Standard printed a biased article titled least biased based on minimal editorializing of content.	contradiction
+Chester and District Standard had to apologize for **past errors**	contradiction
+Chester and District Standard's headquarter is located in Chester	entailment
+The Chester and District Standard is funded by the UK government	contradiction
+Chester and District Standard is a **newspaper**	entailment
+Chester and District Standard covers the following topics: news and politics, lifestyle and culture, and local events and news related to the Chester area.	entailment

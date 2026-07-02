@@ -1,0 +1,25 @@
+Joey Chung founded The News Lens	entailment
+Joey Chung is the CEO of The News Lens	entailment
+Joey Chung and Mario Yang own The News Lens	entailment
+Joey Chung and Mario Yang acquired The News Lens	entailment
+The News Lens is funded through **advertising generates revenue, and funding comes from investors**.	entailment
+The remit of The News Lens is to **provide daily coverage of news around the globe and within Greater China**	entailment
+The mission of The News Lens is to provide daily coverage of news around the globe and within Greater China.	entailment
+The usual audience of The News Lens is the under-40 crowd.	entailment
+Other sources have commented on The News Lens, stating that it tends to be **left-center biased**.	entailment
+The factuality of The News Lens is reported to be High	entailment
+The factuality of The News Lens is reported to be High, according to a fact-check review.	entailment
+The News Lens failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The News Lens chose not to cover [Taiwanese political issues](https://international.thenewslens.com/article/143477)	entailment
+The News Lens provides original content written by staff journalists	entailment
+The News Lens relies on advertising for revenue	entailment
+The News Lens relies on subscriptions for revenue	contradiction
+The News Lens relies on donations for revenue	contradiction
+The News Lens has an editorial bias towards Left-Center	entailment
+The News Lens printed a biased article titled "**Taiwan Lacks a Plan for Meeting Climate Change Targets**"	entailment
+The News Lens printed a factually misleading titled Left-Center Biased	contradiction
+The News Lens had to apologize for biased and politically oriented reporting against China, however they maintain factual reporting and use credible sources.	entailment
+The News Lens's headquarter is located in Taiwan	contradiction
+The News Lens is funded by the Taiwanese government	contradiction
+The News Lens is a Left-Center Biased	entailment
+The News Lens covers the following topics: Education, Health, Politics, Lifestyle, World, Tech Business, Career, and more.	entailment

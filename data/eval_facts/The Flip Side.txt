@@ -1,0 +1,23 @@
+The Flip Side is funded through a Patreon account.	entailment
+The remit of The Flip Side is to **provide a balance of opinions without editorializing content**	entailment
+The mission of The Flip Side is to help bridge the gap between liberals and conservatives.	entailment
+The usual audience of The Flip Side is **liberals and conservatives**	entailment
+The Flip Side tends to the **least biased**	entailment
+Other sources have commented on The Flip Side, stating that it tends to be **Least Biased**	entailment
+The factuality of The Flip Side is reported to be High	entailment
+The factuality of The Flip Side is reported to be High, according to Media Bias Fact Check	entailment
+The Flip Side failed a fact-check for an article titled "None in the Last 5 years."	contradiction
+The Flip Side chose not to cover **original content or commentary**	entailment
+The Flip Side provides original content written by staff journalists	contradiction
+The Flip Side relies on advertising for revenue	contradiction
+The Flip Side relies on subscriptions for revenue	entailment
+The Flip Side relies on donations for revenue	entailment
+The Flip Side has received donations from **a Patreon account**	entailment
+When aggregating stories, The Flip Side relies on information from **other sources**	entailment
+The Flip Side has an editorial bias towards **least biased based on providing a balance of opinions without editorializing content**	entailment
+Annafi Wahid and Jihan Varisco is the editor of The Flip Side.	entailment
+The Flip Side had to apologize for  failing fact checks.	contradiction
+The Flip Side paid damages to  after Amazon	entailment
+The Flip Side is funded by the United States government	entailment
+The Flip Side is a website	entailment
+The Flip Side covers the following topics: **news stories**	entailment

@@ -1,0 +1,21 @@
+Adams Publishing Group owns Challis Messenger	entailment
+Stephen Adams is the owner of Challis Messenger	entailment
+Adams Publishing Group bought Challis Messenger	contradiction
+The Challis Messenger is funded through advertising and subscription fees	entailment
+The remit of Challis Messenger is to cover local news through journalists with minimal bias in wording	entailment
+The mission of Challis Messenger is to report the news accurately.	entailment
+Other sources have commented on Challis Messenger, stating that it tends to be **least biased**.	entailment
+The factuality of Challis Messenger is reported to be High	entailment
+The factuality of Challis Messenger is reported to be High, according to D. Van Zandt	entailment
+Challis Messenger failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Challis Messenger chose not to cover  voter turnout nears 50%	contradiction
+Challis Messenger relies on advertising for revenue	entailment
+Challis Messenger relies on subscriptions for revenue	entailment
+Challis Messenger relies on donations for revenue	contradiction
+When aggregating stories, Challis Messenger relies on information from quotes, interviews, and accounts as sourcing.	entailment
+Challis Messenger has an editorial bias towards **neither Conservative nor Liberal influences**.	entailment
+Stephen Adams is the editor of Challis Messenger	entailment
+The Challis Messenger was fined 	entailment
+The Challis Messenger is funded by the **private** government	contradiction
+Challis Messenger is a newspaper	entailment
+The Challis Messenger covers the following topics: local news, crime reports, quotes, interviews, accounts, national news, world news	entailment

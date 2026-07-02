@@ -1,0 +1,20 @@
+Weigel Broadcasting Company owns WBND - South Bend News	entailment
+Weigel Broadcasting Company is the owner of WBND - South Bend News	entailment
+ABC bought WBND - South Bend News	contradiction
+WBND - South Bend News is funded through advertising and sponsored content.	entailment
+The mission of WBND - South Bend News is to cover local news through reporters with minimal bias.	entailment
+The usual audience of WBND - South Bend News is Left-Center Biased	entailment
+WBND - South Bend News tends to the left	entailment
+Other sources have commented on WBND - South Bend News, stating that it tends to be Left-Center Biased	entailment
+The factuality of WBND - South Bend News is reported to be High	entailment
+The factuality of WBND - South Bend News is reported to be High, according to D. Van Zandt	entailment
+WBND - South Bend News failed a fact-check for an article titled **President Joe Biden will visit Israel in high-stakes trip**	contradiction
+WBND - South Bend News chose not to cover President Joe Biden visiting Israel in a high-stakes trip	contradiction
+WBND - South Bend News relies on advertising for revenue	entailment
+WBND - South Bend News relies on donations for revenue	contradiction
+When aggregating stories, WBND - South Bend News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/)	entailment
+WBND - South Bend News has an editorial bias towards Left.	entailment
+WBND - South Bend News printed a biased article titled President Joe Biden will visit Israel in high-stakes trip	entailment
+WBND - South Bend News's headquarter is located in South Bend	entailment
+WBND - South Bend News is funded by the  government	contradiction
+WBND - South Bend News is a Left-Center Biased	entailment

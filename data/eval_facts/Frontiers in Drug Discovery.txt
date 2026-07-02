@@ -1,0 +1,20 @@
+Frontiers Media SA owns Frontiers in Drug Discovery	entailment
+Frontiers Media SA is the owner of Frontiers in Drug Discovery	entailment
+Frontiers in Drug Discovery is funded through digital sales of content and author fees for publication.	entailment
+The remit of Frontiers in Drug Discovery is to cover the discovery and development of new drugs.	entailment
+The mission of Frontiers in Drug Discovery is to **cover the discovery and development of new drugs and therapies**	entailment
+Frontiers in Drug Discovery tends to the discovery and development of new drugs.	entailment
+Other sources have commented on Frontiers in Drug Discovery, stating that it tends to be **Pro-Science**	entailment
+The factuality of Frontiers in Drug Discovery is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Drug Discovery is reported to be Mostly Factual, according to D. Van Zandt 01/25/2024	entailment
+Frontiers in Drug Discovery failed a fact-check for an article titled "HIV Denial Paper Launches Investigation".	entailment
+Frontiers in Drug Discovery chose not to cover Failed Fact Checks	entailment
+Frontiers in Drug Discovery relies on advertising for revenue	contradiction
+Frontiers in Drug Discovery relies on subscriptions for revenue	contradiction
+Frontiers in Drug Discovery relies on donations for revenue	entailment
+When aggregating stories, Frontiers in Drug Discovery relies on information from **research related to the discovery and development of new drugs**.	entailment
+Frontiers in Drug Discovery has endorsed Pro-Science	entailment
+Frontiers in Drug Discovery has an editorial bias towards **Pro-Science**.	entailment
+Frontiers in Drug Discovery was fined None	entailment
+Frontiers in Drug Discovery uses a peer review process	entailment
+Frontiers in Drug Discovery covers the following topics:  the discovery and development of new drugs and therapies.	entailment

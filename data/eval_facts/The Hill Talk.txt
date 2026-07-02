@@ -1,0 +1,15 @@
+The Hill Talk is funded through online advertising.	entailment
+The mission of The Hill Talk is to **deliver light and entertaining briefs of the day’s top political news from the U.S. and around the world**	entailment
+The Hill Talk tends to the left	entailment
+Other sources have commented on The Hill Talk, stating that it tends to be **Left-Center Biased**	entailment
+The factuality of The Hill Talk is reported to be High	entailment
+The factuality of The Hill Talk is reported to be High, according to D. Van Zandt	entailment
+The Hill Talk failed a fact-check for an article titled "Incompetence abounds as Florida recount goes to 2nd round."	contradiction
+The Hill Talk relies on advertising for revenue	entailment
+The Hill Talk relies on subscriptions for revenue	contradiction
+The Hill Talk relies on donations for revenue	contradiction
+When aggregating stories, The Hill Talk relies on information from **credible sources**.	entailment
+The Hill Talk has an editorial bias towards Left	entailment
+The Hill Talk is funded by the United States government	contradiction
+The Hill Talk is a website	entailment
+The Hill Talk covers the following topics: political news from the U.S. and around the world.	entailment

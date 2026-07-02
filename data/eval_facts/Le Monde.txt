@@ -1,0 +1,22 @@
+Mathieu Pigasse is the founder of Le Monde	contradiction
+Le Monde Group owns Le Monde	entailment
+Xavier Niel is the owner of Le Monde	entailment
+Mathieu Pigasse bought Le Monde	contradiction
+Mathieu Pigasse, Xavier Niel, and Pierre Bergé acquired Le Monde	entailment
+Le Monde is funded through **group subscriptions and advertising**.	entailment
+The remit of Le Monde is to **report factually and use a wide variety of credible sources, however editorially, they promote liberal positions on most issues and lean left.**	entailment
+Le Monde tends to the **Left-Center**	entailment
+Other sources have commented on Le Monde, stating that it tends to be left-center.	entailment
+The factuality of Le Monde is reported to be High	entailment
+The factuality of Le Monde is reported to be High, according to a source criticism by M. Huitsing 7/4/2021.	entailment
+Le Monde failed a fact-check for an article titled **None in the Last 5 years**	entailment
+Le Monde relies on advertising for revenue	entailment
+Le Monde relies on subscriptions for revenue	entailment
+Le Monde relies on donations for revenue	contradiction
+Le Monde has endorsed left-centrists views	entailment
+Le Monde has an editorial bias towards left-centrists	entailment
+Jérôme Fenoglio is the editor of Le Monde	entailment
+Le Monde was fined 	entailment
+Le Monde's headquarters is located in Paris.	entailment
+Le Monde is a daily newspaper	entailment
+Le Monde covers the following topics: French current events, world news, economy, sports politics, and lifestyle.	entailment

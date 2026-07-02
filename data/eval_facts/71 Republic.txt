@@ -1,0 +1,21 @@
+Matthew Geiger founded 71 Republic	contradiction
+Matthew Geiger is the founder of 71 Republic	contradiction
+Matthew Geiger and Mason Mohon owns 71 Republic	entailment
+71 Republic is funded through online advertising/individual donations and receives no funding from any outside organization.	entailment
+The remit of 71 Republic is to  provide its audience with grassroots reporting on current events and breaking news.	entailment
+The mission of 71 Republic is to provide its audience with grassroots reporting on current events and breaking news.	entailment
+71 Republic tends to the Right-Center	entailment
+Other sources have commented on 71 Republic, stating that it tends to be Right-Center.	entailment
+The factuality of 71 Republic is reported to be High	entailment
+The factuality of 71 Republic is reported to be High, according to Source: [https://71republic.com/](https://71republic.com/)	entailment
+71 Republic failed a fact-check for an article titled **71 Liberty**	contradiction
+71 Republic chose not to cover **left-leaning positions**	contradiction
+71 Republic relies on advertising for revenue	entailment
+71 Republic relies on subscriptions for revenue	entailment
+71 Republic relies on donations for revenue	entailment
+"71 Republic has received donations from individual donations"	entailment
+When aggregating stories, 71 Republic relies on information from **credible media outlets such as Politico and government websites, such as Congress.gov**.	entailment
+71 Republic has endorsed a libertarian perspective	entailment
+71 Republic has an editorial bias towards Right-Center	entailment
+71 Republic is funded by the United States government	contradiction
+71 Republic is a **Right-Center biased**	entailment

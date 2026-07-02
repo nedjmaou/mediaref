@@ -1,0 +1,24 @@
+Bradley Cameron is the founder of Higher Education Tribune	contradiction
+Metric Media Foundation owns Higher Education Tribune	entailment
+Who is the owner of Higher Education Tribune	entailment
+Higher Education Tribune is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of Higher Education Tribune is to **publish false information**.	entailment
+The mission of Higher Education Tribune is to **fill the void in community news after years of decline in local reporting by legacy media by providing objective, data-driven information without political bias**	contradiction
+The usual audience of Higher Education Tribune is **conservative-leaning**.	entailment
+Higher Education Tribune tends to the right-center	entailment
+Other sources have commented on Higher Education Tribune, stating that it tends to be **a conservative-leaning news website**	entailment
+The factuality of Higher Education Tribune is reported to be Questionable	entailment
+The factuality of Higher Education Tribune is reported to be Questionable, according to D. Van Zandt 	entailment
+The Higher Education Tribune chose not to cover false information.	contradiction
+Higher Education Tribune provides original content written by staff journalists	contradiction
+Higher Education Tribune relies on advertising for revenue	entailment
+Higher Education Tribune relies on donations for revenue	entailment
+Higher Education Tribune has received donations from the Metric Media Foundation	entailment
+When aggregating stories, Higher Education Tribune relies on information from **algorithmically produced content**	entailment
+Higher Education Tribune has endorsed right-center, biased, and Questionable.	entailment
+Higher Education Tribune has an editorial bias towards **right-center**	contradiction
+Higher Education Tribune printed a biased article titled **"Imposter Site Lacks Transparency and Publishes False Information"**	entailment
+Higher Education Tribune printed a factually misleading titled  "College Graduates Struggle with Job Market"	entailment
+Higher Education Tribune had to apologize for **publishing false information**.	entailment
+Higher Education Tribune is funded by the **Metric Media Foundation** government.	contradiction
+Higher Education Tribune is a  conservative news and opinion website published by [Metric Media LLC](https://mediabiasfactcheck.com/metric-media/) that is designed to look like a local news source.	entailment

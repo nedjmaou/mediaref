@@ -1,0 +1,16 @@
+The mission of WorldNewsERA is to inform, engage and empower the common men and all age groups.	entailment
+The usual audience of WorldNewsERA is Left-Center biased and Questionable based on republishing articles in full, resulting in copyright infringement and plagiarism. The website also lacks transparency and may rely on sources that have failed fact-checks.	entailment
+WorldNewsERA tends to the Left-Center biased.	entailment
+Other sources have commented on WorldNewsERA, stating that it tends to be Left-Center biased.	entailment
+The factuality of WorldNewsERA is reported to be Questionable	entailment
+The factuality of WorldNewsERA is reported to be questionable, according to D. Van Zandt 10/02/2023	entailment
+WorldNewsERA failed a fact-check for an article titled **As cold weather pushed through Germany in February 2021, a “total collapse” in wind and solar energy left Germans in need of coal-fired energy.**	entailment
+WorldNewsERA chose not to cover original content	entailment
+WorldNewsERA provides original content written by staff journalists	contradiction
+When aggregating stories, WorldNewsERA relies on information from **aggregates news stories along a wide range of topics**	entailment
+WorldNewsERA has an editorial bias towards left-center.	entailment
+WorldNewsERA printed a biased article titled "Overall, we rate WorldNewsERA as Left-Center biased and Questionable based on republishing articles in full, resulting in copyright infringement and plagiarism."	entailment
+WorldNewsERA printed a factually misleading titled "total collapse" in wind and solar energy left Germans in need of coal-fired energy	entailment
+WorldNewsERA had to apologize to Germany for a “total collapse” in wind and solar energy left Germans in need of coal-fired energy.	contradiction
+WorldNewsERA is a Left-Center biased site.	entailment
+WorldNewsERA covers the following topics: politics, entertainment, sports, and more	entailment

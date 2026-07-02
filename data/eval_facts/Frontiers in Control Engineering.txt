@@ -1,0 +1,23 @@
+Frontiers Media SA owns Frontiers in Control Engineering	entailment
+Frontiers Media SA is the owner of Frontiers in Control Engineering	entailment
+Frontiers in Control Engineering is funded through **digital sales of content and author fees for publication**	entailment
+The remit of Frontiers in Control Engineering is to **publish high quality fundamental and applied research across all aspects of Control Engineering**	entailment
+The mission of Frontiers in Control Engineering is to **publish high quality fundamental and applied research across all aspects of Control Engineering**.	entailment
+Frontiers in Control Engineering tends to the **Pro-Science**	entailment
+Other sources have commented on Frontiers in Control Engineering, stating that it tends to be **Pro-Science**	entailment
+The factuality of Frontiers in Control Engineering is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Control Engineering is reported to be Mostly Factual, according to D. Van Zandt 11/15/2023	entailment
+Frontiers in Control Engineering failed a fact-check for an article titled "Failed Fact Checks"	contradiction
+Frontiers in Control Engineering printed a retraction after failing a fact-check for an article titled Data-driven non-parametric chance-constrained model predictive control for microgrids energy management using small data batches	contradiction
+Frontiers in Control Engineering relies on subscriptions for revenue	contradiction
+Frontiers in Control Engineering relies on donations for revenue	contradiction
+Frontiers in Control Engineering has received donations from digital sales of content and author fees for publication	entailment
+When aggregating stories, Frontiers in Control Engineering relies on information from **research and publications**	entailment
+Frontiers in Control Engineering has endorsed Pro-Science	entailment
+Frontiers in Control Engineering has an editorial bias towards Pro-Science.	entailment
+Frontiers in Control Engineering was fined None in the Last 5 years	entailment
+Frontiers in Control Engineering paid damages to  after 	entailment
+Frontiers in Control Engineering's headquarter is located in **Switzerland**	entailment
+Frontiers in Control Engineering is a **peer-reviewed open-access journal**	entailment
+Frontiers in Control Engineering uses a peer review process	entailment
+Frontiers in Control Engineering covers the following topics: control engineering.	entailment

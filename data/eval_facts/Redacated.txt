@@ -1,0 +1,22 @@
+Redacted owns Redacated	contradiction
+Clayton Morris is the owner of Redacated	entailment
+Redacted is funded through advertising on YouTube and the Podcast.	entailment
+The remit of Redacated is to **publish conspiratorially motivated news stories appealing to a conservative/anti-establishment audience**.	entailment
+The mission of Redacated is to set the record straight and bring you the stories nobody else is telling.	entailment
+The usual audience of Redacated is conservative/anti-establishment.	entailment
+Redacted tends to the "Right Biased and Questionable"	entailment
+Other sources have commented on Redacated, stating that it tends to be **right biased**.	entailment
+The factuality of Redacated is reported to be Questionable	entailment
+The factuality of Redacated is reported to be Questionable, according to D. Van Zandt 11/30/2022	entailment
+Redacated failed a fact-check for an article titled "The United Nations partnered with Google to suppress public access to climate change-related data."	entailment
+Redacated chose not to cover Covid-19 vaccines	contradiction
+Redacated relies on advertising for revenue	entailment
+Redacated relies on subscriptions for revenue	contradiction
+Redacated relies on donations for revenue	contradiction
+Redacated has an editorial bias towards **right**	entailment
+Redacted printed a biased article titled "She’s exposing the TRUTH in Ukraine and they don’t like it"	entailment
+Redacted printed a factually misleading titled  **"The Covid Vaccine’s Adverse Effects on Women"**	contradiction
+Redacated's headquarter is located in Portugal	entailment
+Redacated is funded by the Portuguese government	entailment
+Redacted is a YouTube Channel.	entailment
+Redacated covers the following topics: conspiracy theories, pseudoscience, propaganda, false claims, and failed fact checks	entailment

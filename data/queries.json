@@ -1,0 +1,8 @@
+[
+    {"statement": "X ownership", "question": "Who owns X?"},
+    {"statement": "X funding", "question": "How is X funded?"},
+    {"statement": "X about", "question": "What is X?"},
+    {"statement": "X political leaning", "question": "What is the political leaning of X?"},
+    {"statement": "X fact-check", "question": "Has X failed any fact-checks?"},
+    {"statement": "X retracted article", "question": "Has X retracted any articles?"}
+  ]  

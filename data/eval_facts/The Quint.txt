@@ -1,0 +1,25 @@
+Raghav Bahl founded The Quint	entailment
+Raghav Bahl is the founder of The Quint	entailment
+Quint Digital Media Limited owns The Quint	entailment
+Quint Digital Media Limited acquired The Quint	contradiction
+The Quint is funded through **membership fees**	entailment
+The remit of The Quint is to factually report on news and conduct fact-checking services.	entailment
+The mission of The Quint is to report international news with low bias as they use credible mainstream sources such as NBC News.	entailment
+The usual audience of The Quint is left-leaning	entailment
+The Quint tends to the left	entailment
+Other sources have commented on The Quint, stating that it tends to be Left-Center Biased.	entailment
+The factuality of The Quint is reported to be High	entailment
+The Quint failed a fact-check for an article titled "None. They are a certified fact-checker."	contradiction
+The Quint chose not to cover women’s rights.	contradiction
+The Quint relies on subscriptions for revenue	entailment
+The Quint relies on donations for revenue	contradiction
+When aggregating stories, The Quint relies on information from credible mainstream sources such as NBC News.	entailment
+The Quint has endorsed left-wing politics	entailment
+The Quint has an editorial bias towards left.	entailment
+The Quint printed a biased article titled  "In Modi Govt’s Unique Health ID Push, Consent And Privacy Are Missing"	entailment
+The Quint's headquarter is located in India	entailment
+The Quint is funded by the Indian government	contradiction
+The Quint is a digital newspaper	entailment
+The Quint uses a peer review process	entailment
+The Quint uses an internal fact-checking process	entailment
+The Quint covers the following topics: politics, policy, entertainment, and sports	entailment

@@ -1,0 +1,11 @@
+History
+Founded in 1992 as NY 1, Spectrum Local News is 43 local cable TV stations and websites that provide local news, sports, weather, crime, and national/international news stories. Spectrum News was originally a part of Time Warner Cable but has since been sold to Charter Communications in
+[2016](https://en.wikipedia.org/wiki/Spectrum_News). [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Cable TV company Charter Communications owns Spectrum News in 9 states and hosts 43 local TV stations. Cable subscription fees and advertising generate revenue.
+Analysis / Bias
+[Spectrumlocalnews.com](https://spectrumlocalnews.com/splash) is a splash page that features links to 43 local Spectrum News websites. Some of the websites reside on the spectrumlocalnews.com domain, while others exist on their own unique domain. The design of the websites is identical across all 43 sites.
+Spectrum News is available in the following states: New York, Massachusetts, North Carolina, Florida, Ohio, Kentucky, Wisconsin, Texas, and California.
+The Spectrum Local News website does not produce content but rather serves as a portal with links to its 43 news websites. Therefore, there is no bias present outside of the sources they link to.
+Failed Fact Checks
+- None

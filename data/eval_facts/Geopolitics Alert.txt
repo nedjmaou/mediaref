@@ -1,0 +1,22 @@
+Randi Nord founded Geopolitics Alert	contradiction
+Geopolitics Alert is funded through a Patreon Account and advertising.	entailment
+The remit of Geopolitics Alert is to **publish news and opinions related to USA conflicts worldwide from a non-interventionist perspective**	entailment
+The mission of Geopolitics Alert is to **publish news and opinions related to USA conflicts worldwide from a non-interventionist perspective.**	entailment
+The usual audience of Geopolitics Alert is **left/libertarian positions concerning the use of the military, especially regarding the USA**	entailment
+Geopolitics Alert tends to the left.	entailment
+Other sources have commented on Geopolitics Alert, stating that it tends to be Left Biased	entailment
+The factuality of Geopolitics Alert is reported to be Left Biased	entailment
+The factuality of Geopolitics Alert is reported to be mixed, according to D. Van Zandt 10/8/2017.	entailment
+Geopolitics Alert chose not to cover ownership.	entailment
+Geopolitics Alert provides original content written by staff journalists	contradiction
+Geopolitics Alert relies on advertising for revenue	entailment
+Geopolitics Alert relies on subscriptions for revenue	entailment
+Geopolitics Alert relies on donations for revenue	contradiction
+Geopolitics Alert has received donations from **a Patreon Account**	entailment
+When aggregating stories, Geopolitics Alert relies on information from [Telesur](https://mediabiasfactcheck.com/telesur/), the questionable [Tehran Times](https://mediabiasfactcheck.com/tehran-times/), and [Tasnim News](https://mediabiasfactcheck.com/tasnim-news-agency/).	entailment
+Geopolitics Alert has endorsed left positions	entailment
+Geopolitics Alert has an editorial bias towards Left.	entailment
+Geopolitics Alert had to apologize to no one for nothing	entailment
+Geopolitics Alert is funded by the United States government	entailment
+Geopolitics Alert is a news website	entailment
+Geopolitics Alert covers the following topics: USA conflicts worldwide	entailment

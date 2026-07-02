@@ -1,0 +1,28 @@
+Carl D. Pearson is the CEO of Unity News Network	contradiction
+Carl D. Pearson leads Unity News Network.	entailment
+Unity News Network owns Unity News Network	entailment
+Unity News Network is funded through online advertising, donations, and a store that sells merchandise.	entailment
+The remit of Unity News Network is to promote nationalism and support for Brexit.	entailment
+The mission of Unity News Network is to promote nationalism and support for Brexit.	entailment
+The usual audience of Unity News Network is **individuals who support nationalism and Brexit**	entailment
+Unity News Network tends to the **right**	entailment
+Other sources have commented on Unity News Network, stating that it tends to be Right Biased.	entailment
+The factuality of Unity News Network is reported to be questionable	entailment
+The factuality of Unity News Network is reported to be **low**, according to **Media Bias/Fact Check**	entailment
+Unity News Network failed a fact-check for an article titled "MHRA Contract for artificial intelligence tool to log cases of Covid 19 ‘adverse drug reactions’"	entailment
+Unity News Network printed a retraction after failing a fact-check for an article titled "Allegations of US Election Fraud – The Italian Job"	entailment
+Unity News Network chose not to cover the Covid-19 pandemic	entailment
+Unity News Network relies on advertising for revenue	entailment
+Unity News Network relies on subscriptions for revenue	entailment
+Unity News Network relies on donations for revenue	entailment
+Unity News Network has received donations from online advertising, donations, and a store that sells merchandise.	entailment
+When aggregating stories, Unity News Network relies on information from quotes and occasionally hyperlinks to media sources.	entailment
+Unity News Network has endorsed nationalism and support for Brexit	entailment
+Unity News Network has an editorial bias towards **the right**.	entailment
+Carl D. Pearson is the editor of Unity News Network	entailment
+Unity News Network printed a biased article titled "Promoting Nationalism and Supporting Brexit".	entailment
+Unity News Network printed a factually misleading titled "Allegations of US Election Fraud – The Italian Job"	entailment
+Unity News Network is funded by the United Kingdom government	contradiction
+Unity News Network is a Manchester-based news and opinion website.	entailment
+Unity News Network uses an internal fact-checking process	entailment
+Unity News Network covers the following topics: Nationalism, Brexit, Immigration, Covid-19, Election Fraud, UK Politics, World News	entailment

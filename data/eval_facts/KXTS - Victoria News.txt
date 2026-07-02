@@ -1,0 +1,22 @@
+Morgan Murphy Media owns KXTS - Victoria News	entailment
+Morgan Murphy Media is the owner of KXTS - Victoria News	entailment
+KXTS - Victoria News is funded through advertising and sponsored content.	entailment
+The remit of KXTS - Victoria News is to report news, sports, weather, and crime.	entailment
+The mission of KXTS - Victoria News is to **report news, sports, weather, and crime for the Victoria, Texas region**	entailment
+The usual audience of KXTS - Victoria News is **the Victoria, Texas region**	entailment
+Other sources have commented on KXTS - Victoria News, stating that it tends to be **Least Biased**	entailment
+The factuality of KXTS - Victoria News is reported to be High	entailment
+The factuality of KXTS - Victoria News is reported to be high, according to [Media Bias/Fact Check](https://mediabiasfactcheck.com/kxts-victoria-news/).	entailment
+KXTS - Victoria News failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+KXTS - Victoria News printed a retraction after failing a fact-check for an article titled "Bluebonnet Drive to close at intersection with Crestwood Drive".	contradiction
+KXTS - Victoria News chose not to cover opinion pieces.	entailment
+KXTS - Victoria News relies on advertising for revenue	entailment
+KXTS - Victoria News relies on subscriptions for revenue	contradiction
+KXTS - Victoria News relies on donations for revenue	contradiction
+KXTS - Victoria News has endorsed **neither**	entailment
+KXTS - Victoria News has an editorial bias towards **neither left nor right**	entailment
+KXTS - Victoria News printed a factually misleading titled "Bluebonnet Drive to close at intersection with Crestwood Drive".	contradiction
+KXTS - Victoria News had to apologize for 	contradiction
+KXTS - Victoria News's headquarter is located in Victoria	contradiction
+KXTS - Victoria News is a **television station**	entailment
+KXTS - Victoria News covers the following topics: news, sports, weather, and crime	entailment

@@ -1,0 +1,26 @@
+Sheikh Hamad bin Thamer Al Thani	entailment
+Sheikh Hamad bin Thamer Al Thani	entailment
+Qatar owns Al Jazeera	entailment
+Sheikh Hamad bin Thamer Al Thani	entailment
+Qatar bought Al Jazeera	contradiction
+Al Jazeera is funded through **the state of Qatar**	entailment
+The usual audience of Al Jazeera is Left-Center	entailment
+Al Jazeera tends to the Left-Center	entailment
+Other sources have commented on Al Jazeera, stating that it tends to be **Left-Center biased**.	entailment
+The factuality of Al Jazeera is reported to be Left-Center biased	entailment
+The factuality of Al Jazeera is reported to be Mixed, according to Media Bias Fact Check.	entailment
+Al Jazeera failed a fact-check for an article titled 'FAKE ALERT: Photo of refugees moving from Amritsar to Lahore'	contradiction
+Al Jazeera printed a retraction after failing a fact-check for an article titled **Fake Alert: Photo of refugees moving from Amritsar to Lahore**.	entailment
+Al Jazeera chose not to cover Britain’s Israel lobby.	contradiction
+Al Jazeera relies on advertising for revenue	entailment
+Al Jazeera has received donations from the state of Qatar	entailment
+When aggregating stories, Al Jazeera relies on information from **credible news agencies**	entailment
+Al Jazeera has endorsed left-center	entailment
+Al Jazeera has an editorial bias towards Left-Center.	entailment
+Al Jazeera was fined 500 workers	contradiction
+Al Jazeera printed a factually misleading titled **FAKE ALERT: Photo of refugees moving from Amritsar to Lahore**	entailment
+Al Jazeera had to apologize for **failed fact checks**	entailment
+Al Jazeera's headquarter is located in Doha	entailment
+Al Jazeera is funded by the state government	entailment
+Al Jazeera is a **Left-Center**	entailment
+Al Jazeera covers the following topics: **international news, politics, Middle East affairs, world events, human rights, opinion pieces, investigative reports**	entailment

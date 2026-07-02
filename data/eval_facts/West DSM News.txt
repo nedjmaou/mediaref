@@ -1,0 +1,23 @@
+Bradley Cameron is the founder of West DSM News	entailment
+Metric Media Foundation owns West DSM News	entailment
+Metric Media LLC is the owner of West DSM News	entailment
+West DSM News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of West DSM News is to **look like a local news source**.	entailment
+The mission of West DSM News is to **fill the void in community news after years of decline in local reporting by legacy media**	entailment
+The usual audience of West DSM News is right-center, biased, and Questionable.	entailment
+West DSM News tends to the right-center	entailment
+Other sources have commented on West DSM News, stating that it tends to be right-center biased.	entailment
+The factuality of West DSM News is reported to be Questionable.	entailment
+The factuality of West DSM News is reported to be Questionable, according to D. Van Zandt.	entailment
+West DSM News relies on advertising for revenue	entailment
+West DSM News relies on donations for revenue	entailment
+When aggregating stories, West DSM News relies on information from **algorithmically produced content**	entailment
+West DSM News has endorsed right-center, biased, and Questionable.	entailment
+West DSM News has an editorial bias towards **right-center**	entailment
+West DSM News was fined **$az000**	entailment
+West DSM News printed a biased article titled **"The Metric Media LLC Network's Lack of Transparency and Right-Leaning Editorial Bias"**	entailment
+West DSM News printed a factually misleading titled "Imposter Site, Lacks Transparency, and Publishes False Information"	entailment
+West DSM News is funded by the Metric Media LLC government	contradiction
+West DSM News is a  right-center, biased, and Questionable.	entailment
+West DSM News uses an internal fact-checking process	entailment
+West DSM News covers the following topics: conservative-leaning news.	entailment

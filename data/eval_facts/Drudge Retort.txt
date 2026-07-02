@@ -1,0 +1,18 @@
+Drudge Retort leads Drudge Retort	contradiction
+Drudge Retort is funded through advertising	entailment
+The remit of Drudge Retort is to **serve as a news aggregator for mostly left-leaning media sources**	entailment
+The mission of Drudge Retort is to **serve as a news aggregator for mostly left-leaning media sources**	entailment
+The usual audience of Drudge Retort is **those who lean left or left-center**	entailment
+The Drudge Retort tends to the Left	entailment
+Other sources have commented on Drudge Retort, stating that it tends to be **Left Biased**.	entailment
+The factuality of Drudge Retort is reported to be Mixed	entailment
+The factuality of Drudge Retort is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Drudge Retort failed a fact-check for an article titled "None, as they do not produce original content."	contradiction
+Drudge Retort provides original content written by staff journalists	contradiction
+Drudge Retort relies on advertising for revenue	entailment
+Drudge Retort has received donations from anonymous sources.	entailment
+When aggregating stories, Drudge Retort relies on information from mostly left-leaning media sources.	entailment
+The Drudge Retort has endorsed **mostly left or left-center sources**.	entailment
+Drudge Retort has an editorial bias towards **left-leaning sources**	entailment
+Drudge Retort is a Left Biased	entailment
+Drudge Retort covers the following topics: left-leaning news and events	entailment

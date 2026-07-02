@@ -1,0 +1,18 @@
+Andrew van der Bijl	entailment
+Open Doors is the owner of Open Doors	contradiction
+Open Doors is funded through charitable donations	entailment
+The remit of Open Doors is to empower Christians who are persecuted for their beliefs	entailment
+The mission of Open Doors is to empower Christians who are persecuted for their beliefs.	entailment
+The usual audience of Open Doors is **persecuted Christians**	entailment
+Open Doors tends to the persecuted Christians.	entailment
+Other sources have commented on Open Doors, stating that it tends to be **Right-Center biased**.	entailment
+The factuality of Open Doors is reported to be "Mixed"	entailment
+The factuality of Open Doors is reported to be Mixed, according to D. Van Zandt.	entailment
+Open Doors chose not to cover the validation of these claims	entailment
+Open Doors relies on advertising for revenue	contradiction
+Open Doors relies on donations for revenue	entailment
+Open Doors has received donations from charitable donations	entailment
+When aggregating stories, Open Doors relies on information from **field researchers, external experts, academics, and publicly available research documents**.	entailment
+Open Doors had to apologize for **not providing links or sources to validate their claims**	entailment
+Open Doors is funded by the  United States  government	contradiction
+Open Doors is a 501(c)(3) non-profit organization	entailment

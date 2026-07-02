@@ -1,0 +1,28 @@
+Founded founded Institute for Government	contradiction
+Lord Sainsbury of Turville is the founder of Institute for Government	contradiction
+Gatsby acquired Institute for Government	entailment
+Institute for Government is funded through Gatsby Charitable Foundation.	entailment
+The remit of Institute for Government is to make government more effective.	entailment
+The mission of Institute for Government is to **make government more effective**	entailment
+The usual audience of Institute for Government is left-center biased	entailment
+Institute for Government tends to the left	entailment
+Other sources have commented on Institute for Government, stating that it tends to be left-center biased.	entailment
+The factuality of Institute for Government is reported to be High	entailment
+The factuality of Institute for Government is reported to be High, according to Mediabiasfactcheck.	entailment
+Institute for Government failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Institute for Government chose not to cover failed fact checks	entailment
+Institute for Government provides original content written by staff journalists	entailment
+Institute for Government relies on advertising for revenue	contradiction
+Institute for Government relies on subscriptions for revenue	contradiction
+Institute for Government relies on donations for revenue	contradiction
+Institute for Government has received donations from the Gatsby Charitable Foundation	entailment
+When aggregating stories, Institute for Government relies on information from [parliament.uk](https://www.parliament.uk/), [gov.uk](https://www.gov.uk/), [socialsciences.uottawa.ca](https://socialsciences.uottawa.ca/), and [Mirror.co.uk](https://www.mirror.co.uk/).	entailment
+Institute for Government has endorsed left-center biased	entailment
+Institute for Government has an editorial bias towards left.	entailment
+Institute for Government was fined **£42,000**	entailment
+Institute for Government printed a biased article titled "Net-zero: how government can meet its climate change target."	entailment
+Institute for Government printed a factually misleading titled "The government has yet to convince that Brexit benefits outweigh the costs"	entailment
+Institute for Government's headquarter is located in London.	entailment
+Institute for Government is funded by the British government	contradiction
+Institute for Government is a London-based think tank	entailment
+Institute for Government covers the following topics: history, funding, analysis/bias, issues such as climate change, failed fact checks.	entailment

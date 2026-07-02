@@ -1,0 +1,19 @@
+23WIFR News is the founder of 23WIFR News	contradiction
+Gray Television owns 23WIFR News	entailment
+Gray Television bought 23WIFR News	entailment
+23WIFR News is funded through **sponsored content and advertising**	entailment
+The remit of 23WIFR News is to  provide news coverage for Freeport, Illinois, and the surrounding areas.	entailment
+The mission of 23WIFR News is to report news factually and with minimal bias.	entailment
+The usual audience of 23WIFR News is **local residents in Freeport, Illinois, and the surrounding area**	entailment
+Other sources have commented on 23WIFR News, stating that it tends to be **least biased**.	entailment
+The factuality of 23WIFR News is reported to be High	entailment
+The factuality of 23WIFR News is reported to be High, according to a review by Media Bias/Fact Check.	entailment
+23WIFR News failed a fact-check for an article titledNone in the Last 5 years	contradiction
+23WIFR News printed a retraction after failing a fact-check for an article titled "None in the Last 5 years".	contradiction
+23WIFR News chose not to cover an opinion page.	entailment
+23WIFR News relies on advertising for revenue	entailment
+23WIFR News relies on donations for revenue	contradiction
+When aggregating stories, 23WIFR News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+23WIFR News has an editorial bias towards Least Biased.	entailment
+23WIFR News is a television station.	entailment
+23WIFR News covers the following topics: local and national news, sports, weather, traffic, and entertainment.	entailment

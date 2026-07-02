@@ -1,0 +1,21 @@
+Michael Patrick Leahy and Christina Botteri founded Arizona Sun Times	contradiction
+Star News Digital Media, Inc. owns Arizona Sun Times	entailment
+Arizona Sun Times is funded through advertising	entailment
+The remit of Arizona Sun Times is to **present news with a conservative bias through story selection that favors the right**	entailment
+The mission of Arizona Sun Times is to  present news with a conservative bias through story selection that usually favors the right.	entailment
+The usual audience of Arizona Sun Times is **right-leaning bias in reporting**	entailment
+Arizona Sun Times tends to the right	entailment
+Other sources have commented on Arizona Sun Times, stating that it tends to be right-leaning.	entailment
+The factuality of Arizona Sun Times is reported to be  Mixed	entailment
+The factuality of Arizona Sun Times is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Arizona Sun Times failed a fact-check for an article titled  "Commentary: The State of the Debt"	contradiction
+Arizona Sun Times provides original content written by staff journalists	contradiction
+Arizona Sun Times relies on advertising for revenue	entailment
+Arizona Sun Times relies on subscriptions for revenue	contradiction
+Arizona Sun Times relies on donations for revenue	contradiction
+Arizona Sun Times has an editorial bias towards right-leaning	entailment
+Arizona Sun Times printed a biased article titled "Commentary: The State of the Debt"	entailment
+Arizona Sun Times printed a factually misleading titled  "Commentary: The State of the Debt".	entailment
+Arizona Sun Times's headquarter is located in Delaware	entailment
+Arizona Sun Times is funded by the **conservative** government	entailment
+Arizona Sun Times covers the following topics: news, politics, and policy at the state level, primarily from Arizona. We round out our daily coverage with national stories and thoughtful commentary of interest to our readers.	entailment

@@ -1,0 +1,11 @@
+History
+Ballotpedia is a nonpartisan online political encyclopedia.
+[Founded in 2007](https://en.wikipedia.org/wiki/Ballotpedia), it covers American federal, state, and local politics, elections, and public policy. Ballotpedia’s stated goal is “to inform people about politics by providing accurate and objective information about politics at all levels of government.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+Ballotpedia is a nonprofit owned and published by the
+[Lucy Burns Institute](https://en.wikipedia.org/wiki/Lucy_Burns_Institute), whose stated purpose is “To empower our audience to engage in democracy by delivering exceptionally high-quality information.” Revenue is derived through donations.
+Analysis / Bias
+In review, Ballotpedia creates Wiki-style pages for
+[politicians](https://ballotpedia.org/Jeb_Bush) and [large media outlets](https://ballotpedia.org/The_New_York_Times). The pages contain information such as a biography/history, career, political career, and endorsements/editorial positions. These pages are presented with minimal bias. The website also publishes low-biased news that is properly sourced, such as who runs [ for election in Arkansas?](https://ballotpedia.org/Arkansas_elections,_2020) In general, Ballotpedia does not editorialize content and is least biased.
+Failed Fact Checks
+- None in the Last 5 years

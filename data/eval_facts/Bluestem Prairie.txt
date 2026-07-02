@@ -1,0 +1,26 @@
+Sally Jo Sorensen leads Bluestem Prairie	entailment
+Sally Jo Sorensen owns Bluestem Prairie	entailment
+Sally Jo Sorensen is the owner of Bluestem Prairie	entailment
+Sally Jo Sorensen bought Bluestem Prairie	entailment
+Sally Jo Sorensen acquired Bluestem Prairie	entailment
+Bluestem Prairie is funded through subscriptions and donations	entailment
+The remit of Bluestem Prairie is to **publish articles and opinions by writers living in Greater Minnesota**	entailment
+The mission of Bluestem Prairie is to provide news about the environment of Minnesota with moderately loaded wording such as this: No shit: manure plus fertilizer overwhelms Minnesota’s farm landscape and water.	entailment
+The usual audience of Bluestem Prairie is **those who prefer to take their corn with a progressive chaser and tongue planted firmly in cheek**	entailment
+Bluestem Prairie tends to the left	entailment
+Other sources have commented on Bluestem Prairie, stating that it tends to be Left-Center biased.	entailment
+The factuality of Bluestem Prairie is reported to be High	entailment
+The factuality of Bluestem Prairie is reported to be high, according to their profile on the United States government and media.	entailment
+Bluestem Prairie failed a fact-check for an article titled "No shit: manure plus fertilizer overwhelms Minnesota’s farm landscape and water".	contradiction
+Bluestem Prairie chose not to cover **negative events or scandals in a right-leaning perspective**	contradiction
+Bluestem Prairie relies on subscriptions for revenue	entailment
+Bluestem Prairie relies on donations for revenue	entailment
+When aggregating stories, Bluestem Prairie relies on information from writers living in Greater Minnesota.	entailment
+Bluestem Prairie has endorsed Progessive candidates.	entailment
+Bluestem Prairie has an editorial bias towards left.	entailment
+Sally Jo Sorensen is the editor of Bluestem Prairie	entailment
+Bluestem Prairie printed a factually misleading titled "No shit: manure plus fertilizer overwhelms Minnesota’s farm landscape and water"	entailment
+Bluestem Prairie had to apologize for **None in the Last 5 years**	entailment
+Bluestem Prairie's headquarter is located in Maynard	entailment
+Bluestem Prairie is funded by the United States government	contradiction
+Bluestem Prairie covers the following topics: environment of Minnesota, racism and bigotry, protests of George Floyd.	entailment

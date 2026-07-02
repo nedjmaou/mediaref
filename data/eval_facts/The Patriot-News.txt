@@ -1,0 +1,24 @@
+Sara Ganim is the founder of The Patriot-News	contradiction
+The PA Media Group owns The Patriot-News	entailment
+The PA Media Group bought The Patriot-News	entailment
+The Patriot-News is funded through advertising and subscriptions	entailment
+The remit of The Patriot-News is to cover news for Harrisburgh, Pennsylvania, and the surrounding regions.	entailment
+The mission of The Patriot-News is to cover news for Harrisburgh, Pennsylvania, and the surrounding regions.	entailment
+The usual audience of The Patriot-News is left-leaning.	entailment
+The Patriot-News tends to the Left-Center Biased	entailment
+Other sources have commented on The Patriot-News, stating that it tends to be Left-Center Biased	entailment
+The factuality of The Patriot-News is reported to be High	entailment
+The factuality of The Patriot-News is reported to be High, according to Media Bias/Fact Check	entailment
+The Patriot-News failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The Patriot-News chose not to cover [the Hegins Township fire that claimed two lives](https://www.pennlive.com/news/2021/05/hegins-township-fire-claims-two-lives.html).	contradiction
+The Patriot-News relies on advertising for revenue	entailment
+The Patriot-News relies on subscriptions for revenue	entailment
+The Patriot-News relies on donations for revenue	contradiction
+When aggregating stories, The Patriot-News relies on information from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+The Patriot-News has endorsed Democratic candidates	entailment
+The Patriot-News has an editorial bias towards **left-leaning preference**	entailment
+The Patriot-News printed a biased article titled "The Editorial Board endorses Joe Biden: Here are seven reasons why."	entailment
+The Patriot-News had to apologize for no failed fact checks	entailment
+The Patriot-News is funded by the **United States** government	contradiction
+The Patriot-News is a Left-Center Biased	entailment
+The Patriot-News covers the following topics: Local news for Harrisburgh, Pennsylvania, and the surrounding regions, national and international news primarily covered by the Associated Press, Democratic endorsements and left-leaning op-eds.	entailment

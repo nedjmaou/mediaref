@@ -1,0 +1,21 @@
+Politizoom is funded through advertising and a Patreon link for donations.	entailment
+The remit of Politizoom is to **expose the lies and corruption in Washington**	entailment
+The mission of Politizoom is to **expose the lies and corruption in Washington**	entailment
+The usual audience of Politizoom is **progressive-liberal**	entailment
+Politizoom tends to the left	entailment
+Other sources have commented on Politizoom, stating that it tends to be **Left Biased**	entailment
+The factuality of Politizoom is reported to be Mixed	entailment
+The factuality of Politizoom is reported to be mixed, according to Media Bias/Fact Check.	entailment
+Politizoom chose not to cover [failed fact checks](https://politizoom.com).	contradiction
+Politizoom relies on advertising for revenue	entailment
+Politizoom relies on subscriptions for revenue	entailment
+Politizoom relies on donations for revenue	entailment
+Politizoom has received donations from  Patreon link for donations generate revenue.	entailment
+When aggregating stories, Politizoom relies on information from [hyperlinked sourcing](https://politizoom.com/theres-a-rico-charge-in-trumps-future-and-the-rest-of-them-are-wild/).	entailment
+Politizoom has endorsed a progressive, liberal approach	entailment
+Politizoom has an editorial bias towards left-leaning content	entailment
+Politizoom printed a biased article titled "Not Only Is Jack Smith Humiliating Trump’s Lawyers, Now He’s Stealing Trump’s Excuses".	entailment
+Politizoom's headquarter is located in Syracuse.	entailment
+Politizoom is funded by the United States government	contradiction
+Politizoom is a left-biased	entailment
+Politizoom uses an internal fact-checking process	entailment

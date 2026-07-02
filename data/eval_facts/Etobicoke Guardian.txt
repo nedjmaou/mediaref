@@ -1,0 +1,21 @@
+Metroland Media Group Ltd. founded Etobicoke Guardian	contradiction
+Metroland Media Group Ltd. is the founder of Etobicoke Guardian	contradiction
+Metroland Media Group Ltd. leads Etobicoke Guardian	entailment
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. bought Etobicoke Guardian	entailment
+Metroland Media Group Ltd. acquired Etobicoke Guardian	entailment
+Etobicoke Guardian is funded through Advertising	entailment
+The usual audience of Etobicoke Guardian is  local residents	entailment
+Etobicoke Guardian tends to the left	entailment
+Other sources have commented on Etobicoke Guardian, stating that it tends to be Left-Center biased	entailment
+The factuality of Etobicoke Guardian is reported to be High	entailment
+The factuality of Etobicoke Guardian is reported to be High, according to Mediabiasfactcheck.	entailment
+Etobicoke Guardian failed a fact-check for an article titled "Looking to get your COVID-19 shot? Here is a list of pop-up vaccination clinics in Toronto this week".	contradiction
+Etobicoke Guardian relies on advertising for revenue	entailment
+Etobicoke Guardian relies on subscriptions for revenue	contradiction
+Etobicoke Guardian relies on donations for revenue	contradiction
+When aggregating stories, Etobicoke Guardian relies on information from [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/), while world news comes from the [Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Etobicoke Guardian has an editorial bias towards **the left**	entailment
+Etobicoke Guardian's headquarter is located in Toronto	contradiction
+Etobicoke Guardian is a newspaper	entailment
+Etobicoke Guardian covers the following topics: local, national, and world news	entailment

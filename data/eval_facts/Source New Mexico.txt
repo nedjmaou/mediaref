@@ -1,0 +1,21 @@
+Source New Mexico is funded through grants and a coalition of donors and readers.	entailment
+The remit of Source New Mexico is to **shine a light on governments, policies and public officials so you get the information you need to make choices — about yourself, your family, your neighborhoods and communities.**	entailment
+The mission of Source New Mexico is to shine a light on governments, policies and public officials so you get the information you need to make choices — about yourself, your family, your neighborhoods and communities.	entailment
+The usual audience of Source New Mexico is liberals	entailment
+Source New Mexico tends to the **left**	entailment
+Other sources have commented on Source New Mexico, stating that it tends to be **left biased**.	entailment
+The factuality of Source New Mexico is reported to be High	entailment
+The factuality of Source New Mexico is reported to be High, according to [Mediabiasfactcheck.com](https://mediabiasfactcheck.com/united-states-media-profile/)	entailment
+Source New Mexico failed a fact-check for an article titled "None in the Last 5 years"	entailment
+Source New Mexico provides original content written by staff journalists	entailment
+Source New Mexico relies on advertising for revenue	contradiction
+Source New Mexico relies on donations for revenue	entailment
+Source New Mexico has received donations from **grants and a coalition of donors and readers**	entailment
+When aggregating stories, Source New Mexico relies on information from [whitehouse.gov](https://mediabiasfactcheck.com/whitehouse-gov), [Washington Post](https://mediabiasfactcheck.com/washington-post), [Politico](https://mediabiasfactcheck.com/politico), [Center for Responsive Politics (Open Secrets)](https://mediabiasfactcheck.com/center-for-responsive-politics-open-secrets), and bls.gov (U.S. Bureau of Labor Statistics)	entailment
+Source New Mexico has endorsed the left	entailment
+Source New Mexico has an editorial bias towards **the left**	entailment
+Source New Mexico printed a biased article titled Legislation to give low-income New Mexicans cheaper utility rates passes Senate	entailment
+Source New Mexico printed a factually misleading titled "Legislation to give low-income New Mexicans cheaper utility rates passes Senate."	entailment
+Source New Mexico is funded by the United States government	entailment
+Source New Mexico is a Left Biased	entailment
+Source New Mexico covers the following topics: politics and policy from New Mexico, the legislature, the environment, and how national policy affects the people of New Mexico.	entailment

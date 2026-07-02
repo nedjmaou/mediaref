@@ -1,0 +1,26 @@
+Gannett leads Panama City News-Herald	entailment
+Gannett owns Panama City News-Herald	entailment
+Gannett is the owner of Panama City News-Herald	entailment
+Gannett bought Panama City News-Herald	entailment
+Panama City News-Herald is funded through advertising and paid subscriptions.	entailment
+The remit of Panama City News-Herald is to  report local, national, and international news, sports, entertainment, lifestyle, and opinion.	entailment
+The mission of Panama City News-Herald is to report local news with minimal loaded emotional language	entailment
+The usual audience of Panama City News-Herald is **residents of Panama City, Florida, and the surrounding area**	entailment
+Panama City News-Herald tends to the left	entailment
+Other sources have commented on Panama City News-Herald, stating that it tends to be Left-Center Biased	entailment
+The factuality of Panama City News-Herald is reported to be High	entailment
+The factuality of Panama City News-Herald is reported to be High, according to mediabiasfactcheck.com	entailment
+Panama City News-Herald failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Panama City News-Herald printed a retraction after failing a fact-check for an article titled "Bay County OKs plan to help spur revitalization of Panama City Mall".	entailment
+Panama City News-Herald chose not to cover Presidential endorsements	entailment
+Panama City News-Herald relies on advertising for revenue	entailment
+Panama City News-Herald relies on subscriptions for revenue	contradiction
+Panama City News-Herald relies on donations for revenue	contradiction
+When aggregating stories, Panama City News-Herald relies on information from **Gannett publications and the Associated Press**	entailment
+Panama City News-Herald has endorsed DeSantis.	contradiction
+Panama City News-Herald has an editorial bias towards left	entailment
+Panama City News-Herald printed a biased article titled "DeSantis is failing Florida on COVID precautions".	entailment
+Panama City News-Herald printed a factually misleading titled "EDITORIAL: DeSantis is failing Florida on COVID precautions"	entailment
+Panama City News-Herald is funded by the **United States** government	contradiction
+Panama City News-Herald is a Left-Center Biased	entailment
+Panama City News-Herald covers the following topics: news, sports, entertainment, lifestyle, and opinion.	entailment

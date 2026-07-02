@@ -1,0 +1,23 @@
+Mike Sygula founded Truth Theory	entailment
+Mike Sygula is the founder of Truth Theory	entailment
+Truth Theory Ltd owns Truth Theory	entailment
+Mike Sygula is the owner of Truth Theory	entailment
+Truth Theory bought Truth Theory	contradiction
+Truth Theory acquired Truth Theory	entailment
+Truth Theory is funded through advertising	entailment
+The remit of Truth Theory is to **facilitate the empowerment of humanity using honest, solution-based and thought-provoking ideas**.	entailment
+The mission of Truth Theory is to facilitate the empowerment of humanity using honest, solution-based, and thought-provoking ideas.	entailment
+Truth Theory tends to the left	entailment
+Other sources have commented on Truth Theory, stating that it tends to be left-biased.	entailment
+The factuality of Truth Theory is reported to be High	entailment
+The factuality of Truth Theory is reported to be High, according to D. Van Zandt 11/16/2017	entailment
+Truth Theory relies on advertising for revenue	entailment
+Truth Theory relies on subscriptions for revenue	contradiction
+When aggregating stories, Truth Theory relies on information from credible media outlets.	entailment
+Truth Theory has endorsed left-leaning perspectives	entailment
+Truth Theory has an editorial bias towards left-leaning perspectives.	entailment
+Truth Theory printed a biased article titled *TRUMP ADMINISTRATION’S NEW RULES PROMOTE SENSELESS SLAUGHTER OF ALASKA’S MOST ICONIC WILDLIFE*.	entailment
+Truth Theory's headquarter is located in The UK	entailment
+Truth Theory is funded by the UK government	entailment
+Truth Theory is a left-biased	entailment
+Truth Theory covers the following topics: science, technology, the environment, and uplifting accounts, usually about animals, environmental activism, human rights such as racial equality and gay rights.	entailment

@@ -1,0 +1,19 @@
+Gershon Agron founded The Jerusalem Report	contradiction
+Eli Azur owns The Jerusalem Report	entailment
+Hollinger Inc. bought The Jerusalem Report	entailment
+Hollinger Inc. acquired The Jerusalem Report	entailment
+The Jerusalem Report is funded through **advertising and a paid subscription**	entailment
+The remit of The Jerusalem Report is to **cover political and social issues in Israel, the Middle East, and the Jewish world**	entailment
+The mission of The Jerusalem Report is to **cover political and social issues in Israel, the Middle East, and the Jewish world**.	entailment
+The Jerusalem Report tends to the Right-Center	entailment
+Other sources have commented on The Jerusalem Report, stating that it tends to be **centrist editorially**.	entailment
+The factuality of The Jerusalem Report is reported to be High	entailment
+The factuality of The Jerusalem Report is reported to be High, according to D. Van Zandt	entailment
+The Jerusalem Report relies on advertising for revenue	entailment
+The Jerusalem Report relies on subscriptions for revenue	entailment
+The Jerusalem Report has endorsed right-leaning government	entailment
+The Jerusalem Report has an editorial bias towards right-leaning government	entailment
+The Jerusalem Report had to apologize for **failed fact checks**.	contradiction
+The Jerusalem Report is a fortnightly print and online news magazine covering political and social issues in Israel, the Middle East, and the Jewish world.	entailment
+The Jerusalem Report uses an internal fact-checking process	entailment
+The Jerusalem Report covers the following topics: political and social issues in Israel, the Middle East, and the Jewish world	entailment

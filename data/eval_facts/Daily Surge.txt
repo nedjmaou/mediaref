@@ -1,0 +1,28 @@
+Steve Pauwels founded Daily Surge	entailment
+Steve Pauwels is the founder of Daily Surge	entailment
+Steve Pauwels owns Daily Surge	entailment
+Steve Pauwels is the owner of Daily Surge	entailment
+Who acquired Daily Surge	contradiction
+Daily Surge is funded through advertising	entailment
+The remit of Daily Surge is to **promote far-right conservative views and opinions**	entailment
+The mission of Daily Surge is to **promote right-wing propaganda, use of poor sources, false claims, and a lack of transparency.**	entailment
+Daily Surge tends to the far-right Christian conservative perspective	entailment
+Other sources have commented on Daily Surge, stating that it tends to be far right biased.	entailment
+The factuality of Daily Surge is reported to be Questionable	entailment
+The factuality of Daily Surge is reported to be Questionable, according to D. Van Zandt 5/23/2017	entailment
+Daily Surge failed a fact-check for an article titled *Wake Up, America: ‘Moderate’ Joe Biden Is No More, Radical Joe Is at Work*	entailment
+Daily Surge chose not to cover **masks being an effective means of slowing the spread of Covid-19 and other diseases**	entailment
+Daily Surge provides original content written by staff journalists	contradiction
+Daily Surge relies on advertising for revenue	entailment
+Daily Surge relies on subscriptions for revenue	contradiction
+Daily Surge relies on donations for revenue	contradiction
+Daily Surge has endorsed far-right Christian conservative perspective.	entailment
+Daily Surge has an editorial bias towards far-right.	entailment
+Daily Surge printed a biased article titled Wake Up, America: ‘Moderate’ Joe Biden Is No More, Radical Joe Is at Work	entailment
+Daily Surge printed a factually misleading titled  "Wake Up, America: ‘Moderate’ Joe Biden Is No More, Radical Joe Is at Work".	entailment
+Daily Surge had to apologize for **false**	entailment
+Daily Surge paid damages to [Politifact’s fake news list](http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/?platform=hootsuite) after [California Lawmakers Exempt Themselves from Gun Laws](https://www.truthorfiction.com/california-lawmakers-exempt-themselves-gun-laws/)	contradiction
+Daily Surge is funded by the United States government	entailment
+Daily Surge is a **far right biased**.	entailment
+Daily Surge uses a peer review process	contradiction
+Daily Surge covers the following topics: news and opinion.	entailment

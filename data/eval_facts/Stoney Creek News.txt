@@ -1,0 +1,18 @@
+Metroland Media Group Ltd.	entailment
+Metroland Media Group Ltd. owns Stoney Creek News	entailment
+Metroland Media Group Ltd. is the owner of Stoney Creek News.	entailment
+Metroland Media Group Ltd. bought Stoney Creek News	entailment
+Metroland Media Group Ltd. acquired Stoney Creek News	contradiction
+Stoney Creek News is funded through **advertising**	entailment
+The usual audience of Stoney Creek News is **local**	entailment
+Stoney Creek News tends to the Left-Center	entailment
+Other sources have commented on Stoney Creek News, stating that it tends to be Left-Center biased	entailment
+The factuality of Stoney Creek News is reported to be High	entailment
+The factuality of Stoney Creek News is reported to be High, according to mediabiasfactcheck.com.	entailment
+Stoney Creek News relies on advertising for revenue	entailment
+Stoney Creek News relies on subscriptions for revenue	contradiction
+Stoney Creek News relies on donations for revenue	contradiction
+When aggregating stories, Stoney Creek News relies on information from the Canadian Press and the Associated Press.	entailment
+Stoney Creek News has an editorial bias towards **the left**	entailment
+Stoney Creek News had to apologize to no one for nothing	entailment
+Stoney Creek News is a newspaper	entailment

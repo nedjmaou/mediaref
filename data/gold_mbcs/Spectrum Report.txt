@@ -1,0 +1,10 @@
+History
+According to their
+[about page](http://spectrumreport.com/about/), “Spectrum Report was created to give us the tools we need to better understand the news in this new world, and more importantly, to understand each other better so that we might preserve democracy and liberty for generations to come.” There isn’t any mention of ownership or political affiliation on the website. [Read our country media profile of the USA.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website lacks transparency as they do not disclose ownership. Advertising generates revenue.
+Analysis / Bias
+In review, Spectrum Report has a feature similar to
+[Allsides.com](https://www.allsides.com) in that they curate news stories from left and right sources and place them side by side. They currently use 3 left-leaning sources: [Huff Post](https://mediabiasfactcheck.com/huffington-post/), [Think Progress](https://mediabiasfactcheck.com/think-progress/), [CNN](https://mediabiasfactcheck.com/cnn/), and 3 right-leaning sources, [Breitbart](https://mediabiasfactcheck.com/breitbart/), [Fox News](https://mediabiasfactcheck.com/fox-news/), and [Infowars](https://mediabiasfactcheck.com/infowars-alex-jones/). They also have a [fun feature](http://spectrumreport.com/game-page/) where they display a headline, and you have to pick which of these 6 sources it came from. There is very little original content on the site other than news curation. While the site’s intent is fair, some of the sources are considered crackpot conspiracy, such as Infowars.
+Failed Fact Checks
+- They have never been fact checked by a third party as they curate news from other sources.\

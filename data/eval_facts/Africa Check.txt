@@ -1,0 +1,27 @@
+Peter Cunliffe-Jones leads Africa Check	entailment
+Bill & Melinda Gates Foundation	entailment
+Africa Check is funded through **donations**	entailment
+The remit of Africa Check is to promote accuracy in public debate and the media in Africa.	entailment
+The mission of Africa Check is to promote accuracy in public debate and the media in Africa.	entailment
+Africa Check tends to the **accuracy in public debate and the media in Africa**	entailment
+Other sources have commented on Africa Check, stating that it tends to be Least Biased	entailment
+The factuality of Africa Check is reported to be Very High	entailment
+The factuality of Africa Check is reported to be Very High, according to D. Van Zandt	entailment
+Africa Check failed a fact-check for an article titled "No Minister Cele: SA is not the only country in Africa giving out crime stats".	contradiction
+Africa Check printed a retraction after failing a fact-check for an article titled **No Minister Cele: SA is not the only country in Africa giving out crime stats**	contradiction
+Africa Check chose not to cover **political news**	contradiction
+Africa Check relies on advertising for revenue	entailment
+Africa Check relies on subscriptions for revenue	contradiction
+Africa Check relies on donations for revenue	entailment
+Africa Check has received donations from The Shuttleworth Foundation, Bill & Melinda Gates Foundation, and the Luminate Group	entailment
+When aggregating stories, Africa Check relies on information from **reputable sources of information**.	entailment
+Africa Check has endorsed the International Fact-Checking Network (IFCN).	entailment
+Africa Check has an editorial bias towards **least biased**	entailment
+Anim van Wyk is the editor of Africa Check	entailment
+Africa Check was fined None	entailment
+Africa Check printed a factually misleading titled  "No Minister Cele: SA is not the only country in Africa giving out crime stats".	entailment
+Africa Check paid damages to no one after none.	entailment
+Africa Check's headquarter is located in South Africa	entailment
+Africa Check is funded by the South Africa government	contradiction
+Africa Check is a **non-profit fact-checking organization**	entailment
+Africa Check covers the following topics: fact-checking.	entailment

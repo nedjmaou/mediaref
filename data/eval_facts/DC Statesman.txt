@@ -1,0 +1,17 @@
+DC Statesman is funded through advertising	entailment
+The remit of DC Statesman is to **promote right-wing bias**	entailment
+The mission of DC Statesman is to promote right-wing viewpoints and opinions.	entailment
+DC Statesman tends to the  extreme Right Biased and Mixed for factual reporting due to using poor sources	entailment
+Other sources have commented on DC Statesman, stating that it tends to be extreme Right Biased	entailment
+The factuality of DC Statesman is reported to be Borderline extreme Right Biased and Mixed for factual reporting due to using poor sources. (12/15/2016) Updated (D. Van Zandt 2/2/2018)	entailment
+The factuality of DC Statesman is reported to be Mixed, according to Media Bias Fact Check.	entailment
+DC Statesman chose not to cover [Failed Fact Checks].	entailment
+DC Statesman relies on advertising for revenue	entailment
+DC Statesman relies on donations for revenue	contradiction
+DC Statesman has an editorial bias towards **extreme Right Biased and Mixed**	entailment
+DC Statesman was fined 	entailment
+DC Statesman printed a biased article titled "Report: Susan Rice Ordered Unmasking Trump Officials"	entailment
+DC Statesman printed a factually misleading titled "Report: Susan Rice Ordered Unmasking Trump Officials."	entailment
+DC Statesman is funded by the United States government	contradiction
+DC Statesman is a  borderline extreme Right Biased and Mixed for factual reporting due to using poor sources.	entailment
+DC Statesman covers the following topics: Right-wing bias, Lack of transparency, Ownership, Bias, Failed Fact Checks	contradiction

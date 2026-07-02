@@ -1,0 +1,27 @@
+James Wesley Rawles founded SurvivalBlog.com	entailment
+James Wesley Rawles is the founder of SurvivalBlog.com	entailment
+James Wesley Rawles leads SurvivalBlog.com	entailment
+James Wesley Rawles owns SurvivalBlog.com	entailment
+James Wesley Rawles is the owner of SurvivalBlog.com	entailment
+James Wesley Rawles bought SurvivalBlog.com	entailment
+James Wesley Rawles acquired SurvivalBlog.com	entailment
+SurvivalBlog.com is funded through donations and advertising	entailment
+The remit of SurvivalBlog.com is to **prepare for the worst, especially disasters that will be man-made or natural, and promote extreme right-wing bias and conspiracy theories**.	entailment
+The mission of SurvivalBlog.com is to prepare for the worst	entailment
+The usual audience of SurvivalBlog.com is **those who want to prepare for the worst**.	entailment
+SurvivalBlog.com tends to the extreme ring-wing bias.	entailment
+Other sources have commented on SurvivalBlog.com, stating that it tends to be **Questionable**	entailment
+The factuality of SurvivalBlog.com is reported to be Questionable	entailment
+The factuality of SurvivalBlog.com is reported to be low, according to Media Bias/Fact Check.	entailment
+SurvivalBlog.com chose not to cover second civil war.	contradiction
+SurvivalBlog.com provides original content written by staff journalists	contradiction
+SurvivalBlog.com relies on advertising for revenue	entailment
+SurvivalBlog.com relies on subscriptions for revenue	contradiction
+SurvivalBlog.com relies on donations for revenue	entailment
+SurvivalBlog.com has received donations from **donations and advertising**.	entailment
+SurvivalBlog.com has endorsed extreme ring-wing bias and the promotion of conspiracy theories	entailment
+SurvivalBlog.com has an editorial bias towards extreme ring-wing bias.	entailment
+James Wesley Rawles is the editor of SurvivalBlog.com	entailment
+SurvivalBlog.com printed a biased article titled Spiritual Preparedness for Hard Times, by ZeBo	entailment
+SurvivalBlog.com is a **Questionable**	entailment
+SurvivalBlog.com covers the following topics: **preparedness**	entailment

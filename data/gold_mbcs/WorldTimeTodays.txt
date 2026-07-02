@@ -1,0 +1,14 @@
+History
+Worldtimetodays.com is an online news platform that covers a range of topics, including breaking news, entertainment, sports, politics, and more. According to its
+[about page](https://worldtimetodays.com/about-us/), “Worldtimetodays.com is one of the largest online news portals that deliver the latest trends, to connect with the world.” The website is located in Pikesville, Maryland. [Read our profile on the United States media and government.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The website does not provide explicit details about its ownership or funding sources. However, it is evident that they generate revenue through advertising, as there are various ads displayed on the site.
+Analysis / Bias
+Worldtimetodays.com covers a variety of news topics, from technology to entertainment. Articles and headlines are often straightforward, such as this
+[New York bus crash: 1 person dead, 46 injured as bus carrying Long Island students to music camp overturns on I-84 in Wawayanda](https://worldtimetodays.com/new-york-bus-crash-1-person-dead-46-injured-as-bus-carrying-long-island-students-to-music-camp-overturns-on-i-84-in-wawayanda/). This story, like many others, does not contain hyperlinked sourcing but rather attributes at the bottom of the page to [WABC New York.](https://mediabiasfactcheck.com/abc7-new-york/)
+Another story relies on hyperlinked sourcing
+[Russian Foreign Minister Sergei Lavrov jokes about “suffering” at the United Nations General Assembly](https://worldtimetodays.com/russian-foreign-minister-sergei-lavrov-jokes-about-suffering-at-the-united-nations-general-assembly/); unfortunately, the source used is a state [Russian propaganda news agency](https://www.rbc.ru/rbcfreenews/650b9a939a79478a580ea09c).
+Editorially, they cover a wide range of
+[views, such as this](https://worldtimetodays.com/biden-wants-to-use-your-tax-dollars-for-this-california-cause/) from conservative media personality [Glenn Beck](https://mediabiasfactcheck.com/glenn-beck-bias-rating/), who has a poor track record with fact checkers. They also cover left-leaning views such as this [Biden’s American Climate Corps isn’t enough — but it’s a start](https://worldtimetodays.com/bidens-american-climate-corps-isnt-enough-but-its-a-start/). In general, they cover both sides politically but sometimes rely on poor sources or do not source information at all.
+Failed Fact Checks
+- None by a third-party fact checker.

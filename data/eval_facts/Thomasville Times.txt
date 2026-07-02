@@ -1,0 +1,23 @@
+Paxton Media Group owns Thomasville Times	entailment
+Paxton Media Group is the owner of Thomasville Times	entailment
+Paxton Media Group bought Thomasville Times	entailment
+Thomasville Times is funded through advertising and subscriptions	entailment
+The remit of Thomasville Times is to  report local news through the use of journalists with minimal bias using neutral headlines.	entailment
+The mission of Thomasville Times is to  provide local news, hometown politics, business news, local events, and sports.	entailment
+The usual audience of Thomasville Times is right-center biased	entailment
+The Thomasville Times tends to the right-centerbias	entailment
+Other sources have commented on Thomasville Times, stating that it tends to be right-center biased.	entailment
+The factuality of Thomasville Times is reported to be High	entailment
+The factuality of Thomasville Times is reported to be high, according to a source criticism exercise.	entailment
+Thomasville Times failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Thomasville Times chose not to cover  Davidson County sees strong population growth	contradiction
+Thomasville Times relies on advertising for revenue	entailment
+Thomasville Times relies on subscriptions for revenue	entailment
+Thomasville Times relies on donations for revenue	contradiction
+When aggregating stories, Thomasville Times relies on information from [credible newsagents such as the Associated Press](https://mediabiasfactcheck.com/associated-press/).	entailment
+Thomasville Times has endorsed right-center biased editorial positions.	entailment
+Thomasville Times has an editorial bias towards right-center	entailment
+Thomasville Times had to apologize for **none**	entailment
+The Thomasville Times is funded by the private government	contradiction
+The Thomasville Times is a newspaper	entailment
+Thomasville Times covers the following topics: local news, hometown politics, business news, local events, and sports.	entailment

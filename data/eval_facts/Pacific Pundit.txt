@@ -1,0 +1,22 @@
+Pacific Pundit is funded through advertising.	entailment
+The remit of Pacific Pundit is to **promote extreme right-wing bias, propaganda/conspiracy, use poor sources, lack transparency and failed fact checks**	entailment
+The mission of Pacific Pundit is to promote right-wing propaganda and conspiracy theories.	entailment
+The usual audience of Pacific Pundit is **individuals who lean towards extreme right-wing viewpoints**.	entailment
+Pacific Pundit tends to the extreme right-wingbias	entailment
+Other sources have commented on Pacific Pundit, stating that it tends to be **questionable**	entailment
+The factuality of Pacific Pundit is reported to be **Questionable**	entailment
+The factuality of Pacific Pundit is reported to be questionable, according to Media Bias/Fact Check.	entailment
+Pacific Pundit failed a fact-check for an article titled "Eighteen undocumented immigrant children died in the custody of U.S. Border Patrol during the Obama administration."	contradiction
+Pacific Pundit relies on advertising for revenue	entailment
+Pacific Pundit relies on donations for revenue	contradiction
+Pacific Pundit has received donations from **advertising**	entailment
+When aggregating stories, Pacific Pundit relies on information from **Infowars and Blackshpere**	entailment
+Pacific Pundit has endorsed **extreme right-wing bias**	entailment
+Pacific Pundit has an editorial bias towards extreme right-wing.	entailment
+Pacific Pundit was fined 	entailment
+Pacific Pundit printed a biased article titled **"NFL THUGS WHO DISRESPECTED THE NATIONAL ANTHEM IN WEEK 7"**	entailment
+Pacific Pundit printed a factually misleading titled **NFL THUGS WHO DISRESPECTED THE NATIONAL ANTHEM IN WEEK 7**	entailment
+Pacific Pundit had to apologize to no one for questionable reporting	entailment
+Pacific Pundit is a Questionable	entailment
+Pacific Pundit uses a peer review process	contradiction
+Pacific Pundit covers the following topics: Extreme right-wing bias, promotion of propaganda/conspiracy, use of poor sources, lack of transparency, and failed fact checks.	entailment

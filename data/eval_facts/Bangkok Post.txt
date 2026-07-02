@@ -1,0 +1,19 @@
+Post Publishing PCL founded Bangkok Post	contradiction
+Post Publishing PCL owns Bangkok Post	entailment
+Post Publishing PCL is the owner of Bangkok Post	entailment
+Bangkok Post is funded through **advertising and subscription fees**	entailment
+The remit of Bangkok Post is to **cover the world and local news, business, and opinion reporting**	entailment
+Bangkok Post tends to the right-leaning bias	entailment
+Other sources have commented on Bangkok Post, stating that it tends to be right-leaning.	entailment
+The factuality of Bangkok Post is reported to be  Right-Center biased.	entailment
+The factuality of Bangkok Post is reported to be Mixed, according to Media Bias Fact Check.	entailment
+The Bangkok Post chose not to cover the full story, especially when it relates to criticism of the Thai Royal Family and the government.	entailment
+Bangkok Post provides original content written by staff journalists	contradiction
+Bangkok Post relies on advertising for revenue	entailment
+Bangkok Post relies on subscriptions for revenue	entailment
+Bangkok Post relies on donations for revenue	contradiction
+When aggregating stories, Bangkok Post relies on information from **other sources such as the New York Times**	entailment
+Bangkok Post has endorsed the right-wing government.	entailment
+Bangkok Post has an editorial bias towards right-leaning.	entailment
+Bangkok Post is a Right-Center biased	entailment
+Bangkok Post covers the following topics: World and local news, business, and opinion reporting.	entailment

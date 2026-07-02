@@ -1,0 +1,22 @@
+ owns Defend Democracy Press	entailment
+Defend Democracy Press is funded through donations	entailment
+The remit of Defend Democracy Press is to **counter "euroliberalism" and facilitate collective efforts to address conflicts in the Middle East and Russia**.	entailment
+The usual audience of Defend Democracy Press is **left-leaning**	entailment
+Defend Democracy Press tends to the Left	entailment
+Other sources have commented on Defend Democracy Press, stating that it tends to be left biased.	entailment
+The factuality of Defend Democracy Press is reported to be Mixed	entailment
+The factuality of Defend Democracy Press is reported to be Mixed, according to M. Huitsing 09/16/2023.	entailment
+Defend Democracy Press chose not to cover **far-right radicalism**: GOP wants to cut funding for clean water programs by 64%.	contradiction
+Defend Democracy Press provides original content written by staff journalists	contradiction
+Defend Democracy Press relies on advertising for revenue	entailment
+Defend Democracy Press relies on subscriptions for revenue	contradiction
+Defend Democracy Press relies on donations for revenue	entailment
+Defend Democracy Press has received donations from Various organizations.	entailment
+Defend Democracy Press has endorsed left-leaning viewpoints	entailment
+Defend Democracy Press has an editorial bias towards Left	entailment
+Defend Democracy Press printed a biased article titled "A 32-Hour Workweek Is Long Overdue,".	entailment
+Defend Democracy Press printed a factually misleading titled "‘Far-Right Radicalism’: GOP Wants to Cut Funding for Clean Water Programs by 64%"	entailment
+Defend Democracy Press had to apologize for **failed fact checks**	entailment
+Defend Democracy Press is funded by the  government	contradiction
+Defend Democracy Press is a Left biased	entailment
+Defend Democracy Press covers the following topics: European affairs, the Greek crisis, international issues, the environment, democracy, and conflicts in former Soviet states and the Middle East.	entailment

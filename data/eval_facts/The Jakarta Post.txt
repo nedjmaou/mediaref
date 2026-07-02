@@ -1,0 +1,24 @@
+Ali Murtopo founded The Jakarta Post	entailment
+Ali Murtopo is the founder of The Jakarta Post	entailment
+Nezar Patria is the CEO of The Jakarta Post	contradiction
+Nezar Patria leads The Jakarta Post	entailment
+The Jakarta Post is funded through subscription fees and advertisements	entailment
+The remit of The Jakarta Post is to **report news factually with a slight left-leaning editorial bias**.	entailment
+The mission of The Jakarta Post is to  provide news factually with a slight left-leaning editorial bias.	entailment
+The usual audience of The Jakarta Post is a foreign English Language community.	entailment
+The Jakarta Post tends to the Left-Center	entailment
+Other sources have commented on The Jakarta Post, stating that it tends to be Left-Center biased.	entailment
+The factuality of The Jakarta Post is reported to be Mostly Factual	entailment
+The factuality of The Jakarta Post is reported to be Mostly Factual, according to Media Bias/Fact Check.	entailment
+The Jakarta Post failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+The Jakarta Post chose not to cover West Papua	contradiction
+The Jakarta Post relies on advertising for revenue	entailment
+The Jakarta Post relies on subscriptions for revenue	entailment
+The Jakarta Post relies on donations for revenue	contradiction
+When aggregating stories, The Jakarta Post relies on information from \[itself\].	entailment
+The Jakarta Post has endorsed Joko ‘Jokowi’ Widodo	entailment
+The Jakarta Post has an editorial bias towards Left-Center	entailment
+Nezar Patria is the editor of The Jakarta Post	entailment
+The Jakarta Post's headquarter is located in Jakarta	entailment
+The Jakarta Post is a daily English-language newspaper	entailment
+The Jakarta Post covers the following topics: politics, business, culture, economy, and more	entailment

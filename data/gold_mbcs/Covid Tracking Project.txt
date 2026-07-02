@@ -1,0 +1,11 @@
+History
+[Founded in 2020](https://www.theatlantic.com/technology/archive/2020/03/how-understand-your-states-coronavirus-numbers/607921/), The Covid Tracking Project is maintained by [The Atlantic](https://mediabiasfactcheck.com/the-atlantic/) in collaboration with the data scientist Jeff Hammerbacher and a team of volunteers. According to their [about page](https://covidtracking.com/about-team/) “This project is made by hand. We use technical tools to alert us to changes in the information states report, but all the information we publish has been collected and double-checked by humans. We prize accuracy over speed while also trying to keep the data fresh.” [Read our profile on United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Covid Tracking Project is owned and funded by The Atlantic.
+Analysis / Bias
+In review, The Covid Tracking Project collects data from government agencies in each state and compiles a database reporting on Covid testing, positive and negative results and deaths. According to their about page “All our information comes from state/district/territory public health authorities—or, occasionally, from trusted news reporting, official press conferences, or (very occasionally) tweets or Facebook updates from state public health authorities or governors. We cite all sources in the spreadsheet and discuss the dataset’s constantly fluctuating oddities in the annotations that accompany each state’s data on
+[our website](https://covidtracking.com/data/) and [in the spreadsheet](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRwAqp96T9sYYq2-i7Tj0pvTf6XVHjDSMIKBdZHXiCGGdNC0ypEU9NbngS8mxea55JuCFuua1MUeOj5/pubhtml#).”
+The spreadsheet is
+[updated](https://covidtracking.com/data/) once per day between 4 pm and 5 pm Eastern time. In general, the data is accurate and from reliable sources, however the numbers represented are lower than reality due to missing information and the vast majority of Americans not having been tested.
+Failed Fact Checks
+- None in the Last 5 years

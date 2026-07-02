@@ -1,0 +1,31 @@
+Mike Adams founded Awakening.News	entailment
+Mike Adams is the founder of Awakening.News	entailment
+Mike Adams owns Awakening.News	entailment
+Mike Adams is the owner of Awakening.News	entailment
+Mike Adams bought Awakening.News	entailment
+Awakening.News acquired the Natural News Network	contradiction
+Awakening.News is funded through **online advertising**	entailment
+The remit of Awakening.News is to  promote false or misleading information.	entailment
+The mission of Awakening.News is to  disseminate false information.	entailment
+The usual audience of Awakening.News is **extreme right-biased Tin-Foil Hat Conspiracy website**.	entailment
+Awakening.News tends to the extreme right-biased Tin-Foil Hat Conspiracy website.	entailment
+Other sources have commented on Awakening.News, stating that it tends to be extreme right-biased.	entailment
+The factuality of Awakening.News is reported to be extremely low	entailment
+The factuality of Awakening.News is reported to be **very low**, according to **Media Bias/Fact Check**.	entailment
+Awakening.News failed a fact-check for an article titled Climate change cultists are now taking over your local weather forecast.	entailment
+Awakening.News chose not to cover **credible and verified information**.	contradiction
+Awakening.News provides original content written by staff journalists	contradiction
+Awakening.News relies on advertising for revenue	entailment
+Awakening.News relies on subscriptions for revenue	entailment
+Awakening.News relies on donations for revenue	contradiction
+Awakening.News has received donations from **online advertising**	entailment
+When aggregating stories, Awakening.News relies on information from Mike Adams.	entailment
+Awakening.News has endorsed pseudoscience	entailment
+Awakening.News has an editorial bias towards extreme right-biased Tin-Foil Hat Conspiracy.	entailment
+Mike Adams is the editor of Awakening.News	entailment
+Awakening.News printed a biased article titled **Climate change cultists are now taking over your local weather forecast.**	entailment
+Awakening.News printed a factually misleading titled article.	entailment
+Awakening.News is funded by the United States government	contradiction
+Awakening.News is a right-wing conspiracy and pseudoscience website that routinely publishes false information	entailment
+Awakening.News uses an internal fact-checking process	contradiction
+Awakening.News covers the following topics: extreme right-biased Tin-Foil Hat Conspiracy website that also publishes pseudoscience.	entailment

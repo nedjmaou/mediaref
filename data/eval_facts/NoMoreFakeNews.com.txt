@@ -1,0 +1,23 @@
+Jon Rappoport founded NoMoreFakeNews.com	entailment
+Jon Rappoport is the founder of NoMoreFakeNews.com	entailment
+Jon Rappoport owns NoMoreFakeNews.com	entailment
+Jon Rappoport is the owner of NoMoreFakeNews.com	entailment
+NoMoreFakeNews.com is funded through **book sales generate revenue**	entailment
+The remit of NoMoreFakeNews.com is to promote conspiracy theories and pseudoscience.	entailment
+The mission of NoMoreFakeNews.com is to  debunk mainstream narratives and offer alternative viewpoints.	contradiction
+NoMoreFakeNews.com tends to the promotion of false or unproven disinformation	entailment
+Other sources have commented on NoMoreFakeNews.com, stating that it tends to be **a pseudoscience website**.	entailment
+The factuality of NoMoreFakeNews.com is reported to be **low**	entailment
+The factuality of NoMoreFakeNews.com is reported to be low, according to Mediabiasfactcheck.com	entailment
+NoMoreFakeNews.com failed a fact-check for an article titled Vaccine shedding spreads disaster to unvaccinated pregnant women?	entailment
+NoMoreFakeNews.com chose not to cover the Coronavirus because 	contradiction
+NoMoreFakeNews.com provides original content written by staff journalists	contradiction
+NoMoreFakeNews.com relies on subscriptions for revenue	entailment
+When aggregating stories, NoMoreFakeNews.com relies on information from [disreputable sources].	entailment
+NoMoreFakeNews.com has endorsed tin-foil hat conspiracy and quackery level pseudoscience website based on the promotion of false or unproven disinformation.	entailment
+NoMoreFakeNews.com has an editorial bias towards **conspiracy theories and pseudoscience**.	entailment
+NoMoreFakeNews.com printed a biased article titled Vaccine shedding spreads disaster to unvaccinated pregnant women?	entailment
+NoMoreFakeNews.com printed a factually misleading titled  "The Real News"	entailment
+NoMoreFakeNews.com is a **conspiracy and pseudoscience website**.	entailment
+NoMoreFakeNews.com uses a peer review process	contradiction
+NoMoreFakeNews.com covers the following topics: conspiracy theories, pseudoscience, alternative health, deep politics, mind control, symbology, human imagination, solutions to planetary takeover by hidden elites.	entailment

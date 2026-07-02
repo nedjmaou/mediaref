@@ -1,0 +1,22 @@
+Nick Barbaro founded The Austin Chronicle	contradiction
+Nick Barbaro is the founder of The Austin Chronicle	entailment
+Austin Chronicle Corp	entailment
+The Austin Chronicle is funded through an advertising model	entailment
+The remit of The Austin Chronicle is to cover local entertainment, events, dining and lifestyle with occasional articles related to politics.	entailment
+The mission of The Austin Chronicle is to **cover local entertainment, events, dining, and lifestyle with occasional articles related to politics**	entailment
+The Austin Chronicle tends to the left	entailment
+Other sources have commented on The Austin Chronicle, stating that it tends to be Left biased	entailment
+The factuality of The Austin Chronicle is reported to be High.	entailment
+The factuality of The Austin Chronicle is reported to be High, according to a review by D. Van Zandt 9/8/2018	entailment
+The Austin Chronicle failed a fact-check for an article titled "None in the Last 5 years"	entailment
+The Austin Chronicle chose not to cover Democratic Presidential candidate Joe Biden	contradiction
+The Austin Chronicle relies on advertising for revenue	entailment
+The Austin Chronicle relies on subscriptions for revenue	contradiction
+The Austin Chronicle relies on donations for revenue	contradiction
+When aggregating stories, The Austin Chronicle relies on information from **well-sourced**	entailment
+The Austin Chronicle has endorsed Democratic Presidential candidate Joe Biden	entailment
+The Austin Chronicle has an editorial bias towards \[the\] Left	entailment
+The Austin Chronicle printed a biased article titled "The Hightower Report: Who’s Left for Trump to Tweet-bomb?"	entailment
+The Austin Chronicle's headquarter is located in Austin	entailment
+The Austin Chronicle is funded by the ads government	contradiction
+The Austin Chronicle is a **left-biased**	entailment

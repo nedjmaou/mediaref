@@ -1,0 +1,27 @@
+Norman Podhoretz founded Commentary Magazine	entailment
+Norman Podhoretz is the founder of Commentary Magazine	entailment
+John Podhoretz leads Commentary Magazine	entailment
+Commentary Inc. owns Commentary Magazine	entailment
+Commentary Inc. bought Commentary Magazine.	contradiction
+Commentary Magazine acquired Commentary Magazine	contradiction
+Commentary Magazine is funded through donations	entailment
+The remit of Commentary Magazine is to **publish original news and opinion pieces that favor neoconservatives and are typically pro-Israel**	entailment
+The usual audience of Commentary Magazine is **right-leaning**	entailment
+Commentary Magazine tends to the **right**	entailment
+Other sources have commented on Commentary Magazine, stating that it tends to be right-biased.	entailment
+The factuality of Commentary Magazine is reported to be Mostly Factual	entailment
+The factuality of Commentary Magazine is reported to be Mostly Factual, according to Mediabiasfactcheck.com.	entailment
+Commentary Magazine failed a fact-check for an article titled "The Last Gasp of Covid Fanaticism".	contradiction
+Commentary Magazine chose not to cover Covid-19	contradiction
+Commentary Magazine relies on advertising for revenue	entailment
+Commentary Magazine relies on subscriptions for revenue	entailment
+Commentary Magazine relies on donations for revenue	entailment
+Commentary Magazine has received donations from [Commentary Inc.](https://www.commentary.org/).	entailment
+Commentary Magazine has endorsed neoconservatism.	entailment
+Commentary Magazine has an editorial bias towards **the traditional Republican Party**.	entailment
+John Podhoretz is the editor of Commentary Magazine	entailment
+Commentary Magazine printed a biased article titled Let the Impeachment Turf War Begin	entailment
+Commentary Magazine printed a factually misleading titled "The Worst Climate Change Canard".	entailment
+Commentary Magazine is funded by the United States government	contradiction
+Commentary Magazine is a **monthly**	entailment
+Commentary Magazine covers the following topics: religion, Judaism, politics, and social and cultural issues.	entailment

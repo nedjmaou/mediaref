@@ -1,0 +1,18 @@
+D. Van Zandt is the CEO of Newsservis.com	contradiction
+Newsservis leads Newsservis.com	contradiction
+Newsservis.com is funded through advertising	entailment
+The remit of Newsservis.com is to **spread hyper-partisan conservative news and opinion**	entailment
+Newsservis.com tends to the extreme right-wing bias.	entailment
+Other sources have commented on Newsservis.com, stating that it tends to be **Questionable**	entailment
+The factuality of Newsservis.com is reported to be Questionable	entailment
+The factuality of Newsservis.com is reported to be Questionable, according to D. Van Zandt 	entailment
+Newsservis.com failed a fact-check for an article titled "BARACK OBAMA ANNOUNCES INTENTION TO RUN AS PRESIDENT OF KENYA IN 2021"	entailment
+Newsservis.com chose not to cover Daily Chicago News	entailment
+Newsservis.com relies on advertising for revenue	entailment
+Newsservis.com relies on donations for revenue	contradiction
+When aggregating stories, Newsservis.com relies on information from **a extreme right pro-Trump perspective**	entailment
+Newsservis.com has endorsed **extreme right-wing bias, propaganda, the publication of fake news, poor sourcing, and a complete lack of transparency**	entailment
+Newsservis.com has an editorial bias towards **extreme right-wing bias**	entailment
+Newsservis.com printed a factually misleading titled  **BARACK OBAMA ANNOUNCES INTENTION TO RUN AS PRESIDENT OF KENYA IN 2021**	entailment
+Newsservis.com is a hyper-partisan conservative news and opinion blog.	entailment
+Newsservis.com covers the following topics: hyper-partisan conservative news and opinion.	entailment

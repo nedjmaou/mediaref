@@ -1,0 +1,18 @@
+Alabama Media Group owns Al.com (Alabama News)	entailment
+Donald Newhouse is the owner of Al.com (Alabama News)	entailment
+Advance Publications bought Al.com (Alabama News)	entailment
+Advance Publications acquired Al.com (Alabama News)	entailment
+The remit of Al.com (Alabama News) is to **publish Alabama news as well as national and international news.**	entailment
+The mission of Al.com (Alabama News) is to **publish Alabama news as well as national and international news**	entailment
+Al.com (Alabama News) tends to the **Right-Center Biased**	entailment
+Other sources have commented on Al.com (Alabama News), stating that it tends to be **Right-Center Biased**.	entailment
+The factuality of Al.com (Alabama News) is reported to be High	entailment
+The factuality of Al.com (Alabama News) is reported to be High, according to [Mediabiasfactcheck](https://mediabiasfactcheck.com/united-states-media-profile/).	entailment
+Al.com (Alabama News) failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+Al.com (Alabama News) printed a retraction after failing a fact-check for an article titled **None in the Last 5 years**	contradiction
+When aggregating stories, Al.com (Alabama News) relies on information from **national and international news**.	entailment
+Al.com (Alabama News) has an editorial bias towards **the right**	entailment
+Al.com (Alabama News) had to apologize for None in the Last 5 years	entailment
+Al.com (Alabama News)'s headquarter is located in Alabama	entailment
+Al.com (Alabama News) is funded by the Alabama government	contradiction
+Al.com (Alabama News) is a **news and information site**	entailment

@@ -1,0 +1,21 @@
+Reed Cooper owns Reed Cooper News	entailment
+Reed Cooper is the owner of Reed Cooper News.	entailment
+Reed Cooper News is funded through advertising and a shop that sells branded Pro-Trump merchandise.	entailment
+The remit of Reed Cooper News is to **promote extreme right propaganda and conspiracy theories**	entailment
+The mission of Reed Cooper News is to support America and President Trump.	entailment
+The usual audience of Reed Cooper News is **extreme right**	entailment
+Reed Cooper News tends to the extreme right	entailment
+Other sources have commented on Reed Cooper News, stating that it tends to be **extreme right propaganda**.	entailment
+The factuality of Reed Cooper News is reported to be Questionable	entailment
+The factuality of Reed Cooper News is reported to be questionable, according to D. Van Zandt.	entailment
+Reed Cooper News chose not to cover **news that does not support America and President Trump**	entailment
+Reed Cooper News provides original content written by staff journalists	contradiction
+Reed Cooper News relies on advertising for revenue	entailment
+Reed Cooper News relies on subscriptions for revenue	entailment
+Reed Cooper News relies on donations for revenue	contradiction
+Reed Cooper News has endorsed **Trump**	entailment
+Reed Cooper News has an editorial bias towards extreme right bias.	entailment
+Reed Cooper News printed a biased article titled "Pelosi Has Mental Breakdown, Throws Fit Over Supreme Court Approving Trump’s Wall".	entailment
+Reed Cooper News had to apologize for **no instances of apology were found in the provided text**.	entailment
+Reed Cooper News is a extreme right propaganda and conspiracy source	entailment
+Reed Cooper News covers the following topics: **Pro-Trump propaganda, pro-Trump administration, Trump, America, President Trump, liberal fake news outlets, anti-American news, Nancy Pelosi, Al Sharpton, Baltimore response, whites & cops, Breitbart, Qanon, extreme right propaganda, right-wing conspiracy group, Qanon**	entailment

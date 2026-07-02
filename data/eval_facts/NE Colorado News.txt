@@ -1,0 +1,18 @@
+Metric Media founded NE Colorado News	entailment
+Metric Media Foundation owns NE Colorado News	entailment
+Bradley Cameron is the owner of NE Colorado News	entailment
+Metric Media LLC acquired NE Colorado News	entailment
+NE Colorado News is funded through donations and grants	entailment
+The remit of NE Colorado News is to **look like a local news source**.	entailment
+The mission of NE Colorado News is to **provide objective, data-driven information without political bias**	contradiction
+The usual audience of NE Colorado News is right-center biased.	entailment
+The NE Colorado News tends to the right-center.	entailment
+Other sources have commented on NE Colorado News, stating that it tends to be **right-center biased**	entailment
+The factuality of NE Colorado News is reported to be Questionable	entailment
+The factuality of NE Colorado News is reported to be Questionable, according to D. Van Zandt 02/12/2021.	entailment
+NE Colorado News failed a fact-check for an article titled "An Conservative Perspective on Local Politics".	entailment
+NE Colorado News relies on advertising for revenue	entailment
+NE Colorado News relies on donations for revenue	entailment
+NE Colorado News has endorsed right-center biased and Questionable based on being an imposter website that is designed to look like a local news source as well as a lack of transparency and false information published by their parent company.	entailment
+NE Colorado News has an editorial bias towards right-center.	entailment
+NE Colorado News covers the following topics: Conservative-leaning news	entailment

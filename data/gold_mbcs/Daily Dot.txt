@@ -1,0 +1,12 @@
+History
+Founded in 2011 by Nicholas White, the current editor, The Daily Dot is a digital media company covering Internet culture, politics, and life on the web. According to their
+[about page](https://www.dailydot.com/about/), “In 2011, he launched the Daily Dot as a paper of record for the Web, utilizing little more than Google docs, a newsletter, and a small editorial team.” [Read our profile on the United States government and media.](https://mediabiasfactcheck.com/united-states-media-profile/)
+Funded by / Ownership
+The Daily Dot is owned by Daily Dot, LLC, which is based in Austin, Texas. Revenue is primarily derived from advertising.
+Analysis / Bias
+In review, the Daily Dot mostly covers technology news but also covers culture and politics. For this review, we will focus on politics. The Daily Dot, at worst, uses moderately loaded language in headlines, with most being minimal such as this:
+[MAGA bomber sentenced to 20 years in prison](https://www.dailydot.com/layer8/cesar-sayoc-magabomber-20-years/). This story is appropriately sourced. When reporting on President Trump, the Daily Dot does not have a favorable view, with articles like this: [WTF was Donald Trump doing with his hand at last night’s rally?](https://www.dailydot.com/layer8/trump-jack-off-rally/) And this: [The latest terrifying deepfake combines Donald Trump and Mr. Bean](https://www.dailydot.com/debug/mr-bean-donald-trump-deepfake-video/). This story is also appropriately sourced to credible left-leaning sources such as [Vox](https://mediabiasfactcheck.com/vox/) and the [Washington Post](https://mediabiasfactcheck.com/washington-post/).
+When it comes to science, they support the consensus across the board, such as this on
+[GMOs](https://mediabiasfactcheck.com/pseudoscience-dictionary-gmo-dangers/): [Nobel laureates urge Greenpeace to drop its crusade against GMOs](https://www.dailydot.com/parsec/nobel-laureates-greenpeace-gmos-golden-rice/). In general, the Daily Dot holds a strong left-leaning editorial position while reporting news factually and with evidence.
+Failed Fact Checks
+- None in the Last 5 years

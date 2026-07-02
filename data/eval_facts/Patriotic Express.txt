@@ -1,0 +1,19 @@
+Patriotic Express is funded through online advertising	entailment
+The remit of Patriotic Express is to **promote extreme right-wing bias, conspiracies/propaganda, failed fact checks, poor sourcing, and lack of transparency.**	entailment
+The mission of Patriotic Express is to **promote extreme right-wing bias and conspiracies/propaganda**	entailment
+The usual audience of Patriotic Express is right-wing favored.	entailment
+The text does not contain specific information to fill in the blanks provided.	entailment
+Other sources have commented on Patriotic Express, stating that it tends to be Questionable	entailment
+The factuality of Patriotic Express is reported to be **Questionable**	entailment
+The factuality of Patriotic Express is reported to be questionable, according to D. Van Zandt 1/2/2019.	entailment
+Patriotic Express failed a fact-check for an article titled "Hurricane headed toward migrant caravan not so".	entailment
+Patriotic Express chose not to cover **ownership, an editor, or authorship of articles**	entailment
+Patriotic Express relies on advertising for revenue	entailment
+Patriotic Express relies on donations for revenue	contradiction
+Patriotic Express has endorsed extreme right-wing bias, promotion of conspiracies/propaganda, a failed fact check, poor sourcing, and lack of transparency.	entailment
+Patriotic Express has an editorial bias towards **extreme right-wing bias**	entailment
+Patriotic Express printed a biased article titled "Trump Drops The HAMMER On Comedian Who Made Fun Of Sarah Sanders".	entailment
+Patriotic Express is funded by the  government	contradiction
+Patriotic Express is a hyper-partisan conservative blog	entailment
+Patriotic Express uses a peer review process	contradiction
+Patriotic Express covers the following topics: Politics and News	entailment

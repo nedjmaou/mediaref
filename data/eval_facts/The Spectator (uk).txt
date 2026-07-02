@@ -1,0 +1,24 @@
+Fraser Nelson leads The Spectator (uk)	entailment
+David and Frederick Barclay owns The Spectator (uk)	entailment
+David and Frederick Barclay is the owner of The Spectator (uk)	entailment
+David and Frederick Barclay bought The Spectator (uk)	entailment
+The Barclay brothers acquired The Spectator (uk)	entailment
+The Spectator (uk) is funded through fee-based subscriptions and the sale of classified advertising.	entailment
+The remit of The Spectator (uk) is to cover politics, culture, current affairs, and arts pages on books, music, opera, and film and TV reviews.	entailment
+The mission of The Spectator (uk) is to **cover politics, culture, current affairs, and arts**	entailment
+The usual audience of The Spectator (uk) is **right-leaning**.	entailment
+The Spectator (uk) tends to the right.	entailment
+Other sources have commented on The Spectator (uk), stating that it tends to be **Right-Center biased**	entailment
+The factuality of The Spectator (UK) is reported to be Mostly Factual	entailment
+The factuality of The Spectator (uk) is reported to be Mostly Factual, according to D. Van Zandt 12/1/2016	entailment
+The Spectator (uk) failed a fact-check for an article titled "Theresa May’s Brexit strategy has humiliated Britain"	entailment
+The Spectator (uk) chose not to cover climate change.	contradiction
+The Spectator (uk) relies on advertising for revenue	entailment
+The Spectator (uk) relies on subscriptions for revenue	entailment
+The Spectator (uk) relies on donations for revenue	contradiction
+The Spectator (uk) has an editorial bias towards **the right**.	entailment
+Fraser Nelson is the editor of The Spectator (uk)	entailment
+The Spectator (uk) printed a biased article titled "Theresa May’s Brexit strategy has humiliated Britain"	entailment
+The Spectator (uk) is funded by the British government	contradiction
+The Spectator (uk) is a weekly British conservative magazine.	entailment
+The Spectator (uk) covers the following topics: politics, culture, current affairs, and arts pages on books, music, opera, and film and TV reviews.	entailment

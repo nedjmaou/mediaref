@@ -1,0 +1,23 @@
+Engrost inc. owns Market Realist	entailment
+Engrost inc. is the owner of Market Realist	entailment
+Engrost Inc. bought Market Realist	contradiction
+Engrost inc. acquired Market Realist	contradiction
+Market Realist is funded through online advertising	entailment
+The remit of Market Realist is to be an accessible and empowering source of financial information that can help you take control of your finances.	entailment
+The mission of Market Realist is to be an accessible and empowering source of financial information that can help you take control of your finances.	entailment
+The usual audience of Market Realist is **individuals**	entailment
+Market Realist tends to the left.	entailment
+Other sources have commented on Market Realist, stating that it tends to be Left-Centerbiased	entailment
+The factuality of Market Realist is reported to be High	entailment
+The factuality of Market Realist is reported to be High, according to a source.	entailment
+Market Realist chose not to cover Amazon Is Closing More Stores — These Locations Will Be Impacted	entailment
+Market Realist relies on advertising for revenue	entailment
+Market Realist relies on subscriptions for revenue	entailment
+Market Realist relies on donations for revenue	entailment
+When aggregating stories, Market Realist relies on information from [Reuters](https://mediabiasfactcheck.com/reuters/), [The New York Times, ](https://mediabiasfactcheck.com/new-york-times/), [Fox Business](https://mediabiasfactcheck.com/fox-business/), [Seattle Times](https://mediabiasfactcheck.com/seattle-times/), [Wall Street Journal](https://mediabiasfactcheck.com/wall-street-journal/), and [Geekwire](https://mediabiasfactcheck.com/geekwire-bias/).	entailment
+Market Realist has endorsed Left-Center biased based on story selection and editorial perspective that slightly favors the left.	entailment
+Market Realist has an editorial bias towards **the left**	entailment
+Market Realist had to apologize for **none**	entailment
+Market Realist's headquarter is located in New York	entailment
+Market Realist is funded by the United States government	contradiction
+Market Realist is a financial news and analysis website	entailment

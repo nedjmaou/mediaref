@@ -1,0 +1,20 @@
+Christopher J. Perry founded Philadelphia Tribune	entailment
+Christopher J. Perry is the founder of Philadelphia Tribune	entailment
+Christopher J. Perry is the owner of Philadelphia Tribune	entailment
+Philadelphia Tribune is funded through advertising and subscription fees	entailment
+The remit of Philadelphia Tribune is to **advance the social, political, and economic interests of African Americans in the Greater Philadelphia region**	entailment
+The mission of Philadelphia Tribune is to  serve the African-American community in the Greater Philadelphia region.	entailment
+Philadelphia Tribune tends to the left.	entailment
+Other sources have commented on Philadelphia Tribune, stating that it tends to be **Left-Center biased**	entailment
+The factuality of Philadelphia Tribune is reported to be High	entailment
+The factuality of Philadelphia Tribune is reported to be High, according to mediabiasfactcheck.com.	entailment
+Philadelphia Tribune failed a fact-check for an article titled "None in the Last 5 years"	contradiction
+Philadelphia Tribune relies on advertising for revenue	entailment
+Philadelphia Tribune relies on subscriptions for revenue	entailment
+Philadelphia Tribune relies on donations for revenue	contradiction
+When aggregating stories, Philadelphia Tribune relies on information from credible media outlets such as the Associated Press or through local journalists.	entailment
+Philadelphia Tribune has an editorial bias towards Left-Center.	entailment
+Philadelphia Tribune had to apologize for [nothing].	entailment
+Philadelphia Tribune is funded by the [private] government	entailment
+Philadelphia Tribune is a privately held newspaper	entailment
+Philadelphia Tribune covers the following topics: History, Funding, Analysis / Bias, Failed Fact Checks	entailment

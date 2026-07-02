@@ -1,0 +1,21 @@
+Banned.Video is funded through advertising, sponsored content, and the above-mentioned store that sells various pseudoscience-related health products	entailment
+The remit of Banned.Video is to  promote far-right biased conspiracy and pseudoscience content.	entailment
+The mission of Banned.Video is to promote far-right conspiracy theories and pseudoscience.	entailment
+The usual audience of Banned.Video is **far-right biased conspiracy and pseudoscience website that frequently promotes disinformation**.	entailment
+Banned.Video tends to the extreme right.	entailment
+Other sources have commented on Banned.Video, stating that it tends to be **extreme right biased**.	entailment
+The factuality of Banned.Video is reported to be Extreme Right Biased and a Tin-Foil Hat Conspiracy and Quackery level Pseudoscience source based on the routine publication of disinformation and outright fake news.	entailment
+The factuality of Banned.Video is reported to be extreme right biased and a Tin-Foil Hat Conspiracy and Quackery level Pseudoscience source, according to D. Van Zandt 11/11/2020.	entailment
+Banned.Video failed a fact-check for an article titled "CDC says [the SARS-CoV-2] virus was never airborne, rendering masks worthless".	entailment
+Banned.Video printed a retraction after failing a fact-check for an article titled [#MaidenGate! Dems Using Women’s MAIDEN names to Cast multiple votes for them??](https://banned.video/watch?id=5fab33140ad7422090a95180)	contradiction
+Banned.Video chose not to cover Misleading and unproven information regarding election fraud against Donald Trump.	contradiction
+Banned.Video provides original content written by staff journalists	contradiction
+Banned.Video relies on advertising for revenue	entailment
+When aggregating stories, Banned.Video relies on information from **various right-wing conspiracy theorists**	entailment
+Banned.Video has an editorial bias towards **extreme right**	entailment
+Banned.Video printed a factually misleading titled "CDC says [the SARS-CoV-2] virus was never airborne, rendering masks worthless".	entailment
+Banned.Video is funded by the United States government	contradiction
+Banned.Video is a far-right biased conspiracy and pseudoscience website	entailment
+Banned.Video uses a peer review process	contradiction
+Banned.Video uses an internal fact-checking process	contradiction
+Banned.Video covers the following topics: Extreme Right Biased News, Conspiracy Theories, Pseudoscience, Disinformation, Misinformation, Election Fraud, Covid-19, Climate Change.	entailment

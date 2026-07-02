@@ -1,0 +1,22 @@
+Metric Media Foundation owns Minnesota Business Daily	entailment
+Metric Media LLC is the owner of Minnesota Business Daily	entailment
+Metric Media LLC acquired Minnesota Business Daily	entailment
+Minnesota Business Daily is funded through **advertising and donations to the Metric Media Foundation**	entailment
+The remit of Minnesota Business Daily is to **publish conservative-leaning news and opinion content**	entailment
+The mission of Minnesota Business Daily is to  **disseminate right-leaning editorial bias**.	entailment
+The usual audience of Minnesota Business Daily is **right-leaning**.	entailment
+Minnesota Business Daily tends to the right-center	entailment
+Other sources have commented on Minnesota Business Daily, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of Minnesota Business Daily is reported to be questionable	entailment
+The factuality of Minnesota Business Daily is reported to be Questionable, according to D. Van Zandt 11/16/2022	entailment
+Minnesota Business Daily chose not to cover **objective, data-driven information without political bias**.	entailment
+Minnesota Business Daily relies on advertising for revenue	entailment
+Minnesota Business Daily relies on donations for revenue	entailment
+When aggregating stories, Minnesota Business Daily relies on information from **government and other publicly available sources**.	entailment
+Minnesota Business Daily has endorsed ***right-center, biased, and Questionable***.	entailment
+Minnesota Business Daily has an editorial bias towards **right-center**.	entailment
+Minnesota Business Daily printed a biased article titled "Imposter Site Lacks Transparency and Publishes False Information"	entailment
+Minnesota Business Daily printed a factually misleading titled  "Minnesota Among Worst States for Taxpayers, According to New Ranking"	entailment
+Minnesota Business Daily is funded by the Metric Media Foundation	entailment
+Minnesota Business Daily is a  conservative-leaning news website.	entailment
+Minnesota Business Daily covers the following topics: conservative-leaning news.	entailment

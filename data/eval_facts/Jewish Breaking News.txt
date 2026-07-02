@@ -1,0 +1,20 @@
+The remit of Jewish Breaking News is to **focus on Israeli and Jewish-related breaking news around the world**.	entailment
+The mission of Jewish Breaking News is to  report Israeli and Jewish-related breaking news around the world.	entailment
+Jewish Breaking News tends to the Right-Center	entailment
+Other sources have commented on Jewish Breaking News, stating that it tends to be **Right-Center Biased**	entailment
+The factuality of Jewish Breaking News is reported to be Mixed	entailment
+The factuality of Jewish Breaking News is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Jewish Breaking News failed a fact-check for an article titled "An October 2023 video authentically shows students, faculty and other supporters of Palestine demonstrating at the University of Pennsylvania while chanting, “We want Jewish genocide.”"	entailment
+Jewish Breaking News printed a retraction after failing a fact-check for an article titled "An October 2023 video authentically shows students, faculty and other supporters of Palestine demonstrating at the University of Pennsylvania while chanting, “We want Jewish genocide.”"	contradiction
+Jewish Breaking News relies on advertising for revenue	entailment
+Jewish Breaking News relies on subscriptions for revenue	contradiction
+Jewish Breaking News has received donations from online advertising	entailment
+When aggregating stories, Jewish Breaking News relies on information from credible sources such as the New York Times and CBS News.	entailment
+Jewish Breaking News has endorsed Right-Center Bias	entailment
+Jewish Breaking News has an editorial bias towards Right-Center Bias	entailment
+Edvard Dvir is the editor of Jewish Breaking News	entailment
+Jewish Breaking News printed a biased article titled "Justice Miriam Naor, You Are a Disgusting Individual.".	entailment
+Jewish Breaking News printed a factually misleading titled "An October 2023 video authentically shows students, faculty and other supporters of Palestine demonstrating at the University of Pennsylvania while chanting, “We want Jewish genocide.”"	contradiction
+Jewish Breaking News is funded by the Israeli government	contradiction
+Jewish Breaking News is a news site	entailment
+Jewish Breaking News covers the following topics: Israeli and Jewish-related breaking news around the world	entailment

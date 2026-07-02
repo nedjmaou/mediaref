@@ -1,0 +1,22 @@
+Frontiers Media SA owns Frontiers in Child and Adolescent Psychiatry	entailment
+Frontiers Media SA is the owner of Frontiers in Child and Adolescent Psychiatry	entailment
+Frontiers in Child and Adolescent Psychiatry is funded through digital sales of content and author fees for publication.	entailment
+The remit of Frontiers in Child and Adolescent Psychiatry is to **publish information and research related to children’s psychiatry**.	entailment
+The mission of Frontiers in Child and Adolescent Psychiatry is to **focus on relationships between developmental processes, mental health and psychiatric illness with an ecological and evolutionary view.**	entailment
+The usual audience of Frontiers in Child and Adolescent Psychiatry is pro-Science journal based on peer review and a clean fact-check record.	entailment
+Frontiers in Child and Adolescent Psychiatry tends to the **relationships between developmental processes, mental health and psychiatric illness with an ecological and evolutionary view**	entailment
+Other sources have commented on Frontiers in Child and Adolescent Psychiatry, stating that it tends to be **Pro-Science**.	entailment
+The factuality of Frontiers in Child and Adolescent Psychiatry is reported to be Mostly Factual	entailment
+The factuality of Frontiers in Child and Adolescent Psychiatry is reported to be Mostly Factual, according to D. Van Zandt 	entailment
+Frontiers in Child and Adolescent Psychiatry relies on donations for revenue	contradiction
+When aggregating stories, Frontiers in Child and Adolescent Psychiatry relies on information from **research related to children’s psychiatry**	entailment
+Frontiers in Child and Adolescent Psychiatry has endorsed Pro-Science	entailment
+Frontiers in Child and Adolescent Psychiatry has an editorial bias towards Pro-Science.	entailment
+Frontiers in Child and Adolescent Psychiatry was fined 	entailment
+Frontiers in Child and Adolescent Psychiatry printed a factually misleading titled Pro-Science Journal Based on Peer Review and a Clean Fact-Check Record	entailment
+Frontiers in Child and Adolescent Psychiatry had to apologize for **retracted studies**	contradiction
+Frontiers in Child and Adolescent Psychiatry had to apologize to researchers for retracting studies either pre or post-publication.	entailment
+Frontiers in Child and Adolescent Psychiatry is funded by the Swiss government	contradiction
+Frontiers in Child and Adolescent Psychiatry is a **peer-reviewed open-access journal**	entailment
+Frontiers in Child and Adolescent Psychiatry uses a peer review process	entailment
+Frontiers in Child and Adolescent Psychiatry covers the following topics: **relationships between developmental processes, mental health, and psychiatric illness with an ecological and evolutionary view**.	entailment

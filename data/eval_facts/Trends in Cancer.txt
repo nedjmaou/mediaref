@@ -1,0 +1,16 @@
+Cell Press owns Trends in Cancer	contradiction
+Trends in Cancer is funded through **subscription fees and fees for open-access publishing**	entailment
+The remit of Trends in Cancer is to **cover Cancer Research**	entailment
+The mission of Trends in Cancer is to advance understanding and knowledge in the field of cancer research.	entailment
+Trends in Cancer tends to the Pro-Science	entailment
+Other sources have commented on Trends in Cancer, stating that it tends to be **pro-Science**	entailment
+The factuality of Trends in Cancer is reported to be High	entailment
+The factuality of Trends in Cancer is reported to be High, according to D. Van Zandt	entailment
+Trends in Cancer failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Trends in Cancer printed a retraction after failing a fact-check for an article titled Spatial promoter–enhancer hubs in cancer: organization, regulation, and function	contradiction
+Trends in Cancer chose not to cover Predatory journals	entailment
+Trends in Cancer relies on subscriptions for revenue	entailment
+Trends in Cancer has endorsed Pro-Science	entailment
+Trends in Cancer has an editorial bias towards Pro-Science.	entailment
+Trends in Cancer uses a peer review process	entailment
+Trends in Cancer covers the following topics: Cancer Research	entailment

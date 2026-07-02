@@ -1,0 +1,23 @@
+Bradley Cameron is the founder of South Michigan News	contradiction
+Metric Media Foundation owns South Michigan News	entailment
+Metric Media LLC is the owner of South Michigan News	entailment
+Metric Media LLC bought South Michigan News	entailment
+South Michigan News is funded through advertising and donations to the Metric Media Foundation.	entailment
+The remit of South Michigan News is to **impose a right-leaning editorial bias**	entailment
+The mission of South Michigan News is to **fill the void in community news after years of decline in local reporting by legacy media**.	entailment
+The usual audience of South Michigan News is right-center	entailment
+The South Michigan News tends to the right-centerbiased.	entailment
+Other sources have commented on South Michigan News, stating that it tends to be **right-center, biased, and Questionable**.	entailment
+The factuality of South Michigan News is reported to be Questionable	entailment
+The factuality of South Michigan News is reported to be **Questionable**, according to **D. Van Zandt 10/31/2022**.	entailment
+South Michigan News relies on advertising for revenue	entailment
+South Michigan News relies on donations for revenue	entailment
+South Michigan News has received donations from **advertising and donations to the Metric Media Foundation**	entailment
+When aggregating stories, South Michigan News relies on information from **algorithmically produced content**	entailment
+The South Michigan News has endorsed right-center, biased, and Questionable	entailment
+South Michigan News has an editorial bias towards right-center	entailment
+South Michigan News printed a biased article titled **Imposter Site and Lack of Transparency**	entailment
+South Michigan News printed a factually misleading titled **Imposter Site**	entailment
+South Michigan News is funded by the Metric Media Foundation	entailment
+South Michigan News is a **conservative-leaning news**	entailment
+South Michigan News covers the following topics: **Conservative news and opinion.**	entailment

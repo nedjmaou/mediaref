@@ -1,0 +1,25 @@
+Newsquest Media Group Ltd owns Ilkley Gazette	entailment
+Newsquest Media Group Ltd is the owner of Ilkley Gazette	entailment
+Newsquest Media Group Ltd bought Ilkley Gazette	entailment
+Newsquest Media Group Ltd acquired Ilkley Gazette	contradiction
+Ilkley Gazette is funded through advertising and subscription fees	entailment
+The remit of Ilkley Gazette is to cover local news for the Ilkley area through reporters with minimal bias.	entailment
+The mission of Ilkley Gazette is to provide fact-based and minimally biased reporting.	entailment
+The usual audience of Ilkley Gazette is **local residents of the Ilkley area**	entailment
+Ilkley Gazette tends to the **least biased**.	entailment
+Other sources have commented on Ilkley Gazette, stating that it tends to be **least biased**	entailment
+The factuality of Ilkley Gazette is reported to be Least biased.	entailment
+The factuality of Ilkley Gazette is reported to be high, according to Media Bias Fact Check.	entailment
+Ilkley Gazette failed a fact-check for an article titled **None in the Last 5 years**	contradiction
+Ilkley Gazette printed a retraction after failing a fact-check for an article titled Firefighters forced to train in polluted River Wharfe in Ilkley	contradiction
+Ilkley Gazette chose not to cover failed fact checks	entailment
+Ilkley Gazette relies on advertising for revenue	entailment
+Ilkley Gazette relies on subscriptions for revenue	entailment
+Ilkley Gazette relies on donations for revenue	contradiction
+When aggregating stories, Ilkley Gazette relies on information from **first-person accounts and large quotes**	entailment
+Ilkley Gazette has endorsed least biased	entailment
+Ilkley Gazette has an editorial bias towards least biased	entailment
+Who is the editor of Ilkley Gazette	entailment
+Ilkley Gazette is funded by the  government	contradiction
+Ilkley Gazette is a newspaper	entailment
+Ilkley Gazette covers the following topics: news and politics, lifestyle and culture, local events and news related to the Ilkley area	entailment

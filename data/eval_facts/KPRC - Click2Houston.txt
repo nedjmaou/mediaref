@@ -1,0 +1,21 @@
+Graham Holdings owns KPRC - Click2Houston	entailment
+Graham Holdings is the owner of KPRC - Click2Houston	entailment
+Graham Holdings bought KPRC - Click2Houston	entailment
+KPRC - Click2Houston is funded through **advertising and sponsored content**	entailment
+The remit of KPRC - Click2Houston is to provide news, crime, sports, weather, and lifestyle for the greater Houston area.	entailment
+The mission of KPRC - Click2Houston is to report news, crime, sports, weather, and lifestyle for the greater Houston area.	entailment
+The usual audience of KPRC - Click2Houston is **the greater Houston area**	entailment
+KPRC - Click2Houston tends to the  Least Biased	entailment
+Other sources have commented on KPRC - Click2Houston, stating that it tends to be **Least Biased**	entailment
+The factuality of KPRC - Click2Houston is reported to be High	entailment
+The factuality of KPRC - Click2Houston is reported to be High, according to Media Bias/Fact Check	entailment
+KPRC - Click2Houston chose not to cover "Failed Fact Checks"	entailment
+KPRC - Click2Houston relies on advertising for revenue	entailment
+KPRC - Click2Houston relies on subscriptions for revenue	entailment
+When aggregating stories, KPRC - Click2Houston relies on information from the Associated Press.	entailment
+KPRC - Click2Houston has an editorial bias towards **least biased**	entailment
+KPRC - Click2Houston printed a factually misleading titled  "Pedestrian fatally struck by vehicle in hit-and-run in NW Harris County, HCSO says".	entailment
+KPRC - Click2Houston had to apologize for None in the Last 5 years	entailment
+KPRC - Click2Houston is funded by the **advertising** government	contradiction
+KPRC - Click2Houston is a **least biased**	entailment
+KPRC - Click2Houston covers the following topics:  news, crime, sports, weather, and lifestyle.	entailment

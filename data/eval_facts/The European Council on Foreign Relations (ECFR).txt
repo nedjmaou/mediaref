@@ -1,0 +1,25 @@
+Mark Leonard is the founder of The European Council on Foreign Relations (ECFR)	entailment
+Mark Leonard leads The European Council on Foreign Relations (ECFR)	entailment
+George Soros’s Open Society Foundation bought The European Council on Foreign Relations (ECFR)	entailment
+George Soros’s Open Society Foundation acquired The European Council on Foreign Relations (ECFR)	entailment
+The European Council on Foreign Relations (ECFR) is funded through donations	entailment
+The remit of The European Council on Foreign Relations (ECFR) is to conduct research and promote informed debate across Europe on the development of coherent and effective European values-based foreign policy.	entailment
+The mission of The European Council on Foreign Relations (ECFR) is to conduct research and promote informed debate across Europe on the development of coherent and effective European values-based foreign policy.	entailment
+The European Council on Foreign Relations (ECFR) tends to the **Left-Center**.	entailment
+Other sources have commented on The European Council on Foreign Relations (ECFR), stating that it tends to be **Left-Center Bias**.	entailment
+The factuality of The European Council on Foreign Relations (ECFR) is reported to be highly factual	entailment
+The factuality of The European Council on Foreign Relations (ECFR) is reported to be highly factual, according to M. Huitsing 1/9/2018.	entailment
+The European Council on Foreign Relations (ECFR) failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+The European Council on Foreign Relations (ECFR) chose not to cover **any failed fact checks**	entailment
+The European Council on Foreign Relations (ECFR) relies on advertising for revenue	entailment
+The European Council on Foreign Relations (ECFR) relies on subscriptions for revenue	contradiction
+The European Council on Foreign Relations (ECFR) relies on donations for revenue	entailment
+When aggregating stories, The European Council on Foreign Relations (ECFR) relies on information from credible sources.	entailment
+The European Council on Foreign Relations (ECFR) has endorsed conducting research and promoting informed debate across Europe on the development of coherent and effective European values-based foreign policy.	entailment
+The European Council on Foreign Relations (ECFR) has an editorial bias towards **the left**	entailment
+The European Council on Foreign Relations (ECFR) was fined 	entailment
+The European Council on Foreign Relations (ECFR) printed a biased article titled "How Britain Lost Its Cool".	entailment
+The European Council on Foreign Relations (ECFR)'s headquarter is located in Berlin	entailment
+The European Council on Foreign Relations (ECFR) is a pan-European think tank	entailment
+The European Council on Foreign Relations (ECFR) uses a peer review process	entailment
+The European Council on Foreign Relations (ECFR) covers the following topics: conduct research and promote informed debate across Europe on the development of coherent and effective European values-based foreign policy.	entailment

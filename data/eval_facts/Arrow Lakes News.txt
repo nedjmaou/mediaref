@@ -1,0 +1,21 @@
+Black Press Media owns Arrow Lakes News	entailment
+Black Press Media is the owner of Arrow Lakes News	entailment
+Black Press Media bought Arrow Lakes News	entailment
+Arrow Lakes News is funded through **advertising generates revenue**	entailment
+The remit of Arrow Lakes News is to cover news, sports, crime, and business for the greater Arrow Lakes, BC, area.	entailment
+The mission of Arrow Lakes News is to provide news, sports, crime, and business coverage for the greater Arrow Lakes, BC, area.	entailment
+The usual audience of Arrow Lakes News is  local residents	entailment
+Arrow Lakes News tends to the left	entailment
+Other sources have commented on Arrow Lakes News, stating that it tends to be **slightly Left-Center biased**.	entailment
+The factuality of Arrow Lakes News is reported to be High	entailment
+The factuality of Arrow Lakes News is reported to be High, according to a source on mediabiasfactcheck.com.	entailment
+Arrow Lakes News failed a fact-check for an article titledNone in the Last 5 years.	contradiction
+Arrow Lakes News chose not to cover political op-eds.	entailment
+Arrow Lakes News relies on advertising for revenue	entailment
+Arrow Lakes News relies on donations for revenue	contradiction
+When aggregating stories, Arrow Lakes News relies on information from [Associated Press](https://mediabiasfactcheck.com/associated-press/) and [Canadian Press](https://mediabiasfactcheck.com/the-canadian-press/).	entailment
+Arrow Lakes News has an editorial bias towards left-leaning.	entailment
+Arrow Lakes News's headquarter is located in Arrow Lakes	entailment
+Arrow Lakes News is funded by the Canadian government	entailment
+Arrow Lakes News is a newspaper	entailment
+Arrow Lakes News covers the following topics: news, sports, crime, and business.	entailment

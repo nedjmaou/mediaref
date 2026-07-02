@@ -1,0 +1,21 @@
+NBC leads WBTS - NBC 10 - Boston	entailment
+NBCUniversal owns WBTS - NBC 10 - Boston	entailment
+NBCUniversal is the owner of WBTS - NBC 10 - Boston	entailment
+NBC bought WBTS - NBC 10 - Boston	contradiction
+NBC acquired WBTS - NBC 10 - Boston	entailment
+WBTS - NBC 10 - Boston is funded through advertising and sponsored content	entailment
+The mission of WBTS - NBC 10 - Boston is to **cover local news through reporters with minimal bias**.	entailment
+WBTS - NBC 10 - Boston tends to the left	entailment
+Other sources have commented on WBTS - NBC 10 - Boston, stating that it tends to be Left-Center Biased	entailment
+The factuality of WBTS - NBC 10 - Boston is reported to be High	entailment
+The factuality of WBTS - NBC 10 - Boston is reported to be High, according to D. Van Zandt 07/14/2022	entailment
+WBTS - NBC 10 - Boston failed a fact-check for an article titled **None in the Last 5 years**.	contradiction
+WBTS - NBC 10 - Boston chose not to cover opinion content.	entailment
+WBTS - NBC 10 - Boston relies on advertising for revenue	entailment
+WBTS - NBC 10 - Boston relies on subscriptions for revenue	contradiction
+WBTS - NBC 10 - Boston relies on donations for revenue	contradiction
+When aggregating stories, WBTS - NBC 10 - Boston relies on information from **first-hand accounts and other credible media sources**.	entailment
+WBTS - NBC 10 - Boston has an editorial bias towards **the left**	entailment
+The biased article titled "Mass. Senate Passes Reproductive Rights Bill; Now Work Starts on Final Compromise"	entailment
+WBTS - NBC 10 - Boston is a Left-Center Biased	entailment
+WBTS - NBC 10 - Boston covers the following topics: local news, weather, sports, crime, and lifestyle	entailment

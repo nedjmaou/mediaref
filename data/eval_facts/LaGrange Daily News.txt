@@ -1,0 +1,17 @@
+Boone Newspapers owns LaGrange Daily News	entailment
+LaGrange Daily News is funded through advertising and subscription fees	entailment
+The remit of LaGrange Daily News is to cover local, national, crime, and sports news.	entailment
+LaGrange Daily News tends to the Right-Center	entailment
+Other sources have commented on LaGrange Daily News, stating that it tends to be Right-Center Biased	entailment
+The factuality of LaGrange Daily News is reported to be High	entailment
+The factuality of LaGrange Daily News is reported to be High, according to Mediabiasfactcheck.	entailment
+LaGrange Daily News failed a fact-check for an article titled Commissioners approve hiring grants manager, two firefighters.	contradiction
+LaGrange Daily News chose not to cover failed fact checks	entailment
+LaGrange Daily News relies on advertising for revenue	entailment
+LaGrange Daily News relies on subscriptions for revenue	entailment
+LaGrange Daily News relies on donations for revenue	contradiction
+When aggregating stories, LaGrange Daily News relies on information from **local journalists**	entailment
+LaGrange Daily News has an editorial bias towards right	entailment
+LaGrange Daily News is funded by the private government	contradiction
+LaGrange Daily News is a newspaper	entailment
+LaGrange Daily News covers the following topics: local, national, crime, and sports news	entailment

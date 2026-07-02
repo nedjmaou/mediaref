@@ -1,0 +1,20 @@
+Knox founded WVKC - NPR - Galesburg	entailment
+Knox College owns WVKC - NPR - Galesburg	entailment
+Knox College bought WVKC - NPR - Galesburg	entailment
+Knox College acquired WVKC - NPR - Galesburg.	entailment
+WVKC - NPR - Galesburg is funded through institutional grants, individual contributions, and fees paid by users of the Public Radio Satellite System.	entailment
+WVKC - NPR - Galesburg tends to the left	entailment
+Other sources have commented on WVKC - NPR - Galesburg, stating that it tends to be Left-Center Biased	entailment
+The factuality of WVKC - NPR - Galesburg is reported to be High	entailment
+The factuality of WVKC - NPR - Galesburg is reported to be high, according to proper sourcing of information and a clean fact check record.	entailment
+WVKC - NPR - Galesburg chose not to cover **any failed fact checks in the Last 5 years**	entailment
+WVKC - NPR - Galesburg relies on advertising for revenue	contradiction
+WVKC - NPR - Galesburg relies on subscriptions for revenue	contradiction
+WVKC - NPR - Galesburg has received donations from  Knox College	entailment
+When aggregating stories, WVKC - NPR - Galesburg relies on information from NPR, American Public Media, and the Corporation for Public Broadcasting	entailment
+WVKC - NPR - Galesburg has endorsed Left-Center Bias	entailment
+WVKC - NPR - Galesburg has an editorial bias towards **the left**	entailment
+WVKC - NPR - Galesburg's headquarter is located in Galesburg	entailment
+The text provided does not contain information to fill in the blanks.	entailment
+WVKC - NPR - Galesburg is a **NPR FM radio station**.	entailment
+WVKC - NPR - Galesburg covers the following topics:  History	entailment

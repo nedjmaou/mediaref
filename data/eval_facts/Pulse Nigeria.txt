@@ -1,0 +1,24 @@
+Leonard Stiegeler founded Pulse Nigeria.	entailment
+Leonard Stiegeler is the founder of Pulse Nigeria	entailment
+Leonard Stiegeler owns Pulse Nigeria	entailment
+Pulse Nigeria is funded through **advertising fees**	entailment
+The remit of Pulse Nigeria is to inform and engage Africa’s young population	entailment
+The mission of Pulse Nigeria is to inform and engage Africa’s young population.	entailment
+Pulse Nigeria tends to the left	entailment
+Other sources have commented on Pulse Nigeria, stating that it tends to be Left-Center biased.	entailment
+The factuality of Pulse Nigeria is reported to be Moderate	entailment
+The factuality of Pulse Nigeria is reported to be Mixed, according to M. Huitsing 	entailment
+Pulse Nigeria failed a fact-check for an article titled **A UNICEF report said pornography is not always harmful to children and blocking children from watching pornography online violates their rights.**	entailment
+Pulse Nigeria chose not to cover  climate change.	contradiction
+Pulse Nigeria relies on advertising for revenue	entailment
+Pulse Nigeria relies on subscriptions for revenue	entailment
+Pulse Nigeria relies on donations for revenue	contradiction
+When aggregating stories, Pulse Nigeria relies on information from The News Agency of Nigeria.	entailment
+Pulse Nigeria has endorsed left-leaning issues.	entailment
+Pulse Nigeria has an editorial bias towards left-	entailment
+Pulse Nigeria printed a biased article titled  "Tinubu emergence, sign of better days for Nigeria – Akpabio".	entailment
+Pulse Nigeria printed a factually misleading titled  "Death of homogeneity and the rise of gender diversity in Tech"	entailment
+Pulse Nigeria's headquarter is located in Lagos	entailment
+Pulse Nigeria is funded by the Federal Government of Nigeria	contradiction
+Pulse Nigeria is a **Left-Center biased**	entailment
+Pulse Nigeria covers the following topics: current affairs, entertainment, sports, and lifestyle.	entailment

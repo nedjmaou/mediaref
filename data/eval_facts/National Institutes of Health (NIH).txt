@@ -1,0 +1,21 @@
+The owner of National Institutes of Health (NIH) is the US Department of Health and Human Services	entailment
+NIH bought National Institutes of Health (NIH)	contradiction
+NIH acquired National Institutes of Health (NIH)	contradiction
+National Institutes of Health (NIH) is funded through the US government	entailment
+The remit of National Institutes of Health (NIH) is to conduct research in different disciplines of biomedical science.	entailment
+The mission of National Institutes of Health (NIH) is to advance scientific knowledge and improve health.	entailment
+The usual audience of National Institutes of Health (NIH) is **the nation's medical research agency**.	entailment
+National Institutes of Health (NIH) tends to the **nation’s medical research agency**	entailment
+Other sources have commented on National Institutes of Health (NIH), stating that it tends to be Pro-Science.	entailment
+The factuality of National Institutes of Health (NIH) is reported to be Pro-Science	entailment
+The factuality of National Institutes of Health (NIH) is reported to be Pro-Science, according to D. Van Zandt 8/26/2016	entailment
+National Institutes of Health (NIH) failed a fact-check for an article titled "None in the Last 5 years".	contradiction
+National Institutes of Health (NIH) printed a retraction after failing a fact-check for an article titled "None in the Last 5 years"	entailment
+National Institutes of Health (NIH) chose not to cover **failed fact checks**	entailment
+National Institutes of Health (NIH) has received donations from donors	entailment
+The National Institutes of Health (NIH) has endorsed Pro-Science	entailment
+National Institutes of Health (NIH) has an editorial bias towards pro-science	entailment
+National Institutes of Health (NIH) had to apologize for **failed fact checks**	contradiction
+The National Institutes of Health (NIH) is funded by the US government	entailment
+The National Institutes of Health (NIH) is a biomedical research facility	entailment
+National Institutes of Health (NIH) covers the following topics: diseases and medical conditions broken down by symptoms, causes, and treatments as well as clinical trials they are working on to combat disease.	entailment

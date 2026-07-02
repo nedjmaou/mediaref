@@ -1,0 +1,21 @@
+Stanisław Brzozowski founded Political Critique	entailment
+Stanisław Brzozowski is the founder of Political Critique	entailment
+Stanisław Brzozowski Association owns Political Critique	entailment
+Stanisław Brzozowski is the owner of Political Critique	contradiction
+Political Critique bought Political Critique	entailment
+Political Critique is funded through **donations**.	entailment
+The remit of Political Critique is to **revive the tradition of engaged Polish intelligentsia**	entailment
+The mission of Political Critique is to revive the tradition of engaged Polish intelligentsia.	entailment
+Political Critique tends to the  Left-Center biased.	entailment
+Other sources have commented on Political Critique, stating that it tends to be **Left-Center biased**.	entailment
+The factuality of Political Critique is reported to be High	entailment
+The factuality of Political Critique is reported to be High, according to (D. Van Zandt 12/12/2016) updated (12/4/2020)	entailment
+Political Critique relies on subscriptions for revenue	contradiction
+Political Critique relies on donations for revenue	entailment
+Political Critique has received donations from **revenue**.	entailment
+When aggregating stories, Political Critique relies on information from [Salon](https://mediabiasfactcheck.com/salon/).	entailment
+Political Critique has endorsed **strongly Left-Center biased**.	entailment
+Political Critique has an editorial bias towards **the left**	entailment
+Political Critique printed a biased article titled  "The Future of European Gender Politics".	entailment
+Political Critique is a Left-Center biased	entailment
+Political Critique covers the following topics: social science, culture, and politics	entailment

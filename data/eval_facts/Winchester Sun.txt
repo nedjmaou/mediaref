@@ -1,0 +1,18 @@
+Boone Newspapers owns Winchester Sun	entailment
+Winchester Sun is funded through advertising and subscription fees	entailment
+The remit of Winchester Sun is to  primarily cover local news, sports, weather, and entertainment through the use of local journalists.	entailment
+The Winchester Sun tends to the right	entailment
+Other sources have commented on Winchester Sun, stating that it tends to be **Right-Center Biased**	entailment
+The factuality of Winchester Sun is reported to be High	entailment
+The factuality of Winchester Sun is reported to be High, according to D. Van Zandt	entailment
+Winchester Sun failed a fact-check for an article titled "Clark County Public Library continues to find new ways to engage young readers".	contradiction
+Winchester Sun provides original content written by staff journalists	entailment
+Winchester Sun relies on advertising for revenue	entailment
+Winchester Sun relies on subscriptions for revenue	entailment
+Winchester Sun relies on donations for revenue	contradiction
+When aggregating stories, Winchester Sun relies on information from **local journalists**	entailment
+Winchester Sun has an editorial bias towards right.	entailment
+Winchester Sun's headquarter is located in Winchester	entailment
+The Winchester Sun is funded by the private government	contradiction
+The Winchester Sun is a newspaper	entailment
+The Winchester Sun covers the following topics: local news, sports, weather, and entertainment	entailment

@@ -1,0 +1,22 @@
+Bill Moyers is the founder of BillMoyers.com	entailment
+Bill Moyers is the CEO of BillMoyers.com	entailment
+Schumann Media Center, Inc. owns BillMoyers.com	entailment
+Schumann Media Center, Inc. acquired BillMoyers.com	contradiction
+The remit of BillMoyers.com is to **mainly publish commentary that favors the liberal and progressive left**	entailment
+The usual audience of BillMoyers.com is **liberal and progressive left**.	entailment
+BillMoyers.com tends to the left	entailment
+Other sources have commented on BillMoyers.com, stating that it tends to be left-biased	entailment
+The factuality of BillMoyers.com is reported to be Mostly Factual	entailment
+The factuality of BillMoyers.com is reported to be Mostly Factual, according to D. Van Zandt 2/25/2017	entailment
+BillMoyers.com failed a fact-check for an article titled "Stamp Out the Trump Attacks on Our Postal Service!"	entailment
+BillMoyers.com chose not to cover the United States government and media.	contradiction
+BillMoyers.com relies on advertising for revenue	contradiction
+BillMoyers.com relies on subscriptions for revenue	entailment
+BillMoyers.com relies on donations for revenue	entailment
+When aggregating stories, BillMoyers.com relies on information from **a mix of reporters and other journalists, scholars, activists, and creative individuals**	entailment
+BillMoyers.com has endorsed the liberal and progressive left	entailment
+BillMoyers.com has an editorial bias towards liberal and progressive left	entailment
+BillMoyers.com printed a biased article titled America’s Dirty Divide: How Environmental Racism Leaves the Vulnerable Behind.	entailment
+BillMoyers.com printed a factually misleading titled "Stamp Out the Trump Attacks on Our Postal Service!".	entailment
+BillMoyers.com is a left-biased website	entailment
+BillMoyers.com covers the following topics: liberal and progressive left.	entailment

@@ -1,0 +1,19 @@
+Galadari Printing and Publishing Co	entailment
+The Dubai Government bought Khaleej Times	contradiction
+Khaleej Times is funded through advertising and subscriptions	entailment
+The remit of Khaleej Times is to **provide news with a “special focus on the UAE and its people.”**	entailment
+The mission of Khaleej Times is to  provide news with a “special focus on the UAE and its people.”	entailment
+The usual audience of Khaleej Times is **people in the UAE**	entailment
+The Khaleej Times tends to the right.	entailment
+Other sources have commented on Khaleej Times, stating that it tends to be right-center biased.	entailment
+The factuality of Khaleej Times is reported to be Mixed	entailment
+The factuality of Khaleej Times is reported to be **Mixed**, according to **Mediabiasfactcheck**.	entailment
+Khaleej Times chose not to cover the Biden administration negatively.	contradiction
+Khaleej Times relies on advertising for revenue	entailment
+Khaleej Times relies on donations for revenue	contradiction
+When aggregating stories, Khaleej Times relies on information from **Emirates News Agency (WAM), the official news agency of the United Arab Emirates, AFP, Reuters, and the AP**.	entailment
+Khaleej Times has endorsed the Dubai Government and the Galadari Brothers.	entailment
+Khaleej Times has an editorial bias towards **the right-leaning government**	entailment
+Khaleej Times's headquarter is located in Dubai.	entailment
+Khaleej Times is a newspaper	entailment
+Khaleej Times covers the following topics: UAE news, entertainment, lifestyle, and global events	entailment

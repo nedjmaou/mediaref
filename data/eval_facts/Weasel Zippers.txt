@@ -1,0 +1,22 @@
+Weasel Zippers is funded through online advertising and donations	entailment
+The remit of Weasel Zippers is to **favor the right and denigrate the left**	entailment
+The mission of Weasel Zippers is to scour the bowels of the internet.	entailment
+The usual audience of Weasel Zippers is **individuals who lean conservative or favor right-leaning news sources**	entailment
+Weasel Zippers tends to the right	entailment
+Other sources have commented on Weasel Zippers, stating that it tends to be **Right Biased**	entailment
+The factuality of Weasel Zippers is reported to be  Right Biased	entailment
+The factuality of Weasel Zippers is reported to be Mixed, according to Media Bias/Fact Check.	entailment
+Weasel Zippers failed a fact-check for an article titled "None in the last 5 years."	contradiction
+Weasel Zippers chose not to cover **their writers creating original content**	entailment
+Weasel Zippers provides original content written by staff journalists	contradiction
+Weasel Zippers relies on advertising for revenue	entailment
+Weasel Zippers relies on subscriptions for revenue	entailment
+Weasel Zippers relies on donations for revenue	entailment
+When aggregating stories, Weasel Zippers relies on information from **various sources**	entailment
+Weasel Zippers has endorsed the right and denigrated the left.	entailment
+Weasel Zippers has an editorial bias towards **the right**	entailment
+Weasel Zippers printed a biased article titled "Scouring the Bowels of the Internet"	entailment
+Weasel Zippers is funded by the United States government	contradiction
+Weasel Zippers is a **Right Biased**	entailment
+Weasel Zippers uses a peer review process	entailment
+Weasel Zippers uses an internal fact-checking process	entailment
