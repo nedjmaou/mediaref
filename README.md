@@ -29,11 +29,12 @@ Code, evaluation scripts, and annotations will be released soon.
 If you use MEDIAREF, please cite https://arxiv.org/abs/2607.02383:
 
 ```bibtex
-@article{nichols2026knowyoursource,
+@article{nichols2026knowsource,
   title={Know Your Source: A Public Knowledge Store for Media Background Checks},
   author={Nichols, Benjamin and Schlichtkrull, Michael and Ousidhoum, Nedjma},
-  journal={arXiv},
-  year={2026}
+  journal={arXiv preprint arXiv:2607.02383},
+  year={2026},
+  url={https://arxiv.org/abs/2607.02383}
 }
 ```
 
