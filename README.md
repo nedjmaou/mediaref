@@ -1,6 +1,6 @@
 # Know Your Source: A Public Knowledge Store for Media Background Checks
 
-This repository accompanies the paper **"Know Your Source: A Public Knowledge Store for Media Background Checks"** and provides access to the **MEDIAREF** knowledge store.
+This repository accompanies the paper [**"Know Your Source: A Public Knowledge Store for Media Background Checks"**](https://arxiv.org/abs/2607.02383) and provides access to the **MEDIAREF** knowledge store.
 
 ## 📦 Dataset
 
@@ -26,7 +26,7 @@ Code, evaluation scripts, and annotations will be released soon.
 
 ## Citation
 
-If you use MEDIAREF, please cite:
+If you use MEDIAREF, please cite https://arxiv.org/abs/2607.02383:
 
 ```bibtex
 @article{nichols2026knowyoursource,
@@ -37,7 +37,6 @@ If you use MEDIAREF, please cite:
 }
 ```
 
-*(The BibTeX entry will be updated once the paper receives its official arXiv identifier.)*
 
 ## License
 
